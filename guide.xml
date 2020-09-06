@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="EXPLORER Shkence">
+    <display-name lang="sq">EXPLORER Shkence</display-name>
+    <url>http://www.albepg</url>
+  </channel>
+  <programme start="20200906000000 +0000" stop="20200906005500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Horrori i vërtetë-Drakula</title>
+    <desc lang="sq">Ato jane histori te frikshme qe rrefejne jeten e llahtarshme te tre prej personazheve me te tmerrshem te historise njerezore: Njeriut - Ujk, Frankeshtajnit dhe Drakulës.(n)</desc>
+    <category lang="sq">Histori</category>
+  </programme>
+  <programme start="20200906005500 +0000" stop="20200906020000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Vende të ndaluara</title>
+    <desc lang="sq">Nga malet e thepisura të Tibetit dhe deri te një laborator sekret në fund të oqeanit, do të eksplorojmë vendet më të ndaluara në botë. A është e mundur që një agjent i spiunazhit industrial të vjedhë planet sekrete për makinën e së ardhmes.(n)</desc>
+    <category lang="sq">Sekrete të parrëfyera-10</category>
+  </programme>
+  <programme start="20200906020000 +0000" stop="20200906030500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Kërkimi i fëmijëve, Srebrenice</title>
+    <desc lang="sq">Në një minierë të braktisur kripe, gjenden kockat e disa prej 7500 burrave, grave e fëmijëve që vdiqën në masakrën e Srebrenicës. Trupat e tyre mund të varrosen vetëm pasi të jenë identifikuar me emrat në listën e të humburve.(n)</desc>
+    <category lang="sq">Cikli: Gjueti njerëzore-3</category>
+  </programme>
+  <programme start="20200906030500 +0000" stop="20200906040500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Katastrofat 1</title>
+    <desc lang="sq">Natyra shpeshherë tregohet e pamëshirshme, duke lëshuar mbi tokë fenomene që krijojnë katastrofa të vërteta dhe shkatërrime të paimagjinueshme. Ndiqni histori të mbijetesave heroike dhe pamje rrënqethëse të katastrofave.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906040500 +0000" stop="20200906050000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Kafeja</title>
+    <desc lang="sq">Eshtë pija më e përdorur në botë. Eshtë kënaqësi për miliona njerëz dhe nevojë për shumë të tjerë. Kafeja do të vazhdojë të luajë rolin e saj të rëndësishëm, për aq kohë sa do të vazhdojë të vërë botën në lëvizje çdo mëngjes.(n)</desc>
+    <category lang="sq">Rubrika: Qytetërim</category>
+  </programme>
+  <programme start="20200906050000 +0000" stop="20200906055000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Hapesira: ëndrra është gjallë</title>
+    <desc lang="sq">Dokumentari flet per misionet hapesinore duke perfshire dhe misionin e vitit 1984 per riparimin e nje sateliti te demtuar.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906055000 +0000" stop="20200906065000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Jeta sekrete e Formula 1</title>
+    <desc lang="sq">Gara me e bukur me makina. Inxhinieret me te zote dhe pilotet me te mire.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+    <category lang="sq">teknologji</category>
+    <category lang="sq">sporti</category>
+  </programme>
+  <programme start="20200906065000 +0000" stop="20200906080500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">F-4 Phantom</title>
+    <desc lang="sq">Avioni F-4 Phantom ishte avioni luftarak më i suksesshëm i të gjitha kohërave, duke thyer me shumë se 22 rekorde botërore. Pati një rol të padiskutueshëm në luftën e Vietnamit dhe mbetet një nga avionët më të rëndësishëm.(n)</desc>
+    <category lang="sq">Avionët klasikë ushtarakë</category>
+  </programme>
+  <programme start="20200906080500 +0000" stop="20200906090000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Overhaulin'-Shndërrim total 26</title>
+    <desc lang="sq">Nëse makina jote është një rrangallë, ky është programi i duhur. Çdo javë, një pronari fatlum, i merret fshehurazi makina dhe një ekip spektakolar ndër më të mirët në Amerikë, ia kthen në një xhevahir të vërtetë.(n)</desc>
+    <category lang="sq">Rubrika: Sport</category>
+  </programme>
+  <programme start="20200906090000 +0000" stop="20200906095500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Punë të pista 1</title>
+    <desc lang="sq">Te pastrosh kanalet e fekaleve apo te mbledhesh topat e golfit ne nje pellg me uje te ndenjur, te pastrosh oxhaket apo rruget nga kafshet e ngordhura, pune qe i bejne njerez te vecante dhe per ne eshte nje profesion i çuditshem ose pune te pista.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906095500 +0000" stop="20200906105000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Alienët e lashtësisë 11</title>
+    <desc lang="sq">Cdo ditë e më shumë, shtohen zërat se në të shkuarën jemi vizituar nga qenie jashtëtokësore? Por a ka prova? Kush ishin? Nga vinin? Çfarë lanë pas? Ku shkuan? A do të kthehen, apo kurrë s'kanë ikur.(n)</desc>
+    <category lang="sq">Sezoni VII</category>
+  </programme>
+  <programme start="20200906105000 +0000" stop="20200906114500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Policia Britanike 7</title>
+    <desc lang="sq">Do të ndjekim nga afër aksionet dhe ndërhyrjet e shpejta, të reparteve elitare, të policisë Britanike. Do të shohim si e luftojnë ata dhunën dhe shkeljen e rendit publik.(n)</desc>
+    <category lang="sq">Grupet e nderhyrjes</category>
+  </programme>
+  <programme start="20200906114500 +0000" stop="20200906124000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Gjuajtja perfekte II</title>
+    <desc lang="sq">Një cikël interesant për të gjithë të apasionuarit pas armëve ku qitës të specialiteteve të ndryshme që do të rivalizojnë si në skuadra ashtu edhe individualisht me armë moderne dhe të vjetra e ku çdo javë do të eleminohet një qitës.(n)</desc>
+    <category lang="sq">Dokumentar-7</category>
+  </programme>
+  <programme start="20200906124000 +0000" stop="20200906133500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Punë të rrezikshme-1</title>
+    <desc lang="sq">Cilët janë njerëzit që marrim përsipër një punë ku çdo ditë bëhet ndryshimi mes jetës dhe vdekjes? Po sikur turni i ardhshëm të jetë edhe i fundit? Një udhëtim nëpër botë, për të takuar punëtorët e përkushtuar që e vënë përditë jetën në rrezik.(n)</desc>
+    <category lang="sq">Rubrika: Aventure</category>
+  </programme>
+  <programme start="20200906133500 +0000" stop="20200906143000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Universi i keq</title>
+    <desc lang="sq">Universi është vend i rrezikshëm. Rreziqet mund të vijnë nga të gjitha drejtimet... Por sa e njohim ne universin... Astronomi Fil Plejti kërkon të sjellë të vërtetën... Njihuni me shkencën e vërtetë që fshihet pas mistereve të planetit..(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906143000 +0000" stop="20200906152000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Prova me e forte 2</title>
+    <desc lang="sq">kembemadhi. Disa nga misteret më jetëgjata në botë, të cilave ende sot nuk i është dhënë një shpjegim. Një egzaminim i fakteve, për të kuptuar arsyet e vërteta, pse ato kanë ndodhur.(n)</desc>
+    <category lang="sq">Kembemadhi</category>
+  </programme>
+  <programme start="20200906152000 +0000" stop="20200906162000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Peshku juaj i brendshëm</title>
+    <desc lang="sq">Ndiqni shkencëtarin Nil Shubin, i cili ka vendosur të eksplorojë trupin e njeriut. Ai do të udhëtojë në skajet më të largëta të pemës sonë gjenealogjike dhe do të takojë një kast të pazakontë personazhesh, paraardhësit që i dhanë formë trupit tonë.(n)</desc>
+    <category lang="sq">Dokumentar-2</category>
+  </programme>
+  <programme start="20200906162000 +0000" stop="20200906172000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Kolumbia: Misioni i  Shpresës</title>
+    <desc lang="sq">Më 1 shkurt 2003, 7 astronautët në bordin e anijes Shatëll Kolumbia, humbën jetën. Kjo është historia e njërit prej tyre, Ilan Ramon, austronauti i parë Izraelit dhe e dorëshkrimeve të tij.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906172000 +0000" stop="20200906181000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Lojërat e Mendjes II</title>
+    <desc lang="sq">Nga realiteti i hamendësuar tek paragjykimet dhe pritshmëritë që krijojnë lojërat e mendjes njerëzore, ky cikël dokumentarësh do të na ndihmojë t'i afrohemi më shumë pamjes së vërtetë së botës që na rrethon.(n)</desc>
+    <category lang="sq">Shkence-11</category>
+    <category lang="sq">12</category>
+  </programme>
+  <programme start="20200906181000 +0000" stop="20200906190000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Kuriozitete</title>
+    <desc lang="sq">Cikli dokumentar Kuriozitete, do të shpalos disa prej mistereve më të përfolura, në fusha të ndryshme si Histori, Arkeologji, Mjeksi, Natyrë , Biologji, Antropologji etj.(n)</desc>
+    <category lang="sq">Kur robotet do te sundojne</category>
+  </programme>
+  <programme start="20200906190000 +0000" stop="20200906200000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Përtej traumës</title>
+    <desc lang="sq">Cfarë ndodh në sektorët kryesorë të trurit që prodhon simptoma të ndryshme, në njerëz që kanë përjetuar të njëtat skena horror? Mjekët janë afër zbulimit të kurës së personalizuar për të shëruar sëmundjen e rëndë të crregullimit post-traumatik.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906200000 +0000" stop="20200906205500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Përtej ndihmës njerëzore</title>
+    <desc lang="sq">3 sëmundje të çuditshme: Kelsi vuan nga trikotilo-mania. Keti vuan nga skizofrenia. Xhimi ka çrregullim bipolar. Por tani ekziston një zgjidhje. Kush janë kafshët që u vinë në ndihmë dhe mund të bëjë atë që njerëzit nuk e bëjnë dot..(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906205500 +0000" stop="20200906215000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Paratë e pista 11,12</title>
+    <desc lang="sq">Njihuni me Jimmy DiResta, një gjeni krijues, që i kthen plehrat në para. Bashkë me vëllain e tij John DiResta, ata blejnë ose gjejnë artikuj të hedhur dhe të padëshiruar, i rregullojnë ato si të ishin të reja dhe i shesin..(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200906215000 +0000" stop="20200906225500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Histori arratie 6</title>
+    <desc lang="sq">Histori spektakolare arratisjesh, te pabesueshme por te verteta. Histori qe tregohen anembane globit dhe jane kthyer ne legjenda urbane.(n)</desc>
+    <category lang="sq">Aventure</category>
+  </programme>
+  <programme start="20200906225500 +0000" stop="20200907005500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Sekreti im 9,10</title>
+    <desc lang="sq">12 njerëz, një e fshehtë e përbashkët: një trup që e urrejnë. Pas vitesh duke vuajtur në heshtje, ata kanë vendosur të zbulojnë të fshehtën e tyre. Me ndihmën e psikoterapistes A.Mutanda, ata do të ballafaqohen me problemin e tyre.(n)</desc>
+    <category lang="sq">Dokumentar-II</category>
+  </programme>
+  <programme start="20200907005500 +0000" stop="20200907023000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Historia e Land Rover</title>
+    <desc lang="sq">Nëse ka makina që reflektojnë forcë, karakter, bukuri, janë vetëm dy mbretër të tillë: Land Rover dhe Range Rover. Me stil dhe të besueshme, çmohen në të gjithë botën për përformancën e tyre.(n)</desc>
+    <category lang="sq">Rubrika: Inxhinieri</category>
+  </programme>
+  <programme start="20200907023000 +0000" stop="20200907033000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Katastrofat 2</title>
+    <desc lang="sq">Natyra shpeshherë tregohet e pamëshirshme, duke lëshuar mbi tokë fenomene që krijojnë katastrofa të vërteta dhe shkatërrime të paimagjinueshme. Ndiqni histori të mbijetesave heroike dhe pamje rrënqethëse të katastrofave.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200907033000 +0000" stop="20200907045000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Klarkson-Shkele gazin</title>
+    <desc lang="sq">Shpejtësi, adrenalinë, siguri... Rikthehet Xheremi Klarkson, për të na bërë një paraqitje të arritjeve më të fundit të teknologjisë automobilistike... Markat më të njohura, sukseset e sotme dhe projeksionet e së nesërmes..(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200907045000 +0000" stop="20200907054500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Kombi Hummer</title>
+    <desc lang="sq">Asnjë makinë nuk ka përçarë më shumë publikun se një Hummer. U krijua për ushtrinë amerikane, shumë shpejt do të tërhiqte vëmendjen e publikut. Një gjigand që ose dashurohet ose urrehet.(n)</desc>
+    <category lang="sq">Rubrika: Teknologji</category>
+  </programme>
+  <programme start="20200907054500 +0000" stop="20200907065000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Jeta sekrete e Formula 1 pj.2</title>
+    <desc lang="sq">Dokumentar historik mbi zhvillimin e teknologjise ne disiplinen me te shpejte ne automobilizem.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+    <category lang="sq">sport</category>
+  </programme>
+  <programme start="20200907065000 +0000" stop="20200907075500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Avioni 'Vulcan'</title>
+    <desc lang="sq">Ishte avioni i parë delta në botë. Filloi të sulmonte në vitin 1957, me kapacitetin për të mbajtur me mijëra bomba, madje edhe një bombë atomike.(n)</desc>
+    <category lang="sq">Avionët klasikë ushtarakë</category>
+  </programme>
+  <programme start="20200907075500 +0000" stop="20200907085000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Magjia e fluturimit</title>
+    <desc lang="sq">Magjia e avioneve fluturues dhe shumellojshmeria e tyre. Pilotet dhe njerezit te cilet merren me keta avione.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200907085000 +0000" stop="20200907095000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Punë të pista 2</title>
+    <desc lang="sq">Te pastrosh kanalet e fekaleve apo te mbledhesh topat e golfit ne nje pellg me uje te ndenjur, te pastrosh oxhaket apo rruget nga kafshet e ngordhura, pune qe i bejne njerez te vecante dhe per ne eshte nje profesion i çuditshem ose pune te pista.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200907095000 +0000" stop="20200907104500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Alienët e lashtësisë 12</title>
+    <desc lang="sq">Cdo ditë e më shumë, shtohen zërat se në të shkuarën jemi vizituar nga qenie jashtëtokësore? Por a ka prova? Kush ishin? Nga vinin? Çfarë lanë pas? Ku shkuan? A do të kthehen, apo kurrë s'kanë ikur.(n)</desc>
+    <category lang="sq">Sezoni VII</category>
+  </programme>
+  <programme start="20200907104500 +0000" stop="20200907114500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Policia Britanike 8</title>
+    <desc lang="sq">Do të ndjekim nga afër aksionet dhe ndërhyrjet e shpejta, të reparteve elitare, të policisë Britanike. Do të shohim si e luftojnë ata dhunën dhe shkeljen e rendit publik.(n)</desc>
+    <category lang="sq">Grupet e nderhyrjes</category>
+  </programme>
+  <programme start="20200907114500 +0000" stop="20200907124000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Gjuajtja perfekte II</title>
+    <desc lang="sq">Një cikël interesant për të gjithë të apasionuarit pas armëve ku qitës të specialiteteve të ndryshme që do të rivalizojnë si në skuadra ashtu edhe individualisht me armë moderne dhe të vjetra e ku çdo javë do të eleminohet një qitës.(n)</desc>
+    <category lang="sq">Dokumentar-8</category>
+  </programme>
+  <programme start="20200907124000 +0000" stop="20200907134000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Punë të rrezikshme-2</title>
+    <desc lang="sq">Cilët janë njerëzit që marrim përsipër një punë ku çdo ditë bëhet ndryshimi mes jetës dhe vdekjes? Po sikur turni i ardhshëm të jetë edhe i fundit? Një udhëtim nëpër botë, për të takuar punëtorët e përkushtuar që e vënë përditë jetën në rrezik.(n)</desc>
+    <category lang="sq">Rubrika: Aventure</category>
+  </programme>
+  <programme start="20200907134000 +0000" stop="20200907143000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Universi i keq</title>
+    <desc lang="sq">Universi është vend i rrezikshëm. Rreziqet mund të vijnë nga të gjitha drejtimet... Por sa e njohim ne universin... Astronomi Fil Plejti kërkon të sjellë të vërtetën... Njihuni me shkencën e vërtetë që fshihet pas mistereve të planetit..(n)</desc>
+    <category lang="sq">Dokumentar-2</category>
+  </programme>
+  <programme start="20200907143000 +0000" stop="20200907152500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Prova me e forte 3</title>
+    <desc lang="sq">kembemadhi. Disa nga misteret më jetëgjata në botë, të cilave ende sot nuk i është dhënë një shpjegim. Një egzaminim i fakteve, për të kuptuar arsyet e vërteta, pse ato kanë ndodhur.(n)</desc>
+    <category lang="sq">Gjurmet kimike</category>
+  </programme>
+  <programme start="20200907152500 +0000" stop="20200907162500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Mali i Shën Helenës</title>
+    <desc lang="sq">Vullkani i Malit të Shën Helenës asgjesoi shek. e kaluar në 600 km katrorë çdo formë te jetës. A po zgjohet sot ky vullkan? Cfarë kanë zbuluar studiuesit për misteret në thellësi të këtij mali? A po përgatitet ky mal të shpërthejë përsëri.(n)</desc>
+    <category lang="sq">Rikthim nga vdekja</category>
+  </programme>
+  <programme start="20200907162500 +0000" stop="20200907172000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Makina misterioze</title>
+    <desc lang="sq">Cfarë ishin Makinat Prototip që u shpikën në Amerikën e viteve 1950?Çfarë ndodhi me to? Pse shumica u shkatërruan dhe disa të tjera u zhdukën. Le të zbulojmë sëbashku ato që çuditërisht kanë mbijetuar.(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+  <programme start="20200907172000 +0000" stop="20200907181000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Lojërat e Mendjes III</title>
+    <desc lang="sq">Nga realiteti i hamendësuar tek paragjykimet dhe pritshmëritë që krijojnë lojërat e mendjes njerëzore, ky cikël dokumentarësh do të na ndihmojë t'i afrohemi më shumë pamjes së vërtetë së botës që na rrethon.(n)</desc>
+    <category lang="sq">Shkence-1</category>
+    <category lang="sq">2</category>
+  </programme>
+  <programme start="20200907181000 +0000" stop="20200907190000 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Kuriozitete</title>
+    <desc lang="sq">Cikli dokumentar Kuriozitete, do të shpalos disa prej mistereve më të përfolura, në fusha të ndryshme si Histori, Arkeologji, Mjeksi, Natyrë , Biologji, Antropologji etj.(n)</desc>
+    <category lang="sq">Lavazhi i trurit</category>
+  </programme>
+  <programme start="20200907190000 +0000" stop="20200907200500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Trupi i mrekullueshëm i njeriu</title>
+    <desc lang="sq">Jetojmë në një epokë të jashtëzakonshme shkencore, ku zbulimet e reja po shfaqin funksionimin e fshehtë të trupave tanë në mënyra që nuk janë parë ndonjëherë. Ti mund të mendosh që e di se kush je, por tani është koha ta zbulosh vërtetë..(n)</desc>
+    <category lang="sq">Dokumentar-3</category>
+  </programme>
+  <programme start="20200907200500 +0000" stop="20200907215500 +0000" channel="EXPLORER Shkence">
+    <title lang="sq">Makthi</title>
+    <desc lang="sq">Miliona njerëz përjetojnë paralizën e gjumit para se të flenë ose kur zgjohen. Për disa, simptomat e 'paralizes së gjumit' janë shumë tronditëse. Kjo është historia e tetë personave dhe asaj që i pret në errësirë..(n)</desc>
+    <category lang="sq">Dokumentar</category>
+  </programme>
+</tv>
