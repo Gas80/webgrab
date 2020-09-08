@@ -6,7 +6,7 @@
     <url>http://www.tring.al</url>
   </channel>
   <channel id="JOLLY HD">
-    <display-name lang="sq">JOLLY HD</display-name>
+    <display-name lang="sq">Jolly HD</display-name>
     <icon src="https://www.tring.al/manager/includes/picker/images/jollyhd.png" />
     <url>http://www.tring.al</url>
   </channel>
@@ -30,12 +30,8 @@
     <icon src="https://www.tring.al/manager/includes/picker/images/3plus.png" />
     <url>http://www.tring.al</url>
   </channel>
-  <channel id="KanalD Drama">
-    <display-name lang="sq">KanalD Drama</display-name>
-    <url>http://www.tring.al</url>
-  </channel>
   <channel id="TRING SHQIPI">
-    <display-name lang="sq">TRING SHQIPI</display-name>
+    <display-name lang="sq">Tring Shqip</display-name>
     <url>http://www.tring.al</url>
   </channel>
   <channel id="Tring Tring">
@@ -78,8 +74,8 @@
     <icon src="https://www.tring.al/manager/includes/picker/images/tring-fantasy.png" />
     <url>http://www.tring.al</url>
   </channel>
-  <channel id="FOX">
-    <display-name lang="sq">FOX</display-name>
+  <channel id="FOX al">
+    <display-name lang="sq">Fox</display-name>
     <icon src="https://www.tring.al/manager/includes/picker/images/fox_200x60px.png" />
     <url>http://www.tring.al</url>
   </channel>
@@ -127,18 +123,6 @@
     <icon src="https://www.tring.al/manager/includes/picker/images/klan-plus.png" />
     <url>http://www.tring.al</url>
   </channel>
-  <channel id="Club TV">
-    <display-name lang="sq">Club TV</display-name>
-    <url>http://www.tring.al</url>
-  </channel>
-  <channel id="Fax News">
-    <display-name lang="sq">Fax News</display-name>
-    <url>http://www.tring.al</url>
-  </channel>
-  <channel id="ABC NEWS">
-    <display-name lang="sq">ABC NEWS</display-name>
-    <url>http://www.tring.al</url>
-  </channel>
   <channel id="Folk +">
     <display-name lang="sq">Folk +</display-name>
     <icon src="https://www.tring.al/manager/includes/picker/images/folk.png" />
@@ -147,10 +131,6 @@
   <channel id="BBF">
     <display-name lang="sq">bbf</display-name>
     <icon src="https://www.tring.al/manager/includes/picker/images/bbf.png" />
-    <url>http://www.tring.al</url>
-  </channel>
-  <channel id="Elrodi">
-    <display-name lang="sq">Elrodi</display-name>
     <url>http://www.tring.al</url>
   </channel>
   <channel id="Tring Sport News HD">
@@ -1893,234 +1873,6 @@
   <programme start="20200909220000 +0200" stop="20200909231500 +0200" channel="Tring 3 Plus">
     <title lang="sq">Sekretet e Shtetit pj 5 - Premierë</title>
     <desc lang="sq">Serial, Dramë: Ana Shantali largohet nga pallati kryeministror, ndërkohë që Paula Kampijo rikthehet në detyrë dhe përgatit strategjinë për ta nxjerrë atë jashtë loje. Alberto dhe Ana deklarojnë në një konferencë për shtyp ndarjen e përkohshme. Gutierrez Kasasi pushon nga puna Karlosin, në mënyrë që të mos hetojë më për vdekjen e Roza Agirres.(n)</desc>
-  </programme>
-  <programme start="20200908003500 +0200" stop="20200908012500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 116</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Kerimi kërkon të dijë arsyen se pse Selda do 500 mijë dollarë. Do tia tregojë ajo? Sulltana do të grindet me Fatmën dhe do ta qellojë me shuplakë.  Si do të reagojë Nesrini për këtë?(n)</desc>
-  </programme>
-  <programme start="20200908012500 +0200" stop="20200908021000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 40</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Sema mbetet e tronditur kur zbulon se Seferi ka ndihmuar vrasësin e babait të saj të strehohet. Sadretini dhe Songyli vendosin ti shkojnë në shtëpi doktorit, çfarë do të ndodhë atje? Njerëzit e Bahiut bëhen gati ti bëjnë atentat Zaferit pa e ditur se në makinë ndodhet e bija e tij dhe Aishegyli.(n)</desc>
-  </programme>
-  <programme start="20200908021000 +0200" stop="20200908030000 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 116</title>
-    <desc lang="sq">Serial, Dramë/Familje: Mete kërkon të bëjë një ndryshim në jetën e tij, por Zhalja është e vendosur të mos heqë dorë prej tij dhe bën çmos ta largojë nga Nihali. Kenani vazhdon të këmbëngulë që Aliu të pranojë pozicionin e punës si këshilltari i tij personal. Si do të reagojë Xhemilja kur ta shohë Aliun brenda në kompani?(n)</desc>
-  </programme>
-  <programme start="20200908030000 +0200" stop="20200908034500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 116</title>
-    <desc lang="sq">Serial, Histori/Dramë: Filiposi i shpreh Leonit keqardhjen për mungesën e një ceremonie për ngritjen në detyrë. Havaja shkon të flasë me Sametin në jetimore. Tefiku dhe Xhevdeti vënë në dyshim qëllimet patriotike të Dastanit.(n)</desc>
-  </programme>
-  <programme start="20200908034500 +0200" stop="20200908043000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 13</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Mustafai bisedon me Jasharin dhe vendos ta kthejë Narinin në shtëpi. Por si do ta presë Asija këtë gjë? Mustafai, i xhindosur nga largimi dhe refuzimi i Narinit, hakmerret ndaj doktorit. Por gjërat sdo të shkojnë sipas planit të tij.(n)</desc>
-  </programme>
-  <programme start="20200908043000 +0200" stop="20200908051500 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 40</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Sema mbetet e tronditur kur zbulon se Seferi ka ndihmuar vrasësin e babait të saj të strehohet. Sadretini dhe Songyli vendosin ti shkojnë në shtëpi doktorit, çfarë do të ndodhë atje? Njerëzit e Bahiut bëhen gati ti bëjnë atentat Zaferit pa e ditur se në makinë ndodhet e bija e tij dhe Aishegyli.(n)</desc>
-  </programme>
-  <programme start="20200908051500 +0200" stop="20200908060000 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 116</title>
-    <desc lang="sq">Serial, Dramë/Familje: Mete kërkon të bëjë një ndryshim në jetën e tij, por Zhalja është e vendosur të mos heqë dorë prej tij dhe bën çmos ta largojë nga Nihali. Kenani vazhdon të këmbëngulë që Aliu të pranojë pozicionin e punës si këshilltari i tij personal. Si do të reagojë Xhemilja kur ta shohë Aliun brenda në kompani?(n)</desc>
-  </programme>
-  <programme start="20200908060000 +0200" stop="20200908064500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 116</title>
-    <desc lang="sq">Serial, Histori/Dramë: Filiposi i shpreh Leonit keqardhjen për mungesën e një ceremonie për ngritjen në detyrë. Havaja shkon të flasë me Sametin në jetimore. Tefiku dhe Xhevdeti vënë në dyshim qëllimet patriotike të Dastanit.(n)</desc>
-  </programme>
-  <programme start="20200908064500 +0200" stop="20200908073000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 13</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Mustafai bisedon me Jasharin dhe vendos ta kthejë Narinin në shtëpi. Por si do ta presë Asija këtë gjë? Mustafai, i xhindosur nga largimi dhe refuzimi i Narinit, hakmerret ndaj doktorit. Por gjërat sdo të shkojnë sipas planit të tij.(n)</desc>
-  </programme>
-  <programme start="20200908073000 +0200" stop="20200908082500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 116</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Kerimi kërkon të dijë arsyen se pse Selda do 500 mijë dollarë. Do tia tregojë ajo? Sulltana do të grindet me Fatmën dhe do ta qellojë me shuplakë.  Si do të reagojë Nesrini për këtë?(n)</desc>
-  </programme>
-  <programme start="20200908082500 +0200" stop="20200908091000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 40</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Sema mbetet e tronditur kur zbulon se Seferi ka ndihmuar vrasësin e babait të saj të strehohet. Sadretini dhe Songyli vendosin ti shkojnë në shtëpi doktorit, çfarë do të ndodhë atje? Njerëzit e Bahiut bëhen gati ti bëjnë atentat Zaferit pa e ditur se në makinë ndodhet e bija e tij dhe Aishegyli.(n)</desc>
-  </programme>
-  <programme start="20200908091000 +0200" stop="20200908100500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 116</title>
-    <desc lang="sq">Serial, Dramë/Familje: Mete kërkon të bëjë një ndryshim në jetën e tij, por Zhalja është e vendosur të mos heqë dorë prej tij dhe bën çmos ta largojë nga Nihali. Kenani vazhdon të këmbëngulë që Aliu të pranojë pozicionin e punës si këshilltari i tij personal. Si do të reagojë Xhemilja kur ta shohë Aliun brenda në kompani?(n)</desc>
-  </programme>
-  <programme start="20200908100500 +0200" stop="20200908105000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 116</title>
-    <desc lang="sq">Serial, Histori/Dramë: Filiposi i shpreh Leonit keqardhjen për mungesën e një ceremonie për ngritjen në detyrë. Havaja shkon të flasë me Sametin në jetimore. Tefiku dhe Xhevdeti vënë në dyshim qëllimet patriotike të Dastanit.(n)</desc>
-  </programme>
-  <programme start="20200908105000 +0200" stop="20200908114000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 13</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Mustafai bisedon me Jasharin dhe vendos ta kthejë Narinin në shtëpi. Por si do ta presë Asija këtë gjë? Mustafai, i xhindosur nga largimi dhe refuzimi i Narinit, hakmerret ndaj doktorit. Por gjërat sdo të shkojnë sipas planit të tij.(n)</desc>
-  </programme>
-  <programme start="20200908114000 +0200" stop="20200908124000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 116</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Kerimi kërkon të dijë arsyen se pse Selda do 500 mijë dollarë. Do tia tregojë ajo? Sulltana do të grindet me Fatmën dhe do ta qellojë me shuplakë.  Si do të reagojë Nesrini për këtë?(n)</desc>
-  </programme>
-  <programme start="20200908124000 +0200" stop="20200908133000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 40</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Sema mbetet e tronditur kur zbulon se Seferi ka ndihmuar vrasësin e babait të saj të strehohet. Sadretini dhe Songyli vendosin ti shkojnë në shtëpi doktorit, çfarë do të ndodhë atje? Njerëzit e Bahiut bëhen gati ti bëjnë atentat Zaferit pa e ditur se në makinë ndodhet e bija e tij dhe Aishegyli.(n)</desc>
-  </programme>
-  <programme start="20200908133000 +0200" stop="20200908142000 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 116</title>
-    <desc lang="sq">Serial, Dramë/Familje: Mete kërkon të bëjë një ndryshim në jetën e tij, por Zhalja është e vendosur të mos heqë dorë prej tij dhe bën çmos ta largojë nga Nihali. Kenani vazhdon të këmbëngulë që Aliu të pranojë pozicionin e punës si këshilltari i tij personal. Si do të reagojë Xhemilja kur ta shohë Aliun brenda në kompani?(n)</desc>
-  </programme>
-  <programme start="20200908142000 +0200" stop="20200908151000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 116</title>
-    <desc lang="sq">Serial, Histori/Dramë: Filiposi i shpreh Leonit keqardhjen për mungesën e një ceremonie për ngritjen në detyrë. Havaja shkon të flasë me Sametin në jetimore. Tefiku dhe Xhevdeti vënë në dyshim qëllimet patriotike të Dastanit.(n)</desc>
-  </programme>
-  <programme start="20200908151000 +0200" stop="20200908160000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 13</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Mustafai bisedon me Jasharin dhe vendos ta kthejë Narinin në shtëpi. Por si do ta presë Asija këtë gjë? Mustafai, i xhindosur nga largimi dhe refuzimi i Narinit, hakmerret ndaj doktorit. Por gjërat sdo të shkojnë sipas planit të tij.(n)</desc>
-  </programme>
-  <programme start="20200908160000 +0200" stop="20200908170000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 117 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Handani dhe Selda do të detyrohen tia japin paratë djalit që i kërcënon. Do ti marrin ato të gjitha provat që mund të çojnë Handanin në burg? Kerimi do ti kërkojë llogari Sulltanës për grindjen me Fatmën, çfarë do ti tregojë ajo?(n)</desc>
-  </programme>
-  <programme start="20200908170000 +0200" stop="20200908175000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 41 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Pojrazi i bën një vizitë të papritur Aishegylit në punën e saj. Pasi ka zbuluar pajisjen e përgjimit, Zaferi vazhdon lojën në mënyrë që Bahriu të dëgjojë gjoja qëllimet e tij të mira. Çfarë plani thurin Pojrazi dhe Aishegyli për të marrë kasetat nga kasaforta e Bahriut?(n)</desc>
-  </programme>
-  <programme start="20200908175000 +0200" stop="20200908184500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Familje: Karolina ka në plan të shkojë te Soneri dhe, me pretekstin për ta falënderuar, ta joshë atë. Por planin e saj e zbulon Mesudja, e cila i tregon gjithçka Ajlinit. Grevistët përfundojnë të gjithë në komisariat. Familja e Berinit rend pranë saj për të mësuar së çfarë ka ndodhur.(n)</desc>
-  </programme>
-  <programme start="20200908184500 +0200" stop="20200908193000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 117 - Premierë</title>
-    <desc lang="sq">Serial, Histori/Dramë: Të rinjve të Frontit Patriotik u dështon plani për të shpëtuar Mehmetin dhe Hilali mbetet e plagosur. Xhevdeti dëgjon Leonin që, në kllapi e sipër, kërkon Hilalin. Dastani debaton ashpër me Azizen për drejtimet që po marrin në luftë.(n)</desc>
-  </programme>
-  <programme start="20200908193000 +0200" stop="20200908202000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 14  - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asllani i jep Kadirit disa dokumente për të firmosur. Çfshihet në të vërtetë pas tyre? Një vajzë e re shkon në hotel për të takuar Asllanin. Cila është ajo? Mustafai përplas Baharin me makinë pranë shtëpisë së tyre. Çndodh pasi e çon atë në shtëpi?(n)</desc>
-  </programme>
-  <programme start="20200908202000 +0200" stop="20200908212000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 117</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Handani dhe Selda do të detyrohen tia japin paratë djalit që i kërcënon. Do ti marrin ato të gjitha provat që mund të çojnë Handanin në burg? Kerimi do ti kërkojë llogari Sulltanës për grindjen me Fatmën, çfarë do ti tregojë ajo?(n)</desc>
-  </programme>
-  <programme start="20200908212000 +0200" stop="20200908221000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 41</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Pojrazi i bën një vizitë të papritur Aishegylit në punën e saj. Pasi ka zbuluar pajisjen e përgjimit, Zaferi vazhdon lojën në mënyrë që Bahriu të dëgjojë gjoja qëllimet e tij të mira. Çfarë plani thurin Pojrazi dhe Aishegyli për të marrë kasetat nga kasaforta e Bahriut?(n)</desc>
-  </programme>
-  <programme start="20200908221000 +0200" stop="20200908225500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117</title>
-    <desc lang="sq">Serial, Dramë/Familje: Karolina ka në plan të shkojë te Soneri dhe, me pretekstin për ta falënderuar, ta joshë atë. Por planin e saj e zbulon Mesudja, e cila i tregon gjithçka Ajlinit. Grevistët përfundojnë të gjithë në komisariat. Familja e Berinit rend pranë saj për të mësuar së çfarë ka ndodhur.(n)</desc>
-  </programme>
-  <programme start="20200908225500 +0200" stop="20200908234500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 117</title>
-    <desc lang="sq">Serial, Histori/Dramë: Të rinjve të Frontit Patriotik u dështon plani për të shpëtuar Mehmetin dhe Hilali mbetet e plagosur. Xhevdeti dëgjon Leonin që, në kllapi e sipër, kërkon Hilalin. Dastani debaton ashpër me Azizen për drejtimet që po marrin në luftë.(n)</desc>
-  </programme>
-  <programme start="20200908234500 +0200" stop="20200909003500 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 14</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asllani i jep Kadirit disa dokumente për të firmosur. Çfshihet në të vërtetë pas tyre? Një vajzë e re shkon në hotel për të takuar Asllanin. Cila është ajo? Mustafai përplas Baharin me makinë pranë shtëpisë së tyre. Çndodh pasi e çon atë në shtëpi?(n)</desc>
-  </programme>
-  <programme start="20200909003500 +0200" stop="20200909012500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 117</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Handani dhe Selda do të detyrohen tia japin paratë djalit që i kërcënon. Do ti marrin ato të gjitha provat që mund të çojnë Handanin në burg? Kerimi do ti kërkojë llogari Sulltanës për grindjen me Fatmën, çfarë do ti tregojë ajo?(n)</desc>
-  </programme>
-  <programme start="20200909012500 +0200" stop="20200909021500 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 41</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Pojrazi i bën një vizitë të papritur Aishegylit në punën e saj. Pasi ka zbuluar pajisjen e përgjimit, Zaferi vazhdon lojën në mënyrë që Bahriu të dëgjojë gjoja qëllimet e tij të mira. Çfarë plani thurin Pojrazi dhe Aishegyli për të marrë kasetat nga kasaforta e Bahriut?(n)</desc>
-  </programme>
-  <programme start="20200909021500 +0200" stop="20200909030000 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117</title>
-    <desc lang="sq">Serial, Dramë/Familje: Karolina ka në plan të shkojë te Soneri dhe, me pretekstin për ta falënderuar, ta joshë atë. Por planin e saj e zbulon Mesudja, e cila i tregon gjithçka Ajlinit. Grevistët përfundojnë të gjithë në komisariat. Familja e Berinit rend pranë saj për të mësuar së çfarë ka ndodhur.(n)</desc>
-  </programme>
-  <programme start="20200909030000 +0200" stop="20200909034500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 117</title>
-    <desc lang="sq">Serial, Histori/Dramë: Të rinjve të Frontit Patriotik u dështon plani për të shpëtuar Mehmetin dhe Hilali mbetet e plagosur. Xhevdeti dëgjon Leonin që, në kllapi e sipër, kërkon Hilalin. Dastani debaton ashpër me Azizen për drejtimet që po marrin në luftë.(n)</desc>
-  </programme>
-  <programme start="20200909034500 +0200" stop="20200909043000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 14</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asllani i jep Kadirit disa dokumente për të firmosur. Çfshihet në të vërtetë pas tyre? Një vajzë e re shkon në hotel për të takuar Asllanin. Cila është ajo? Mustafai përplas Baharin me makinë pranë shtëpisë së tyre. Çndodh pasi e çon atë në shtëpi?(n)</desc>
-  </programme>
-  <programme start="20200909043000 +0200" stop="20200909052000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 41</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Pojrazi i bën një vizitë të papritur Aishegylit në punën e saj. Pasi ka zbuluar pajisjen e përgjimit, Zaferi vazhdon lojën në mënyrë që Bahriu të dëgjojë gjoja qëllimet e tij të mira. Çfarë plani thurin Pojrazi dhe Aishegyli për të marrë kasetat nga kasaforta e Bahriut?(n)</desc>
-  </programme>
-  <programme start="20200909052000 +0200" stop="20200909060500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117</title>
-    <desc lang="sq">Serial, Dramë/Familje: Karolina ka në plan të shkojë te Soneri dhe, me pretekstin për ta falënderuar, ta joshë atë. Por planin e saj e zbulon Mesudja, e cila i tregon gjithçka Ajlinit. Grevistët përfundojnë të gjithë në komisariat. Familja e Berinit rend pranë saj për të mësuar së çfarë ka ndodhur.(n)</desc>
-  </programme>
-  <programme start="20200909060500 +0200" stop="20200909065000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 117</title>
-    <desc lang="sq">Serial, Histori/Dramë: Të rinjve të Frontit Patriotik u dështon plani për të shpëtuar Mehmetin dhe Hilali mbetet e plagosur. Xhevdeti dëgjon Leonin që, në kllapi e sipër, kërkon Hilalin. Dastani debaton ashpër me Azizen për drejtimet që po marrin në luftë.(n)</desc>
-  </programme>
-  <programme start="20200909065000 +0200" stop="20200909073500 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 14</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asllani i jep Kadirit disa dokumente për të firmosur. Çfshihet në të vërtetë pas tyre? Një vajzë e re shkon në hotel për të takuar Asllanin. Cila është ajo? Mustafai përplas Baharin me makinë pranë shtëpisë së tyre. Çndodh pasi e çon atë në shtëpi?(n)</desc>
-  </programme>
-  <programme start="20200909073500 +0200" stop="20200909083000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 117</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Handani dhe Selda do të detyrohen tia japin paratë djalit që i kërcënon. Do ti marrin ato të gjitha provat që mund të çojnë Handanin në burg? Kerimi do ti kërkojë llogari Sulltanës për grindjen me Fatmën, çfarë do ti tregojë ajo?(n)</desc>
-  </programme>
-  <programme start="20200909083000 +0200" stop="20200909091500 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 41</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Pojrazi i bën një vizitë të papritur Aishegylit në punën e saj. Pasi ka zbuluar pajisjen e përgjimit, Zaferi vazhdon lojën në mënyrë që Bahriu të dëgjojë gjoja qëllimet e tij të mira. Çfarë plani thurin Pojrazi dhe Aishegyli për të marrë kasetat nga kasaforta e Bahriut?(n)</desc>
-  </programme>
-  <programme start="20200909091500 +0200" stop="20200909100500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117</title>
-    <desc lang="sq">Serial, Dramë/Familje: Karolina ka në plan të shkojë te Soneri dhe, me pretekstin për ta falënderuar, ta joshë atë. Por planin e saj e zbulon Mesudja, e cila i tregon gjithçka Ajlinit. Grevistët përfundojnë të gjithë në komisariat. Familja e Berinit rend pranë saj për të mësuar së çfarë ka ndodhur.(n)</desc>
-  </programme>
-  <programme start="20200909100500 +0200" stop="20200909105000 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117</title>
-    <desc lang="sq">Serial, Histori/Dramë: Të rinjve të Frontit Patriotik u dështon plani për të shpëtuar Mehmetin dhe Hilali mbetet e plagosur. Xhevdeti dëgjon Leonin që, në kllapi e sipër, kërkon Hilalin. Dastani debaton ashpër me Azizen për drejtimet që po marrin në luftë.(n)</desc>
-  </programme>
-  <programme start="20200909105000 +0200" stop="20200909114000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 14</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asllani i jep Kadirit disa dokumente për të firmosur. Çfshihet në të vërtetë pas tyre? Një vajzë e re shkon në hotel për të takuar Asllanin. Cila është ajo? Mustafai përplas Baharin me makinë pranë shtëpisë së tyre. Çndodh pasi e çon atë në shtëpi?(n)</desc>
-  </programme>
-  <programme start="20200909114000 +0200" stop="20200909124000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 117</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Handani dhe Selda do të detyrohen tia japin paratë djalit që i kërcënon. Do ti marrin ato të gjitha provat që mund të çojnë Handanin në burg? Kerimi do ti kërkojë llogari Sulltanës për grindjen me Fatmën, çfarë do ti tregojë ajo?(n)</desc>
-  </programme>
-  <programme start="20200909124000 +0200" stop="20200909133000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 41</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Pojrazi i bën një vizitë të papritur Aishegylit në punën e saj. Pasi ka zbuluar pajisjen e përgjimit, Zaferi vazhdon lojën në mënyrë që Bahriu të dëgjojë gjoja qëllimet e tij të mira. Çfarë plani thurin Pojrazi dhe Aishegyli për të marrë kasetat nga kasaforta e Bahriut?(n)</desc>
-  </programme>
-  <programme start="20200909133000 +0200" stop="20200909142000 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 117</title>
-    <desc lang="sq">Serial, Dramë/Familje: Karolina ka në plan të shkojë te Soneri dhe, me pretekstin për ta falënderuar, ta joshë atë. Por planin e saj e zbulon Mesudja, e cila i tregon gjithçka Ajlinit. Grevistët përfundojnë të gjithë në komisariat. Familja e Berinit rend pranë saj për të mësuar së çfarë ka ndodhur.(n)</desc>
-  </programme>
-  <programme start="20200909142000 +0200" stop="20200909151000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 117</title>
-    <desc lang="sq">Serial, Histori/Dramë: Të rinjve të Frontit Patriotik u dështon plani për të shpëtuar Mehmetin dhe Hilali mbetet e plagosur. Xhevdeti dëgjon Leonin që, në kllapi e sipër, kërkon Hilalin. Dastani debaton ashpër me Azizen për drejtimet që po marrin në luftë.(n)</desc>
-  </programme>
-  <programme start="20200909151000 +0200" stop="20200909160000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 14</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asllani i jep Kadirit disa dokumente për të firmosur. Çfshihet në të vërtetë pas tyre? Një vajzë e re shkon në hotel për të takuar Asllanin. Cila është ajo? Mustafai përplas Baharin me makinë pranë shtëpisë së tyre. Çndodh pasi e çon atë në shtëpi?(n)</desc>
-  </programme>
-  <programme start="20200909160000 +0200" stop="20200909170000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 118 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Kerimi do të shkojë në shtëpinë e Handanit dhe Seldës, do të zbulojë ai që Tuba sështë atje? Nesrini do të shtyjë Filizin nga shkallët për të parandaluar lidhjen e saj me Xhynejtin. Do të jetojë Filizi?(n)</desc>
-  </programme>
-  <programme start="20200909170000 +0200" stop="20200909174500 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 42 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Çfarë ka në njërën prej kasetave që do ta mallëngjejë Aishegylin aq shumë? Si do të reagojë Çida kur të mësojë se Zylfikari, njeriu që simpatizon, është një gangster? A do të arrihet diçka nga takimi i Zaferit me Bahriun, apo gjakrat do të ndizen më shumë?(n)</desc>
-  </programme>
-  <programme start="20200909174500 +0200" stop="20200909184500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 118 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Familje: Gjendja midis Hakanit dhe Berinit vjen duke u përkeqësuar dhe ai i kërkon së shoqes që të lërë punën. Çdo të mendojë ky i fundit kur të kthehet në shtëpi dhe të shohë se Berini është larguar? Osmani e fton Gyldenin në shtëpinë e tij, por ndodh diçka e papritur. Cila do të jetë surpriza e pakëndshme?(n)</desc>
-  </programme>
-  <programme start="20200909184500 +0200" stop="20200909193000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 118 - Premierë</title>
-    <desc lang="sq">Serial, Histori/Dramë: Tefiku takohet me zotin Selim. Por a do tia japë ai letrën e faljes që e dëshiron aq shumë? Hilali nuk ia fal dot Leonit vdekjen e Mehmetit. Ndërkohë, mbledhja që do të vendosë fatin e luftës zhvillohet mes palëve.(n)</desc>
-  </programme>
-  <programme start="20200909193000 +0200" stop="20200909202000 +0200" channel="KanalD Drama">
-    <title lang="sq">Përtej Reve pj 15 - Premierë</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Asija përpiqet të afrohet me Mustafain, por reagimi i tij nuk është siç pritet. Mustafai shkon në dhomën e Narinit dhe aty gjen Baharin. Përse do të bisedojnë ata të dy? Serdari sheh Mustafain pranë Narinit dhe e keqkupton situatën. Çdo të ndodhë mes tyre?(n)</desc>
-  </programme>
-  <programme start="20200909202000 +0200" stop="20200909212000 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri dhe Mëkat pj 118</title>
-    <desc lang="sq">Serial, Dramë/Romancë: Kerimi do të shkojë në shtëpinë e Handanit dhe Seldës, do të zbulojë ai që Tuba sështë atje? Nesrini do të shtyjë Filizin nga shkallët për të parandaluar lidhjen e saj me Xhynejtin. Do të jetojë Filizi?(n)</desc>
-  </programme>
-  <programme start="20200909212000 +0200" stop="20200909221000 +0200" channel="KanalD Drama">
-    <title lang="sq">Për Tim Bir pj 42</title>
-    <desc lang="sq">Serial, Dramë/Aksion: Çfarë ka në njërën prej kasetave që do ta mallëngjejë Aishegylin aq shumë? Si do të reagojë Çida kur të mësojë se Zylfikari, njeriu që simpatizon, është një gangster? A do të arrihet diçka nga takimi i Zaferit me Bahriun, apo gjakrat do të ndizen më shumë?(n)</desc>
-  </programme>
-  <programme start="20200909221000 +0200" stop="20200909225500 +0200" channel="KanalD Drama">
-    <title lang="sq">Koha Kalon pj 118</title>
-    <desc lang="sq">Serial, Dramë/Familje: Gjendja midis Hakanit dhe Berinit vjen duke u përkeqësuar dhe ai i kërkon së shoqes që të lërë punën. Çdo të mendojë ky i fundit kur të kthehet në shtëpi dhe të shohë se Berini është larguar? Osmani e fton Gyldenin në shtëpinë e tij, por ndodh diçka e papritur. Cila do të jetë surpriza e pakëndshme?(n)</desc>
-  </programme>
-  <programme start="20200909225500 +0200" stop="20200909234500 +0200" channel="KanalD Drama">
-    <title lang="sq">Dashuri e Plagosur pj 118</title>
-    <desc lang="sq">Serial, Histori/Dramë: Tefiku takohet me zotin Selim. Por a do tia japë ai letrën e faljes që e dëshiron aq shumë? Hilali nuk ia fal dot Leonit vdekjen e Mehmetit. Ndërkohë, mbledhja që do të vendosë fatin e luftës zhvillohet mes palëve.(n)</desc>
   </programme>
   <programme start="20200908004000 +0200" stop="20200908021600 +0200" channel="TRING SHQIPI">
     <title lang="sq">Dora e ngrohte</title>
@@ -4683,827 +4435,827 @@ andrrallat.(n)</desc>
     <title lang="sq">Gardianët e Galaksisë2</title>
     <desc lang="sq">Fantashkencë: Rojtarët e Galaktikës vazhdojnë aventurat e tyre në skuadër, ndërsa zbulojnë misterin e atësisë së vërtetë të Piter Kuillit.(n)</desc>
   </programme>
-  <programme start="20200908004500 +0200" stop="20200908013500 +0200" channel="FOX">
+  <programme start="20200908004500 +0200" stop="20200908013500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908013500 +0200" stop="20200908020000 +0200" channel="FOX">
+  <programme start="20200908013500 +0200" stop="20200908020000 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200908020000 +0200" stop="20200908025000 +0200" channel="FOX">
+  <programme start="20200908020000 +0200" stop="20200908025000 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908025000 +0200" stop="20200908034000 +0200" channel="FOX">
+  <programme start="20200908025000 +0200" stop="20200908034000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908034000 +0200" stop="20200908043000 +0200" channel="FOX">
+  <programme start="20200908034000 +0200" stop="20200908043000 +0200" channel="FOX al">
     <title lang="sq">Të Vdekurit e Gjallë</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908043000 +0200" stop="20200908051500 +0200" channel="FOX">
+  <programme start="20200908043000 +0200" stop="20200908051500 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908051500 +0200" stop="20200908060000 +0200" channel="FOX">
+  <programme start="20200908051500 +0200" stop="20200908060000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908060000 +0200" stop="20200908062500 +0200" channel="FOX">
+  <programme start="20200908060000 +0200" stop="20200908062500 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200908062500 +0200" stop="20200908071500 +0200" channel="FOX">
+  <programme start="20200908062500 +0200" stop="20200908071500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908071500 +0200" stop="20200908080500 +0200" channel="FOX">
+  <programme start="20200908071500 +0200" stop="20200908080500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908080500 +0200" stop="20200908090000 +0200" channel="FOX">
+  <programme start="20200908080500 +0200" stop="20200908090000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908090000 +0200" stop="20200908095500 +0200" channel="FOX">
+  <programme start="20200908090000 +0200" stop="20200908095500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908095500 +0200" stop="20200908102000 +0200" channel="FOX">
+  <programme start="20200908095500 +0200" stop="20200908102000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200908102000 +0200" stop="20200908105000 +0200" channel="FOX">
+  <programme start="20200908102000 +0200" stop="20200908105000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200908105000 +0200" stop="20200908114500 +0200" channel="FOX">
+  <programme start="20200908105000 +0200" stop="20200908114500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908114500 +0200" stop="20200908124000 +0200" channel="FOX">
+  <programme start="20200908114500 +0200" stop="20200908124000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908124000 +0200" stop="20200908133000 +0200" channel="FOX">
+  <programme start="20200908124000 +0200" stop="20200908133000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908133000 +0200" stop="20200908142500 +0200" channel="FOX">
+  <programme start="20200908133000 +0200" stop="20200908142500 +0200" channel="FOX al">
     <title lang="sq">The Enemy Within</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908142500 +0200" stop="20200908152000 +0200" channel="FOX">
+  <programme start="20200908142500 +0200" stop="20200908152000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200908152000 +0200" stop="20200908161500 +0200" channel="FOX">
+  <programme start="20200908152000 +0200" stop="20200908161500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908161500 +0200" stop="20200908171000 +0200" channel="FOX">
+  <programme start="20200908161500 +0200" stop="20200908171000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908171000 +0200" stop="20200908180500 +0200" channel="FOX">
+  <programme start="20200908171000 +0200" stop="20200908180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908180500 +0200" stop="20200908183000 +0200" channel="FOX">
+  <programme start="20200908180500 +0200" stop="20200908183000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200908183000 +0200" stop="20200908190000 +0200" channel="FOX">
+  <programme start="20200908183000 +0200" stop="20200908190000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200908190000 +0200" stop="20200908200000 +0200" channel="FOX">
+  <programme start="20200908190000 +0200" stop="20200908200000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908200000 +0200" stop="20200908210000 +0200" channel="FOX">
+  <programme start="20200908200000 +0200" stop="20200908210000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200908210000 +0200" stop="20200908225500 +0200" channel="FOX">
+  <programme start="20200908210000 +0200" stop="20200908225500 +0200" channel="FOX al">
     <title lang="sq">Burrat me Të Zeza</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200908225500 +0200" stop="20200908235000 +0200" channel="FOX">
+  <programme start="20200908225500 +0200" stop="20200908235000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200908235000 +0200" stop="20200909004500 +0200" channel="FOX">
+  <programme start="20200908235000 +0200" stop="20200909004500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909004500 +0200" stop="20200909013500 +0200" channel="FOX">
+  <programme start="20200909004500 +0200" stop="20200909013500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909013500 +0200" stop="20200909020000 +0200" channel="FOX">
+  <programme start="20200909013500 +0200" stop="20200909020000 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200909020000 +0200" stop="20200909025000 +0200" channel="FOX">
+  <programme start="20200909020000 +0200" stop="20200909025000 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909025000 +0200" stop="20200909034000 +0200" channel="FOX">
+  <programme start="20200909025000 +0200" stop="20200909034000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909034000 +0200" stop="20200909043000 +0200" channel="FOX">
+  <programme start="20200909034000 +0200" stop="20200909043000 +0200" channel="FOX al">
     <title lang="sq">Të Vdekurit e Gjallë</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909043000 +0200" stop="20200909051500 +0200" channel="FOX">
+  <programme start="20200909043000 +0200" stop="20200909051500 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909051500 +0200" stop="20200909060000 +0200" channel="FOX">
+  <programme start="20200909051500 +0200" stop="20200909060000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909060000 +0200" stop="20200909062500 +0200" channel="FOX">
+  <programme start="20200909060000 +0200" stop="20200909062500 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200909062500 +0200" stop="20200909071500 +0200" channel="FOX">
+  <programme start="20200909062500 +0200" stop="20200909071500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909071500 +0200" stop="20200909080500 +0200" channel="FOX">
+  <programme start="20200909071500 +0200" stop="20200909080500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909080500 +0200" stop="20200909090000 +0200" channel="FOX">
+  <programme start="20200909080500 +0200" stop="20200909090000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909090000 +0200" stop="20200909095500 +0200" channel="FOX">
+  <programme start="20200909090000 +0200" stop="20200909095500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909095500 +0200" stop="20200909102000 +0200" channel="FOX">
+  <programme start="20200909095500 +0200" stop="20200909102000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200909102000 +0200" stop="20200909105000 +0200" channel="FOX">
+  <programme start="20200909102000 +0200" stop="20200909105000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200909105000 +0200" stop="20200909114500 +0200" channel="FOX">
+  <programme start="20200909105000 +0200" stop="20200909114500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909114500 +0200" stop="20200909124000 +0200" channel="FOX">
+  <programme start="20200909114500 +0200" stop="20200909124000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909124000 +0200" stop="20200909142500 +0200" channel="FOX">
+  <programme start="20200909124000 +0200" stop="20200909142500 +0200" channel="FOX al">
     <title lang="sq">Burrat me Të Zeza</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200909142500 +0200" stop="20200909152000 +0200" channel="FOX">
+  <programme start="20200909142500 +0200" stop="20200909152000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200909152000 +0200" stop="20200909161500 +0200" channel="FOX">
+  <programme start="20200909152000 +0200" stop="20200909161500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909161500 +0200" stop="20200909171000 +0200" channel="FOX">
+  <programme start="20200909161500 +0200" stop="20200909171000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909171000 +0200" stop="20200909180500 +0200" channel="FOX">
+  <programme start="20200909171000 +0200" stop="20200909180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909180500 +0200" stop="20200909183000 +0200" channel="FOX">
+  <programme start="20200909180500 +0200" stop="20200909183000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200909183000 +0200" stop="20200909190000 +0200" channel="FOX">
+  <programme start="20200909183000 +0200" stop="20200909190000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200909190000 +0200" stop="20200909200000 +0200" channel="FOX">
+  <programme start="20200909190000 +0200" stop="20200909200000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909200000 +0200" stop="20200909210000 +0200" channel="FOX">
+  <programme start="20200909200000 +0200" stop="20200909210000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909210000 +0200" stop="20200909220000 +0200" channel="FOX">
+  <programme start="20200909210000 +0200" stop="20200909220000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200909220000 +0200" stop="20200909225500 +0200" channel="FOX">
+  <programme start="20200909220000 +0200" stop="20200909225500 +0200" channel="FOX al">
     <title lang="sq">Blood &amp; Treasure</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200909225500 +0200" stop="20200909235000 +0200" channel="FOX">
+  <programme start="20200909225500 +0200" stop="20200909235000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200909235000 +0200" stop="20200910004500 +0200" channel="FOX">
+  <programme start="20200909235000 +0200" stop="20200910004500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910004500 +0200" stop="20200910013500 +0200" channel="FOX">
+  <programme start="20200910004500 +0200" stop="20200910013500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910013500 +0200" stop="20200910020000 +0200" channel="FOX">
+  <programme start="20200910013500 +0200" stop="20200910020000 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200910020000 +0200" stop="20200910025000 +0200" channel="FOX">
+  <programme start="20200910020000 +0200" stop="20200910025000 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910025000 +0200" stop="20200910034000 +0200" channel="FOX">
+  <programme start="20200910025000 +0200" stop="20200910034000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910034000 +0200" stop="20200910043000 +0200" channel="FOX">
+  <programme start="20200910034000 +0200" stop="20200910043000 +0200" channel="FOX al">
     <title lang="sq">Të Vdekurit e Gjallë</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910043000 +0200" stop="20200910051500 +0200" channel="FOX">
+  <programme start="20200910043000 +0200" stop="20200910051500 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910051500 +0200" stop="20200910060000 +0200" channel="FOX">
+  <programme start="20200910051500 +0200" stop="20200910060000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910060000 +0200" stop="20200910062500 +0200" channel="FOX">
+  <programme start="20200910060000 +0200" stop="20200910062500 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200910062500 +0200" stop="20200910071500 +0200" channel="FOX">
+  <programme start="20200910062500 +0200" stop="20200910071500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910071500 +0200" stop="20200910080500 +0200" channel="FOX">
+  <programme start="20200910071500 +0200" stop="20200910080500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910080500 +0200" stop="20200910090000 +0200" channel="FOX">
+  <programme start="20200910080500 +0200" stop="20200910090000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910090000 +0200" stop="20200910095500 +0200" channel="FOX">
+  <programme start="20200910090000 +0200" stop="20200910095500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910095500 +0200" stop="20200910102000 +0200" channel="FOX">
+  <programme start="20200910095500 +0200" stop="20200910102000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200910102000 +0200" stop="20200910105000 +0200" channel="FOX">
+  <programme start="20200910102000 +0200" stop="20200910105000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200910105000 +0200" stop="20200910114500 +0200" channel="FOX">
+  <programme start="20200910105000 +0200" stop="20200910114500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910114500 +0200" stop="20200910124000 +0200" channel="FOX">
+  <programme start="20200910114500 +0200" stop="20200910124000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910124000 +0200" stop="20200910133000 +0200" channel="FOX">
+  <programme start="20200910124000 +0200" stop="20200910133000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910133000 +0200" stop="20200910142500 +0200" channel="FOX">
+  <programme start="20200910133000 +0200" stop="20200910142500 +0200" channel="FOX al">
     <title lang="sq">Blood &amp; Treasure</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200910142500 +0200" stop="20200910152000 +0200" channel="FOX">
+  <programme start="20200910142500 +0200" stop="20200910152000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200910152000 +0200" stop="20200910161500 +0200" channel="FOX">
+  <programme start="20200910152000 +0200" stop="20200910161500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910161500 +0200" stop="20200910171000 +0200" channel="FOX">
+  <programme start="20200910161500 +0200" stop="20200910171000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910171000 +0200" stop="20200910180500 +0200" channel="FOX">
+  <programme start="20200910171000 +0200" stop="20200910180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910180500 +0200" stop="20200910183000 +0200" channel="FOX">
+  <programme start="20200910180500 +0200" stop="20200910183000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200910183000 +0200" stop="20200910190000 +0200" channel="FOX">
+  <programme start="20200910183000 +0200" stop="20200910190000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200910190000 +0200" stop="20200910200000 +0200" channel="FOX">
+  <programme start="20200910190000 +0200" stop="20200910200000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910200000 +0200" stop="20200910210000 +0200" channel="FOX">
+  <programme start="20200910200000 +0200" stop="20200910210000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910210000 +0200" stop="20200910220000 +0200" channel="FOX">
+  <programme start="20200910210000 +0200" stop="20200910220000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910220000 +0200" stop="20200910225500 +0200" channel="FOX">
+  <programme start="20200910220000 +0200" stop="20200910225500 +0200" channel="FOX al">
     <title lang="sq">Embire</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200910225500 +0200" stop="20200910235000 +0200" channel="FOX">
+  <programme start="20200910225500 +0200" stop="20200910235000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200910235000 +0200" stop="20200911004500 +0200" channel="FOX">
+  <programme start="20200910235000 +0200" stop="20200911004500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911004500 +0200" stop="20200911013500 +0200" channel="FOX">
+  <programme start="20200911004500 +0200" stop="20200911013500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911013500 +0200" stop="20200911020000 +0200" channel="FOX">
+  <programme start="20200911013500 +0200" stop="20200911020000 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200911020000 +0200" stop="20200911025000 +0200" channel="FOX">
+  <programme start="20200911020000 +0200" stop="20200911025000 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911025000 +0200" stop="20200911034000 +0200" channel="FOX">
+  <programme start="20200911025000 +0200" stop="20200911034000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911034000 +0200" stop="20200911043000 +0200" channel="FOX">
+  <programme start="20200911034000 +0200" stop="20200911043000 +0200" channel="FOX al">
     <title lang="sq">Të Vdekurit e Gjallë</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911043000 +0200" stop="20200911051500 +0200" channel="FOX">
+  <programme start="20200911043000 +0200" stop="20200911051500 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911051500 +0200" stop="20200911060000 +0200" channel="FOX">
+  <programme start="20200911051500 +0200" stop="20200911060000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911060000 +0200" stop="20200911062500 +0200" channel="FOX">
+  <programme start="20200911060000 +0200" stop="20200911062500 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200911062500 +0200" stop="20200911071500 +0200" channel="FOX">
+  <programme start="20200911062500 +0200" stop="20200911071500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911071500 +0200" stop="20200911080500 +0200" channel="FOX">
+  <programme start="20200911071500 +0200" stop="20200911080500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911080500 +0200" stop="20200911090000 +0200" channel="FOX">
+  <programme start="20200911080500 +0200" stop="20200911090000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911090000 +0200" stop="20200911095500 +0200" channel="FOX">
+  <programme start="20200911090000 +0200" stop="20200911095500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911095500 +0200" stop="20200911102000 +0200" channel="FOX">
+  <programme start="20200911095500 +0200" stop="20200911102000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200911102000 +0200" stop="20200911105000 +0200" channel="FOX">
+  <programme start="20200911102000 +0200" stop="20200911105000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200911105000 +0200" stop="20200911114500 +0200" channel="FOX">
+  <programme start="20200911105000 +0200" stop="20200911114500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911114500 +0200" stop="20200911124000 +0200" channel="FOX">
+  <programme start="20200911114500 +0200" stop="20200911124000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911124000 +0200" stop="20200911133000 +0200" channel="FOX">
+  <programme start="20200911124000 +0200" stop="20200911133000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911133000 +0200" stop="20200911142500 +0200" channel="FOX">
+  <programme start="20200911133000 +0200" stop="20200911142500 +0200" channel="FOX al">
     <title lang="sq">Embire</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911142500 +0200" stop="20200911152000 +0200" channel="FOX">
+  <programme start="20200911142500 +0200" stop="20200911152000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200911152000 +0200" stop="20200911161500 +0200" channel="FOX">
+  <programme start="20200911152000 +0200" stop="20200911161500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911161500 +0200" stop="20200911171000 +0200" channel="FOX">
+  <programme start="20200911161500 +0200" stop="20200911171000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911171000 +0200" stop="20200911180500 +0200" channel="FOX">
+  <programme start="20200911171000 +0200" stop="20200911180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911180500 +0200" stop="20200911183000 +0200" channel="FOX">
+  <programme start="20200911180500 +0200" stop="20200911183000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200911183000 +0200" stop="20200911190000 +0200" channel="FOX">
+  <programme start="20200911183000 +0200" stop="20200911190000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200911190000 +0200" stop="20200911200000 +0200" channel="FOX">
+  <programme start="20200911190000 +0200" stop="20200911200000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911200000 +0200" stop="20200911210000 +0200" channel="FOX">
+  <programme start="20200911200000 +0200" stop="20200911210000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200911210000 +0200" stop="20200911225500 +0200" channel="FOX">
+  <programme start="20200911210000 +0200" stop="20200911225500 +0200" channel="FOX al">
     <title lang="sq">Treni i Pandalshëm</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200911225500 +0200" stop="20200911235000 +0200" channel="FOX">
+  <programme start="20200911225500 +0200" stop="20200911235000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200911235000 +0200" stop="20200912004500 +0200" channel="FOX">
+  <programme start="20200911235000 +0200" stop="20200912004500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912004500 +0200" stop="20200912013500 +0200" channel="FOX">
+  <programme start="20200912004500 +0200" stop="20200912013500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912013500 +0200" stop="20200912020000 +0200" channel="FOX">
+  <programme start="20200912013500 +0200" stop="20200912020000 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912020000 +0200" stop="20200912025000 +0200" channel="FOX">
+  <programme start="20200912020000 +0200" stop="20200912025000 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912025000 +0200" stop="20200912034000 +0200" channel="FOX">
+  <programme start="20200912025000 +0200" stop="20200912034000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912034000 +0200" stop="20200912043000 +0200" channel="FOX">
+  <programme start="20200912034000 +0200" stop="20200912043000 +0200" channel="FOX al">
     <title lang="sq">Të Vdekurit e Gjallë</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912043000 +0200" stop="20200912051500 +0200" channel="FOX">
+  <programme start="20200912043000 +0200" stop="20200912051500 +0200" channel="FOX al">
     <title lang="sq">APB</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912051500 +0200" stop="20200912060000 +0200" channel="FOX">
+  <programme start="20200912051500 +0200" stop="20200912060000 +0200" channel="FOX al">
     <title lang="sq">White Collar</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912060000 +0200" stop="20200912065000 +0200" channel="FOX">
+  <programme start="20200912060000 +0200" stop="20200912065000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912065000 +0200" stop="20200912074000 +0200" channel="FOX">
+  <programme start="20200912065000 +0200" stop="20200912074000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912074000 +0200" stop="20200912080500 +0200" channel="FOX">
+  <programme start="20200912074000 +0200" stop="20200912080500 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912080500 +0200" stop="20200912083000 +0200" channel="FOX">
+  <programme start="20200912080500 +0200" stop="20200912083000 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912083000 +0200" stop="20200912092500 +0200" channel="FOX">
+  <programme start="20200912083000 +0200" stop="20200912092500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912092500 +0200" stop="20200912102000 +0200" channel="FOX">
+  <programme start="20200912092500 +0200" stop="20200912102000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912102000 +0200" stop="20200912111500 +0200" channel="FOX">
+  <programme start="20200912102000 +0200" stop="20200912111500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912111500 +0200" stop="20200912121000 +0200" channel="FOX">
+  <programme start="20200912111500 +0200" stop="20200912121000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912121000 +0200" stop="20200912130500 +0200" channel="FOX">
+  <programme start="20200912121000 +0200" stop="20200912130500 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912130500 +0200" stop="20200912133000 +0200" channel="FOX">
+  <programme start="20200912130500 +0200" stop="20200912133000 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912133000 +0200" stop="20200912140000 +0200" channel="FOX">
+  <programme start="20200912133000 +0200" stop="20200912140000 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912140000 +0200" stop="20200912142500 +0200" channel="FOX">
+  <programme start="20200912140000 +0200" stop="20200912142500 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912142500 +0200" stop="20200912145500 +0200" channel="FOX">
+  <programme start="20200912142500 +0200" stop="20200912145500 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912145500 +0200" stop="20200912171000 +0200" channel="FOX">
+  <programme start="20200912145500 +0200" stop="20200912171000 +0200" channel="FOX al">
     <title lang="sq">Persi Xhekson dhe Olimpasit: Grabitësi i Rrufesë</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912171000 +0200" stop="20200912180500 +0200" channel="FOX">
+  <programme start="20200912171000 +0200" stop="20200912180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912180500 +0200" stop="20200912190000 +0200" channel="FOX">
+  <programme start="20200912180500 +0200" stop="20200912190000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912190000 +0200" stop="20200912200000 +0200" channel="FOX">
+  <programme start="20200912190000 +0200" stop="20200912200000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912200000 +0200" stop="20200912210000 +0200" channel="FOX">
+  <programme start="20200912200000 +0200" stop="20200912210000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200912210000 +0200" stop="20200912225500 +0200" channel="FOX">
+  <programme start="20200912210000 +0200" stop="20200912225500 +0200" channel="FOX al">
     <title lang="sq">Hotel Transilvania</title>
     <desc lang="sq">Animation.(n)</desc>
   </programme>
-  <programme start="20200912225500 +0200" stop="20200912232000 +0200" channel="FOX">
+  <programme start="20200912225500 +0200" stop="20200912232000 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200912232000 +0200" stop="20200913001500 +0200" channel="FOX">
+  <programme start="20200912232000 +0200" stop="20200913001500 +0200" channel="FOX al">
     <title lang="sq">Embire</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913001500 +0200" stop="20200913011000 +0200" channel="FOX">
+  <programme start="20200913001500 +0200" stop="20200913011000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913011000 +0200" stop="20200913020000 +0200" channel="FOX">
+  <programme start="20200913011000 +0200" stop="20200913020000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913020000 +0200" stop="20200913022500 +0200" channel="FOX">
+  <programme start="20200913020000 +0200" stop="20200913022500 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913022500 +0200" stop="20200913024500 +0200" channel="FOX">
+  <programme start="20200913022500 +0200" stop="20200913024500 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913024500 +0200" stop="20200913031000 +0200" channel="FOX">
+  <programme start="20200913024500 +0200" stop="20200913031000 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913031000 +0200" stop="20200913033500 +0200" channel="FOX">
+  <programme start="20200913031000 +0200" stop="20200913033500 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913033500 +0200" stop="20200913042500 +0200" channel="FOX">
+  <programme start="20200913033500 +0200" stop="20200913042500 +0200" channel="FOX al">
     <title lang="sq">Quantico</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913042500 +0200" stop="20200913051500 +0200" channel="FOX">
+  <programme start="20200913042500 +0200" stop="20200913051500 +0200" channel="FOX al">
     <title lang="sq">Quantico</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913051500 +0200" stop="20200913060000 +0200" channel="FOX">
+  <programme start="20200913051500 +0200" stop="20200913060000 +0200" channel="FOX al">
     <title lang="sq">24: Legacy</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913060000 +0200" stop="20200913065000 +0200" channel="FOX">
+  <programme start="20200913060000 +0200" stop="20200913065000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913065000 +0200" stop="20200913074000 +0200" channel="FOX">
+  <programme start="20200913065000 +0200" stop="20200913074000 +0200" channel="FOX al">
     <title lang="sq">The Orville 1</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913074000 +0200" stop="20200913080500 +0200" channel="FOX">
+  <programme start="20200913074000 +0200" stop="20200913080500 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913080500 +0200" stop="20200913083000 +0200" channel="FOX">
+  <programme start="20200913080500 +0200" stop="20200913083000 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913083000 +0200" stop="20200913092500 +0200" channel="FOX">
+  <programme start="20200913083000 +0200" stop="20200913092500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913092500 +0200" stop="20200913102000 +0200" channel="FOX">
+  <programme start="20200913092500 +0200" stop="20200913102000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913102000 +0200" stop="20200913111500 +0200" channel="FOX">
+  <programme start="20200913102000 +0200" stop="20200913111500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913111500 +0200" stop="20200913121000 +0200" channel="FOX">
+  <programme start="20200913111500 +0200" stop="20200913121000 +0200" channel="FOX al">
     <title lang="sq">The Orville</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913121000 +0200" stop="20200913130500 +0200" channel="FOX">
+  <programme start="20200913121000 +0200" stop="20200913130500 +0200" channel="FOX al">
     <title lang="sq">The Orville</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913130500 +0200" stop="20200913133000 +0200" channel="FOX">
+  <programme start="20200913130500 +0200" stop="20200913133000 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913133000 +0200" stop="20200913140000 +0200" channel="FOX">
+  <programme start="20200913133000 +0200" stop="20200913140000 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913140000 +0200" stop="20200913142500 +0200" channel="FOX">
+  <programme start="20200913140000 +0200" stop="20200913142500 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913142500 +0200" stop="20200913145500 +0200" channel="FOX">
+  <programme start="20200913142500 +0200" stop="20200913145500 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913145500 +0200" stop="20200913164000 +0200" channel="FOX">
+  <programme start="20200913145500 +0200" stop="20200913164000 +0200" channel="FOX al">
     <title lang="sq">Hotel Transilvania</title>
     <desc lang="sq">Animation.(n)</desc>
   </programme>
-  <programme start="20200913164000 +0200" stop="20200913171000 +0200" channel="FOX">
+  <programme start="20200913164000 +0200" stop="20200913171000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200913171000 +0200" stop="20200913180500 +0200" channel="FOX">
+  <programme start="20200913171000 +0200" stop="20200913180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913180500 +0200" stop="20200913190000 +0200" channel="FOX">
+  <programme start="20200913180500 +0200" stop="20200913190000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913190000 +0200" stop="20200913200000 +0200" channel="FOX">
+  <programme start="20200913190000 +0200" stop="20200913200000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200913200000 +0200" stop="20200913210000 +0200" channel="FOX">
+  <programme start="20200913200000 +0200" stop="20200913210000 +0200" channel="FOX al">
     <title lang="sq">Blood &amp; Treasure</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200913210000 +0200" stop="20200913232000 +0200" channel="FOX">
+  <programme start="20200913210000 +0200" stop="20200913232000 +0200" channel="FOX al">
     <title lang="sq">Persi Xhekson: Deti i Përbindëshave</title>
     <desc lang="sq">Adventure.(n)</desc>
   </programme>
-  <programme start="20200913232000 +0200" stop="20200914001500 +0200" channel="FOX">
+  <programme start="20200913232000 +0200" stop="20200914001500 +0200" channel="FOX al">
     <title lang="sq">The Enemy Within</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914001500 +0200" stop="20200914011000 +0200" channel="FOX">
+  <programme start="20200914001500 +0200" stop="20200914011000 +0200" channel="FOX al">
     <title lang="sq">The Orville</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914011000 +0200" stop="20200914020000 +0200" channel="FOX">
+  <programme start="20200914011000 +0200" stop="20200914020000 +0200" channel="FOX al">
     <title lang="sq">The Orville</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914020000 +0200" stop="20200914022500 +0200" channel="FOX">
+  <programme start="20200914020000 +0200" stop="20200914022500 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914022500 +0200" stop="20200914024500 +0200" channel="FOX">
+  <programme start="20200914022500 +0200" stop="20200914024500 +0200" channel="FOX al">
     <title lang="sq">MALKOLMI MES TË TJERËVE</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914024500 +0200" stop="20200914031000 +0200" channel="FOX">
+  <programme start="20200914024500 +0200" stop="20200914031000 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914031000 +0200" stop="20200914033500 +0200" channel="FOX">
+  <programme start="20200914031000 +0200" stop="20200914033500 +0200" channel="FOX al">
     <title lang="sq">FAMILJA SIMPSON</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914033500 +0200" stop="20200914042500 +0200" channel="FOX">
+  <programme start="20200914033500 +0200" stop="20200914042500 +0200" channel="FOX al">
     <title lang="sq">Quantico</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914042500 +0200" stop="20200914051500 +0200" channel="FOX">
+  <programme start="20200914042500 +0200" stop="20200914051500 +0200" channel="FOX al">
     <title lang="sq">Quantico</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914051500 +0200" stop="20200914060000 +0200" channel="FOX">
+  <programme start="20200914051500 +0200" stop="20200914060000 +0200" channel="FOX al">
     <title lang="sq">24: Legacy</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914060000 +0200" stop="20200914062500 +0200" channel="FOX">
+  <programme start="20200914060000 +0200" stop="20200914062500 +0200" channel="FOX al">
     <title lang="sq">LA To Vegas</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914062500 +0200" stop="20200914071500 +0200" channel="FOX">
+  <programme start="20200914062500 +0200" stop="20200914071500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914071500 +0200" stop="20200914080500 +0200" channel="FOX">
+  <programme start="20200914071500 +0200" stop="20200914080500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914080500 +0200" stop="20200914090000 +0200" channel="FOX">
+  <programme start="20200914080500 +0200" stop="20200914090000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914090000 +0200" stop="20200914095500 +0200" channel="FOX">
+  <programme start="20200914090000 +0200" stop="20200914095500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914095500 +0200" stop="20200914102000 +0200" channel="FOX">
+  <programme start="20200914095500 +0200" stop="20200914102000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914102000 +0200" stop="20200914105000 +0200" channel="FOX">
+  <programme start="20200914102000 +0200" stop="20200914105000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914105000 +0200" stop="20200914114500 +0200" channel="FOX">
+  <programme start="20200914105000 +0200" stop="20200914114500 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914114500 +0200" stop="20200914124000 +0200" channel="FOX">
+  <programme start="20200914114500 +0200" stop="20200914124000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914124000 +0200" stop="20200914142500 +0200" channel="FOX">
+  <programme start="20200914124000 +0200" stop="20200914142500 +0200" channel="FOX al">
     <title lang="sq">Treni i Pandalshëm</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200914142500 +0200" stop="20200914152000 +0200" channel="FOX">
+  <programme start="20200914142500 +0200" stop="20200914152000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200914152000 +0200" stop="20200914161500 +0200" channel="FOX">
+  <programme start="20200914152000 +0200" stop="20200914161500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914161500 +0200" stop="20200914171000 +0200" channel="FOX">
+  <programme start="20200914161500 +0200" stop="20200914171000 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914171000 +0200" stop="20200914180500 +0200" channel="FOX">
+  <programme start="20200914171000 +0200" stop="20200914180500 +0200" channel="FOX al">
     <title lang="sq">Kockat</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914180500 +0200" stop="20200914183000 +0200" channel="FOX">
+  <programme start="20200914180500 +0200" stop="20200914183000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914183000 +0200" stop="20200914190000 +0200" channel="FOX">
+  <programme start="20200914183000 +0200" stop="20200914190000 +0200" channel="FOX al">
     <title lang="sq">Men at Work 2</title>
     <desc lang="sq">Comedy.(n)</desc>
   </programme>
-  <programme start="20200914190000 +0200" stop="20200914200000 +0200" channel="FOX">
+  <programme start="20200914190000 +0200" stop="20200914200000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="FOX">
+  <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="FOX al">
     <title lang="sq">KESTËLL</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914210000 +0200" stop="20200914220000 +0200" channel="FOX">
+  <programme start="20200914210000 +0200" stop="20200914220000 +0200" channel="FOX al">
     <title lang="sq">Stumptown</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914220000 +0200" stop="20200914225500 +0200" channel="FOX">
+  <programme start="20200914220000 +0200" stop="20200914225500 +0200" channel="FOX al">
     <title lang="sq">The Enemy Within</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
-  <programme start="20200914225500 +0200" stop="20200914235000 +0200" channel="FOX">
+  <programme start="20200914225500 +0200" stop="20200914235000 +0200" channel="FOX al">
     <title lang="sq">09.01.2001</title>
     <desc lang="sq">Action.(n)</desc>
   </programme>
-  <programme start="20200914235000 +0200" stop="20200915004500 +0200" channel="FOX">
+  <programme start="20200914235000 +0200" stop="20200915004500 +0200" channel="FOX al">
     <title lang="sq">The Flas</title>
     <desc lang="sq">Drama.(n)</desc>
   </programme>
@@ -8973,258 +8725,6 @@ fanta-shkencës. "Ylli i Vdekjes" është arma përbindësh që është shfaqur 
     <title lang="sq">LIGJ DHE RREGULL serial R</title>
     <desc lang="sq">LIGJ DHE RREGULL serial R.(n)</desc>
   </programme>
-  <programme start="20200908000000 +0200" stop="20200908080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200908080000 +0200" stop="20200908160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200908160000 +0200" stop="20200909000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200909000000 +0200" stop="20200909080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200909080000 +0200" stop="20200909160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200909160000 +0200" stop="20200910000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200910000000 +0200" stop="20200910080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200910080000 +0200" stop="20200910160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200910160000 +0200" stop="20200911000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200911000000 +0200" stop="20200911080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200911080000 +0200" stop="20200911160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200911160000 +0200" stop="20200912000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200912000000 +0200" stop="20200912080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200912080000 +0200" stop="20200912160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200912160000 +0200" stop="20200913000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200913000000 +0200" stop="20200913080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200913080000 +0200" stop="20200913160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200913160000 +0200" stop="20200914000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200914000000 +0200" stop="20200914080000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200914080000 +0200" stop="20200914160000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200914160000 +0200" stop="20200915000000 +0200" channel="Club TV">
-    <title lang="sq">Programet e RTV21 M</title>
-    <desc lang="sq">Programet e RTV21 M.(n)</desc>
-  </programme>
-  <programme start="20200908000000 +0200" stop="20200908080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200908080000 +0200" stop="20200908160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200908160000 +0200" stop="20200909000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200909000000 +0200" stop="20200909080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200909080000 +0200" stop="20200909160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200909160000 +0200" stop="20200910000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200910000000 +0200" stop="20200910080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200910080000 +0200" stop="20200910160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200910160000 +0200" stop="20200911000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200911000000 +0200" stop="20200911080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200911080000 +0200" stop="20200911160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200911160000 +0200" stop="20200912000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200912000000 +0200" stop="20200912080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200912080000 +0200" stop="20200912160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200912160000 +0200" stop="20200913000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200913000000 +0200" stop="20200913080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200913080000 +0200" stop="20200913160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200913160000 +0200" stop="20200914000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200914000000 +0200" stop="20200914080000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200914080000 +0200" stop="20200914160000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200914160000 +0200" stop="20200915000000 +0200" channel="Fax News">
-    <title lang="sq">Programet e Club TV</title>
-    <desc lang="sq">Programet e Club TV.(n)</desc>
-  </programme>
-  <programme start="20200908000000 +0200" stop="20200908080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200908080000 +0200" stop="20200908160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200908160000 +0200" stop="20200909000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200909000000 +0200" stop="20200909080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200909080000 +0200" stop="20200909160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200909160000 +0200" stop="20200910000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200910000000 +0200" stop="20200910080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200910080000 +0200" stop="20200910160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200910160000 +0200" stop="20200911000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200911000000 +0200" stop="20200911080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200911080000 +0200" stop="20200911160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200911160000 +0200" stop="20200912000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200912000000 +0200" stop="20200912080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200912080000 +0200" stop="20200912160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200912160000 +0200" stop="20200913000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200913000000 +0200" stop="20200913080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200913080000 +0200" stop="20200913160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200913160000 +0200" stop="20200914000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200914000000 +0200" stop="20200914080000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200914080000 +0200" stop="20200914160000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
-  <programme start="20200914160000 +0200" stop="20200915000000 +0200" channel="ABC NEWS">
-    <title lang="sq">Programet e Fax News</title>
-    <desc lang="sq">Programet e Fax News.(n)</desc>
-  </programme>
   <programme start="20200908000000 +0200" stop="20200908080000 +0200" channel="Folk +">
     <title lang="sq">Programet e ABC News</title>
     <desc lang="sq">Programet e ABC News.(n)</desc>
@@ -9392,90 +8892,6 @@ fanta-shkencës. "Ylli i Vdekjes" është arma përbindësh që është shfaqur 
   <programme start="20200914160000 +0200" stop="20200915000000 +0200" channel="BBF">
     <title lang="sq">Programet e Report TV</title>
     <desc lang="sq">Programet e Report TV.(n)</desc>
-  </programme>
-  <programme start="20200908000000 +0200" stop="20200908080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200908080000 +0200" stop="20200908160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200908160000 +0200" stop="20200909000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200909000000 +0200" stop="20200909080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200909080000 +0200" stop="20200909160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200909160000 +0200" stop="20200910000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200910000000 +0200" stop="20200910080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200910080000 +0200" stop="20200910160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200910160000 +0200" stop="20200911000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200911000000 +0200" stop="20200911080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200911080000 +0200" stop="20200911160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200911160000 +0200" stop="20200912000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200912000000 +0200" stop="20200912080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200912080000 +0200" stop="20200912160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200912160000 +0200" stop="20200913000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200913000000 +0200" stop="20200913080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200913080000 +0200" stop="20200913160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200913160000 +0200" stop="20200914000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200914000000 +0200" stop="20200914080000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200914080000 +0200" stop="20200914160000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
-  </programme>
-  <programme start="20200914160000 +0200" stop="20200915000000 +0200" channel="Elrodi">
-    <title lang="sq">News 24 Live nga Tirana</title>
-    <desc lang="sq">News 24 Live nga Tirana.(n)</desc>
   </programme>
   <programme start="20200908000000 +0200" stop="20200908080000 +0200" channel="Tring Sport News HD">
     <title lang="sq">Programet e Canale 5</title>
