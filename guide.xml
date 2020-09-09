@@ -153,41 +153,81 @@
     <icon src="https://www.tring.al/manager/includes/picker/images/klan-plus.png" />
     <url>http://www.tring.al</url>
   </channel>
+  <channel id="21 Junior">
+    <display-name lang="sq">21 Junior</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Nje HD">
+    <display-name lang="sq">Film Nje HD</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Dy HD">
+    <display-name lang="sq">Film Dy HD</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Plus HD">
+    <display-name lang="sq">Plus HD</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Komedi">
+    <display-name lang="sq">Film Komedi</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Autor">
+    <display-name lang="sq">Film Autor</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Hits">
+    <display-name lang="sq">Film Hits</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Thriller">
+    <display-name lang="sq">Film Thriller</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Drame">
+    <display-name lang="sq">Film Drame</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Film Aksion">
+    <display-name lang="sq">Film Aksion</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
   <programme start="20200909030000 +0000" stop="20200909080000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200909080000 +0000" stop="20200909130000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200909130000 +0000" stop="20200909180000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200909180000 +0000" stop="20200909220000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200909220000 +0000" stop="20200910030000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200910030000 +0000" stop="20200910080000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200910080000 +0000" stop="20200910130000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200910130000 +0000" stop="20200910180000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200910180000 +0000" stop="20200910220000 +0000" channel="Elrodi TV">
     <title lang="sq">Muzik</title>
-    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.(n)</desc>
+    <desc lang="sq">Muzikë Folk, Turbo-Folk , te lehta dhe moderne Shqiptare.</desc>
   </programme>
   <programme start="20200909000000 +0000" stop="20200909020000 +0000" channel="RTSH Sport">
     <title lang="sq">Fejenord-Borusia D. (Kupa UEFA 2001-02 )</title>
@@ -242,74 +282,74 @@
   </programme>
   <programme start="20200909001000 +0000" stop="20200909013000 +0000" channel="RTSH2 HD">
     <title lang="sq">Pas një lajmi</title>
-    <desc lang="sq">ART/Komedi.(n)</desc>
+    <desc lang="sq">ART/Komedi.</desc>
   </programme>
   <programme start="20200909013000 +0000" stop="20200909022000 +0000" channel="RTSH2 HD">
     <title lang="sq">Herojtë e përditshmes</title>
-    <desc lang="sq">Cikël reportazhe.(n)</desc>
+    <desc lang="sq">Cikël reportazhe.</desc>
   </programme>
   <programme start="20200909022000 +0000" stop="20200909031000 +0000" channel="RTSH2 HD">
     <title lang="sq">Vivaldi</title>
-    <desc lang="sq">Fenomen 4 stinët-Transmetimi nalog/Dok të gjitha ok/dok të huaj Arte 2012-16.(n)</desc>
+    <desc lang="sq">Fenomen 4 stinët-Transmetimi nalog/Dok të gjitha ok/dok të huaj Arte 2012-16.</desc>
   </programme>
   <programme start="20200909050000 +0000" stop="20200909080000 +0000" channel="RTSH2 HD">
     <title lang="sq">Ditë e mbarë</title>
-    <desc lang="sq">Emision Direkt.(n)</desc>
+    <desc lang="sq">Emision Direkt.</desc>
   </programme>
   <programme start="20200909080000 +0000" stop="20200909083000 +0000" channel="RTSH2 HD">
     <title lang="sq">Teqej Melanit</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200909083000 +0000" stop="20200909083800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200909083800 +0000" stop="20200909093000 +0000" channel="RTSH2 HD">
     <title lang="sq">Hijet e burgut</title>
-    <desc lang="sq">Art/Dok të huaj-për transmetim.(n)</desc>
+    <desc lang="sq">Art/Dok të huaj-për transmetim.</desc>
   </programme>
   <programme start="20200909093000 +0000" stop="20200909103000 +0000" channel="RTSH2 HD">
     <title lang="sq">Entjana</title>
-    <desc lang="sq">Dokumentar/serveri 2.(n)</desc>
+    <desc lang="sq">Dokumentar/serveri 2.</desc>
   </programme>
   <programme start="20200909103000 +0000" stop="20200909103800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200909103800 +0000" stop="20200909113800 +0000" channel="RTSH2 HD">
     <title lang="sq">Rrugëtim në Hotin e Plavës</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim/krahina shqiptare.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim/krahina shqiptare.</desc>
   </programme>
   <programme start="20200909113800 +0000" stop="20200909123000 +0000" channel="RTSH2 HD">
     <title lang="sq">Pogradeci</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim/Shqipëria në fokus.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim/Shqipëria në fokus.</desc>
   </programme>
   <programme start="20200909123000 +0000" stop="20200909123800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200909123800 +0000" stop="20200909132400 +0000" channel="RTSH2 HD">
     <title lang="sq">Gazmend Leka</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim/Piktorët.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim/Piktorët.</desc>
   </programme>
   <programme start="20200909132400 +0000" stop="20200909143000 +0000" channel="RTSH2 HD">
     <title lang="sq">Shkurte Fejze</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200909143000 +0000" stop="20200909143800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200909143800 +0000" stop="20200909153000 +0000" channel="RTSH2 HD">
     <title lang="sq">Gurakuqët e Shkodrës</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim//Familjet e mëdha.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim//Familjet e mëdha.</desc>
   </programme>
   <programme start="20200909153000 +0000" stop="20200909153500 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme shkurt  në gjuhën Bullgare</title>
   </programme>
   <programme start="20200909153500 +0000" stop="20200909160000 +0000" channel="RTSH2 HD">
     <title lang="sq">Bota javore</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200909160000 +0000" stop="20200909163000 +0000" channel="RTSH2 HD">
     <title lang="sq">Zëri i Amerikës</title>
@@ -319,28 +359,28 @@
   </programme>
   <programme start="20200909163500 +0000" stop="20200909170000 +0000" channel="RTSH2 HD">
     <title lang="sq">Materiale në gjuhën Greke</title>
-    <desc lang="sq">Dokumentar, Reportazhe, Muzikë.(n)</desc>
+    <desc lang="sq">Dokumentar, Reportazhe, Muzikë.</desc>
   </programme>
   <programme start="20200909170000 +0000" stop="20200909170500 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme shkurt në gjuhën Serbe</title>
   </programme>
   <programme start="20200909170500 +0000" stop="20200909173000 +0000" channel="RTSH2 HD">
     <title lang="sq">Materiale në gjuhën Serbe</title>
-    <desc lang="sq">Dokumentar, Reportazhe, Muzikë.(n)</desc>
+    <desc lang="sq">Dokumentar, Reportazhe, Muzikë.</desc>
   </programme>
   <programme start="20200909173000 +0000" stop="20200909173500 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme shkurt në gjuhën Vllehe</title>
   </programme>
   <programme start="20200909173500 +0000" stop="20200909180000 +0000" channel="RTSH2 HD">
     <title lang="sq">Pasqyrat e t’rrëfymit, Pjetër Budi</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim.</desc>
   </programme>
   <programme start="20200909180000 +0000" stop="20200909180500 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme  shkurt në gjuhën Rome</title>
   </programme>
   <programme start="20200909180500 +0000" stop="20200909183000 +0000" channel="RTSH2 HD">
     <title lang="sq">Rrënjë Shqiptare</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim.</desc>
   </programme>
   <programme start="20200909183000 +0000" stop="20200909183500 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme shkurt në gjuhën Maqedonase</title>
@@ -350,35 +390,35 @@
   </programme>
   <programme start="20200909193000 +0000" stop="20200909193800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200909193800 +0000" stop="20200909213000 +0000" channel="RTSH2 HD">
     <title lang="sq">Fundjavë me familjen</title>
-    <desc lang="sq">Filma premier 2016/komedi.(n)</desc>
+    <desc lang="sq">Filma premier 2016/komedi.</desc>
   </programme>
   <programme start="20200909213800 +0000" stop="20200909230000 +0000" channel="RTSH2 HD">
     <title lang="sq">Katedralja e Strasburgut</title>
-    <desc lang="sq">Art/Dok të huaj-për transmetim.(n)</desc>
+    <desc lang="sq">Art/Dok të huaj-për transmetim.</desc>
   </programme>
   <programme start="20200909230000 +0000" stop="20200910000000 +0000" channel="RTSH2 HD">
     <title lang="sq">Entjana</title>
-    <desc lang="sq">Dokumentar/serveri 2.(n)</desc>
+    <desc lang="sq">Dokumentar/serveri 2.</desc>
   </programme>
   <programme start="20200910000000 +0000" stop="20200910013000 +0000" channel="RTSH2 HD">
     <title lang="sq">Etno Folk Tirana 2016</title>
-    <desc lang="sq">pj.1-RTSH muzikë/koncerte/popullore + Interval.(n)</desc>
+    <desc lang="sq">pj.1-RTSH muzikë/koncerte/popullore + Interval.</desc>
   </programme>
   <programme start="20200910013000 +0000" stop="20200910022000 +0000" channel="RTSH2 HD">
     <title lang="sq">Hijet e burgut</title>
-    <desc lang="sq">Art/Dok të huaj-për transmetim.(n)</desc>
+    <desc lang="sq">Art/Dok të huaj-për transmetim.</desc>
   </programme>
   <programme start="20200910022000 +0000" stop="20200910033000 +0000" channel="RTSH2 HD">
     <title lang="sq">Shkurte Fejze</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200910033000 +0000" stop="20200910043000 +0000" channel="RTSH2 HD">
     <title lang="sq">Rrugëtim në Hotin e Plavës</title>
-    <desc lang="sq">ART/Dok. Shqip - për Transmetim/krahina shqiptare.(n)</desc>
+    <desc lang="sq">ART/Dok. Shqip - për Transmetim/krahina shqiptare.</desc>
   </programme>
   <programme start="20200910050000 +0000" stop="20200910080000 +0000" channel="RTSH2 HD">
     <title lang="sq">“Ditë të mbarë”Emisioni / Drejtpërdrejt</title>
@@ -388,73 +428,73 @@
   </programme>
   <programme start="20200910080500 +0000" stop="20200910082700 +0000" channel="RTSH2 HD">
     <title lang="sq">Andi Gjoni</title>
-    <desc lang="sq">ART/Dok.Shqip-për Transmetim/Piktorët.(n)</desc>
+    <desc lang="sq">ART/Dok.Shqip-për Transmetim/Piktorët.</desc>
   </programme>
   <programme start="20200910082700 +0000" stop="20200910083000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910083000 +0000" stop="20200910083800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200910083800 +0000" stop="20200910092300 +0000" channel="RTSH2 HD">
     <title lang="sq">Endrrat e vjedhura</title>
-    <desc lang="sq">film pj. 35.(n)</desc>
+    <desc lang="sq">film pj. 35.</desc>
   </programme>
   <programme start="20200910092300 +0000" stop="20200910092500 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910092500 +0000" stop="20200910102500 +0000" channel="RTSH2 HD">
     <title lang="sq">Jeta ime</title>
-    <desc lang="sq">Gentian Demaliaj-ART/Dok.Shqip-për Transmetim.(n)</desc>
+    <desc lang="sq">Gentian Demaliaj-ART/Dok.Shqip-për Transmetim.</desc>
   </programme>
   <programme start="20200910102500 +0000" stop="20200910103000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910103000 +0000" stop="20200910103800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200910103800 +0000" stop="20200910120200 +0000" channel="RTSH2 HD">
     <title lang="sq">Martin Camaj</title>
-    <desc lang="sq">ART/Dok.Shqip-për Transmetim/portrete.(n)</desc>
+    <desc lang="sq">ART/Dok.Shqip-për Transmetim/portrete.</desc>
   </programme>
   <programme start="20200910120200 +0000" stop="20200910120500 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910120500 +0000" stop="20200910122800 +0000" channel="RTSH2 HD">
     <title lang="sq">Në Nartë</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200910122800 +0000" stop="20200910123000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910123000 +0000" stop="20200910123800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200910123800 +0000" stop="20200910133200 +0000" channel="RTSH2 HD">
     <title lang="sq">Hasan Nallbani</title>
-    <desc lang="sq">Hasan Nallbani-ART/Dok.Shqip-për Transmetim/Piktorët.(n)</desc>
+    <desc lang="sq">Hasan Nallbani-ART/Dok.Shqip-për Transmetim/Piktorët.</desc>
   </programme>
   <programme start="20200910133200 +0000" stop="20200910133500 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910133500 +0000" stop="20200910143000 +0000" channel="RTSH2 HD">
     <title lang="sq">Endrra e gjelbër</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200910143000 +0000" stop="20200910143800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200910143800 +0000" stop="20200910153800 +0000" channel="RTSH2 HD">
     <title lang="sq">Fëmijëria peng</title>
-    <desc lang="sq">ART/Dok.Shqip-për Transmetim.(n)</desc>
+    <desc lang="sq">ART/Dok.Shqip-për Transmetim.</desc>
   </programme>
   <programme start="20200910153800 +0000" stop="20200910160000 +0000" channel="RTSH2 HD">
     <title lang="sq">Imazh pa Za</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200910160000 +0000" stop="20200910163000 +0000" channel="RTSH2 HD">
     <title lang="sq">Zëri i Amerikës</title>
@@ -479,362 +519,362 @@
   </programme>
   <programme start="20200910170000 +0000" stop="20200910174500 +0000" channel="RTSH2 HD">
     <title lang="sq">Endrrat e vjedhura</title>
-    <desc lang="sq">film serial/Episodi .36.(n)</desc>
+    <desc lang="sq">film serial/Episodi .36.</desc>
   </programme>
   <programme start="20200910174500 +0000" stop="20200910175000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910175000 +0000" stop="20200910181000 +0000" channel="RTSH2 HD">
     <title lang="sq">Kulla e Hirit</title>
-    <desc lang="sq">Dokumentar.(n)</desc>
+    <desc lang="sq">Dokumentar.</desc>
   </programme>
   <programme start="20200910181000 +0000" stop="20200910181500 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910181500 +0000" stop="20200910185500 +0000" channel="RTSH2 HD">
     <title lang="sq">Udhëve</title>
-    <desc lang="sq">Emision RTK.(n)</desc>
+    <desc lang="sq">Emision RTK.</desc>
   </programme>
   <programme start="20200910185500 +0000" stop="20200910190000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910190000 +0000" stop="20200910201500 +0000" channel="RTSH2 HD">
     <title lang="sq">Me Bledin</title>
-    <desc lang="sq">Emision Premier.(n)</desc>
+    <desc lang="sq">Emision Premier.</desc>
   </programme>
   <programme start="20200910201500 +0000" stop="20200910202000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910202000 +0000" stop="20200910212000 +0000" channel="RTSH2 HD">
     <title lang="sq">Kohëzimi i veshjes tradicionale</title>
-    <desc lang="sq">ART/Dok.Shqip-për Transmetim.(n)</desc>
+    <desc lang="sq">ART/Dok.Shqip-për Transmetim.</desc>
   </programme>
   <programme start="20200910212000 +0000" stop="20200910213000 +0000" channel="RTSH2 HD">
     <title lang="sq">Promo</title>
   </programme>
   <programme start="20200910213000 +0000" stop="20200910213800 +0000" channel="RTSH2 HD">
     <title lang="sq">Lajme</title>
-    <desc lang="sq">Edicion i shkurtër informativ.(n)</desc>
+    <desc lang="sq">Edicion i shkurtër informativ.</desc>
   </programme>
   <programme start="20200910213800 +0000" stop="20200910230000 +0000" channel="RTSH2 HD">
     <title lang="sq">Berlin 1885 Copëtimi i Afrikës</title>
-    <desc lang="sq">ART/Dok.të huaj-për Transmetim.(n)</desc>
+    <desc lang="sq">ART/Dok.të huaj-për Transmetim.</desc>
   </programme>
   <programme start="20200909003000 +0000" stop="20200909010000 +0000" channel="Top Channel">
     <title lang="sq">Shtepiake Te Deshperuara</title>
-    <desc lang="sq">Serial.(n)</desc>
+    <desc lang="sq">Serial.</desc>
   </programme>
   <programme start="20200909010000 +0000" stop="20200909013500 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909013500 +0000" stop="20200909031000 +0000" channel="Top Channel">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200909031000 +0000" stop="20200909041500 +0000" channel="Top Channel">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200909041500 +0000" stop="20200909050000 +0000" channel="Top Channel">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200909050000 +0000" stop="20200909080000 +0000" channel="Top Channel">
     <title lang="sq">Wake Up</title>
-    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.(n)</desc>
+    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.</desc>
   </programme>
   <programme start="20200909080000 +0000" stop="20200909100000 +0000" channel="Top Channel">
     <title lang="sq">Kojota</title>
-    <desc lang="sq">Pjesa 227,228.(n)</desc>
+    <desc lang="sq">Pjesa 227,228.</desc>
   </programme>
   <programme start="20200909100000 +0000" stop="20200909104500 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909104500 +0000" stop="20200909130000 +0000" channel="Top Channel">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200909130000 +0000" stop="20200909134000 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909134000 +0000" stop="20200909135500 +0000" channel="Top Channel">
     <title lang="sq">Top Talk</title>
-    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.(n)</desc>
+    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.</desc>
   </programme>
   <programme start="20200909135500 +0000" stop="20200909140000 +0000" channel="Top Channel">
     <title lang="sq">Bctv</title>
   </programme>
   <programme start="20200909140000 +0000" stop="20200909150000 +0000" channel="Top Channel">
     <title lang="sq">Parajsa E Zonjave</title>
-    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.(n)</desc>
+    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.</desc>
   </programme>
   <programme start="20200909150000 +0000" stop="20200909162500 +0000" channel="Top Channel">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200909162500 +0000" stop="20200909173000 +0000" channel="Top Channel">
     <title lang="sq">Per'puthen</title>
-    <desc lang="sq">Program TV.(n)</desc>
+    <desc lang="sq">Program TV.</desc>
   </programme>
   <programme start="20200909173000 +0000" stop="20200909181000 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909181000 +0000" stop="20200909190000 +0000" channel="Top Channel">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200909190000 +0000" stop="20200909210000 +0000" channel="Top Channel">
     <title lang="sq">Open</title>
-    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.(n)</desc>
+    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.</desc>
   </programme>
   <programme start="20200909210000 +0000" stop="20200909220000 +0000" channel="Top Channel">
     <title lang="sq">Top Story Iii</title>
-    <desc lang="sq">Eshte nje cikel dokumentaresh investigativ aty ku kamera s'ka mberritur ende per te sjelle ne vemendje fenomene e veprimtari korruptive e te paligjshme, probleme sociale nga cdo cep i vendit..(n)</desc>
+    <desc lang="sq">Eshte nje cikel dokumentaresh investigativ aty ku kamera s'ka mberritur ende per te sjelle ne vemendje fenomene e veprimtari korruptive e te paligjshme, probleme sociale nga cdo cep i vendit..</desc>
   </programme>
   <programme start="20200909220000 +0000" stop="20200909223500 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909223500 +0000" stop="20200909233000 +0000" channel="Top Channel">
     <title lang="sq">Top Talk</title>
-    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.(n)</desc>
+    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.</desc>
   </programme>
   <programme start="20200909233000 +0000" stop="20200910003000 +0000" channel="Top Channel">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200910003000 +0000" stop="20200910010000 +0000" channel="Top Channel">
     <title lang="sq">Shtepiake Te Deshperuara Iii</title>
-    <desc lang="sq">Seria 5.(n)</desc>
+    <desc lang="sq">Seria 5.</desc>
   </programme>
   <programme start="20200910010000 +0000" stop="20200910013500 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910013500 +0000" stop="20200910031000 +0000" channel="Top Channel">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200910031000 +0000" stop="20200910041000 +0000" channel="Top Channel">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200910041000 +0000" stop="20200910050000 +0000" channel="Top Channel">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.(n)</desc>
+    <desc lang="sq">Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</desc>
   </programme>
   <programme start="20200910050000 +0000" stop="20200910080000 +0000" channel="Top Channel">
     <title lang="sq">Wake Up</title>
-    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.(n)</desc>
+    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.</desc>
   </programme>
   <programme start="20200910080000 +0000" stop="20200910100000 +0000" channel="Top Channel">
     <title lang="sq">Kojota</title>
-    <desc lang="sq">Pjesa 229,230.(n)</desc>
+    <desc lang="sq">Pjesa 229,230.</desc>
   </programme>
   <programme start="20200910100000 +0000" stop="20200910104500 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910104500 +0000" stop="20200910130000 +0000" channel="Top Channel">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200910130000 +0000" stop="20200910134000 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910134000 +0000" stop="20200910135500 +0000" channel="Top Channel">
     <title lang="sq">Top Talk</title>
-    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.(n)</desc>
+    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.</desc>
   </programme>
   <programme start="20200910135500 +0000" stop="20200910140000 +0000" channel="Top Channel">
     <title lang="sq">Bctv</title>
   </programme>
   <programme start="20200910140000 +0000" stop="20200910150000 +0000" channel="Top Channel">
     <title lang="sq">Parajsa E Zonjave</title>
-    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.(n)</desc>
+    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.</desc>
   </programme>
   <programme start="20200910150000 +0000" stop="20200910162500 +0000" channel="Top Channel">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200910162500 +0000" stop="20200910173000 +0000" channel="Top Channel">
     <title lang="sq">Per'puthen</title>
-    <desc lang="sq">Program TV.(n)</desc>
+    <desc lang="sq">Program TV.</desc>
   </programme>
   <programme start="20200910173000 +0000" stop="20200910181000 +0000" channel="Top Channel">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910181000 +0000" stop="20200910190000 +0000" channel="Top Channel">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200910190000 +0000" stop="20200910220000 +0000" channel="Top Channel">
     <title lang="sq">Open</title>
-    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.(n)</desc>
+    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.</desc>
   </programme>
   <programme start="20200909003000 +0000" stop="20200909010000 +0000" channel="Top Channel HD">
     <title lang="sq">Shtepiake Te Deshperuara</title>
-    <desc lang="sq">Serial.(n)</desc>
+    <desc lang="sq">Serial.</desc>
   </programme>
   <programme start="20200909010000 +0000" stop="20200909013500 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909013500 +0000" stop="20200909031000 +0000" channel="Top Channel HD">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200909031000 +0000" stop="20200909041500 +0000" channel="Top Channel HD">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200909041500 +0000" stop="20200909050000 +0000" channel="Top Channel HD">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200909050000 +0000" stop="20200909080000 +0000" channel="Top Channel HD">
     <title lang="sq">Wake Up</title>
-    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.(n)</desc>
+    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.</desc>
   </programme>
   <programme start="20200909080000 +0000" stop="20200909100000 +0000" channel="Top Channel HD">
     <title lang="sq">Kojota</title>
-    <desc lang="sq">Pjesa 227,228.(n)</desc>
+    <desc lang="sq">Pjesa 227,228.</desc>
   </programme>
   <programme start="20200909100000 +0000" stop="20200909104500 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909104500 +0000" stop="20200909130000 +0000" channel="Top Channel HD">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200909130000 +0000" stop="20200909134000 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909134000 +0000" stop="20200909135500 +0000" channel="Top Channel HD">
     <title lang="sq">Top Talk</title>
-    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.(n)</desc>
+    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.</desc>
   </programme>
   <programme start="20200909135500 +0000" stop="20200909140000 +0000" channel="Top Channel HD">
     <title lang="sq">Bctv</title>
   </programme>
   <programme start="20200909140000 +0000" stop="20200909150000 +0000" channel="Top Channel HD">
     <title lang="sq">Parajsa E Zonjave</title>
-    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.(n)</desc>
+    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.</desc>
   </programme>
   <programme start="20200909150000 +0000" stop="20200909162500 +0000" channel="Top Channel HD">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200909162500 +0000" stop="20200909173000 +0000" channel="Top Channel HD">
     <title lang="sq">Per'puthen</title>
-    <desc lang="sq">Program TV.(n)</desc>
+    <desc lang="sq">Program TV.</desc>
   </programme>
   <programme start="20200909173000 +0000" stop="20200909181000 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909181000 +0000" stop="20200909190000 +0000" channel="Top Channel HD">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200909190000 +0000" stop="20200909210000 +0000" channel="Top Channel HD">
     <title lang="sq">Open</title>
-    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.(n)</desc>
+    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.</desc>
   </programme>
   <programme start="20200909210000 +0000" stop="20200909220000 +0000" channel="Top Channel HD">
     <title lang="sq">Top Story Iii</title>
-    <desc lang="sq">Eshte nje cikel dokumentaresh investigativ aty ku kamera s'ka mberritur ende per te sjelle ne vemendje fenomene e veprimtari korruptive e te paligjshme, probleme sociale nga cdo cep i vendit..(n)</desc>
+    <desc lang="sq">Eshte nje cikel dokumentaresh investigativ aty ku kamera s'ka mberritur ende per te sjelle ne vemendje fenomene e veprimtari korruptive e te paligjshme, probleme sociale nga cdo cep i vendit..</desc>
   </programme>
   <programme start="20200909220000 +0000" stop="20200909223500 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200909223500 +0000" stop="20200909233000 +0000" channel="Top Channel HD">
     <title lang="sq">Top Talk</title>
-    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.(n)</desc>
+    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.</desc>
   </programme>
   <programme start="20200909233000 +0000" stop="20200910003000 +0000" channel="Top Channel HD">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200910003000 +0000" stop="20200910010000 +0000" channel="Top Channel HD">
     <title lang="sq">Shtepiake Te Deshperuara Iii</title>
-    <desc lang="sq">Seria 5.(n)</desc>
+    <desc lang="sq">Seria 5.</desc>
   </programme>
   <programme start="20200910010000 +0000" stop="20200910013500 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910013500 +0000" stop="20200910031000 +0000" channel="Top Channel HD">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200910031000 +0000" stop="20200910041000 +0000" channel="Top Channel HD">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200910041000 +0000" stop="20200910050000 +0000" channel="Top Channel HD">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.(n)</desc>
+    <desc lang="sq">Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</desc>
   </programme>
   <programme start="20200910050000 +0000" stop="20200910080000 +0000" channel="Top Channel HD">
     <title lang="sq">Wake Up</title>
-    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.(n)</desc>
+    <desc lang="sq">Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.</desc>
   </programme>
   <programme start="20200910080000 +0000" stop="20200910100000 +0000" channel="Top Channel HD">
     <title lang="sq">Kojota</title>
-    <desc lang="sq">Pjesa 229,230.(n)</desc>
+    <desc lang="sq">Pjesa 229,230.</desc>
   </programme>
   <programme start="20200910100000 +0000" stop="20200910104500 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910104500 +0000" stop="20200910130000 +0000" channel="Top Channel HD">
     <title lang="sq">Shqiperia Live</title>
-    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.(n)</desc>
+    <desc lang="sq">Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria.</desc>
   </programme>
   <programme start="20200910130000 +0000" stop="20200910134000 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910134000 +0000" stop="20200910135500 +0000" channel="Top Channel HD">
     <title lang="sq">Top Talk</title>
-    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.(n)</desc>
+    <desc lang="sq">Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës.</desc>
   </programme>
   <programme start="20200910135500 +0000" stop="20200910140000 +0000" channel="Top Channel HD">
     <title lang="sq">Bctv</title>
   </programme>
   <programme start="20200910140000 +0000" stop="20200910150000 +0000" channel="Top Channel HD">
     <title lang="sq">Parajsa E Zonjave</title>
-    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.(n)</desc>
+    <desc lang="sq">3 vjet pas vdekjes se Pietro Morit, Vitorio Konti ben nje investim gjigant ne "Parajsen e zonjave" fale nje huaje qe merr nga Umberto Guarnieri qe do ta fuse ne telashe me kohe. Po Vitorio ka probleme sentimentale, pasi familja e Martes eshte kunder.</desc>
   </programme>
   <programme start="20200910150000 +0000" stop="20200910162500 +0000" channel="Top Channel HD">
     <title lang="sq">Ftese Ne Pese</title>
-    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.(n)</desc>
+    <desc lang="sq">Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun.</desc>
   </programme>
   <programme start="20200910162500 +0000" stop="20200910173000 +0000" channel="Top Channel HD">
     <title lang="sq">Per'puthen</title>
-    <desc lang="sq">Program TV.(n)</desc>
+    <desc lang="sq">Program TV.</desc>
   </programme>
   <programme start="20200910173000 +0000" stop="20200910181000 +0000" channel="Top Channel HD">
     <title lang="sq">Lajme, Moti</title>
-    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.(n)</desc>
+    <desc lang="sq">Lajmet kryesore te dites nga vendi dhe bota.</desc>
   </programme>
   <programme start="20200910181000 +0000" stop="20200910190000 +0000" channel="Top Channel HD">
     <title lang="sq">Fiks Fare</title>
-    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.(n)</desc>
+    <desc lang="sq">Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do.</desc>
   </programme>
   <programme start="20200910190000 +0000" stop="20200910220000 +0000" channel="Top Channel HD">
     <title lang="sq">Open</title>
-    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.(n)</desc>
+    <desc lang="sq">Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili.</desc>
   </programme>
   <programme start="20200909001500 +0200" stop="20200909013000 +0200" channel="Vizion Plus">
     <title lang="sq">LUGINA E UJQERVE rts</title>
@@ -8997,5 +9037,1495 @@ fanta-shkencës. "Ylli i Vdekjes" është arma përbindësh që është shfaqur 
   <programme start="20200914040000 +0200" stop="20200914050000 +0200" channel="Klan Plus HD">
     <title lang="sq">LIGJ DHE RREGULL serial R</title>
     <desc lang="sq">LIGJ DHE RREGULL serial R.</desc>
+  </programme>
+  <programme start="20200909002500 +0200" stop="20200909003000 +0200" channel="21 Junior">
+    <title lang="sq">spot</title>
+    <desc lang="sq">spot.(n)</desc>
+    <category lang="sq">spot</category>
+  </programme>
+  <programme start="20200909003000 +0200" stop="20200909004000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">33  (serial).(n)</desc>
+    <category lang="sq">33  (serial)</category>
+  </programme>
+  <programme start="20200909004000 +0200" stop="20200909010000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909010000 +0200" stop="20200909010000 +0200" channel="21 Junior">
+    <title lang="sq">Titulli panjohur</title>
+  </programme>
+  <programme start="20200909010000 +0200" stop="20200909013000 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">21 ( serial).(n)</desc>
+    <category lang="sq">21 ( serial)</category>
+  </programme>
+  <programme start="20200909013000 +0200" stop="20200909020000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909020000 +0200" stop="20200909023000 +0200" channel="21 Junior">
+    <title lang="sq">Letrat e Feliksit</title>
+    <desc lang="sq">26 ( serial).(n)</desc>
+    <category lang="sq">26 ( serial)</category>
+  </programme>
+  <programme start="20200909023000 +0200" stop="20200909040000 +0200" channel="21 Junior">
+    <title lang="sq">Mbreti David</title>
+    <desc lang="sq">( film viz).(n)</desc>
+    <category lang="sq">( film viz)</category>
+  </programme>
+  <programme start="20200909040000 +0200" stop="20200909043000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">33  (serial).(n)</desc>
+    <category lang="sq">33  (serial)</category>
+  </programme>
+  <programme start="20200909043000 +0200" stop="20200909050000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909050000 +0200" stop="20200909053000 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">21 ( serial).(n)</desc>
+    <category lang="sq">21 ( serial)</category>
+  </programme>
+  <programme start="20200909053000 +0200" stop="20200909060000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909060000 +0200" stop="20200909070000 +0200" channel="21 Junior">
+    <title lang="sq">Spote</title>
+    <desc lang="sq">Spote.(n)</desc>
+    <category lang="sq">Spote</category>
+  </programme>
+  <programme start="20200909070000 +0200" stop="20200909083000 +0200" channel="21 Junior">
+    <title lang="sq">Lajmerimi me muzike</title>
+    <desc lang="sq">Lajmerimi me muzike.(n)</desc>
+    <category lang="sq">Lajmerimi me muzike</category>
+  </programme>
+  <programme start="20200909083000 +0200" stop="20200909085500 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">22 ( serial).(n)</desc>
+    <category lang="sq">22 ( serial)</category>
+  </programme>
+  <programme start="20200909085500 +0200" stop="20200909090000 +0200" channel="21 Junior">
+    <title lang="sq">SPOT</title>
+    <desc lang="sq">SPOT.(n)</desc>
+    <category lang="sq">SPOT</category>
+  </programme>
+  <programme start="20200909090000 +0200" stop="20200909092500 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 1</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200909092500 +0200" stop="20200909093000 +0200" channel="21 Junior">
+    <title lang="sq">Spote</title>
+    <desc lang="sq">Spote.(n)</desc>
+    <category lang="sq">Spote</category>
+  </programme>
+  <programme start="20200909093000 +0200" stop="20200909110000 +0200" channel="21 Junior">
+    <title lang="sq">Hapy fit</title>
+    <desc lang="sq">( film viz).(n)</desc>
+    <category lang="sq">( film viz)</category>
+  </programme>
+  <programme start="20200909110000 +0200" stop="20200909113000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909113000 +0200" stop="20200909120000 +0200" channel="21 Junior">
+    <title lang="sq">Libri i madh i natyres</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200909120000 +0200" stop="20200909123000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909123000 +0200" stop="20200909130000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200909130000 +0200" stop="20200909133000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909133000 +0200" stop="20200909135500 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 1</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200909135500 +0200" stop="20200909140000 +0200" channel="21 Junior">
+    <title lang="sq">Spot</title>
+    <desc lang="sq">Spot.(n)</desc>
+    <category lang="sq">Spot</category>
+  </programme>
+  <programme start="20200909140000 +0200" stop="20200909142500 +0200" channel="21 Junior">
+    <title lang="sq">Libri i madh i natyres</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200909142500 +0200" stop="20200909143000 +0200" channel="21 Junior">
+    <title lang="sq">Spot</title>
+    <desc lang="sq">Spot.(n)</desc>
+    <category lang="sq">Spot</category>
+  </programme>
+  <programme start="20200909143000 +0200" stop="20200909163000 +0200" channel="21 Junior">
+    <title lang="sq">Hapy fit</title>
+    <desc lang="sq">( film viz).(n)</desc>
+    <category lang="sq">( film viz)</category>
+  </programme>
+  <programme start="20200909163000 +0200" stop="20200909170000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909170000 +0200" stop="20200909172500 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">22 ( serial).(n)</desc>
+    <category lang="sq">22 ( serial)</category>
+  </programme>
+  <programme start="20200909172500 +0200" stop="20200909173000 +0200" channel="21 Junior">
+    <title lang="sq">spot</title>
+    <desc lang="sq">spot.(n)</desc>
+    <category lang="sq">spot</category>
+  </programme>
+  <programme start="20200909173000 +0200" stop="20200909175500 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 1</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200909175500 +0200" stop="20200909180000 +0200" channel="21 Junior">
+    <title lang="sq">spot</title>
+    <desc lang="sq">spot.(n)</desc>
+    <category lang="sq">spot</category>
+  </programme>
+  <programme start="20200909180000 +0200" stop="20200909183000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200909183000 +0200" stop="20200909190000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909190000 +0200" stop="20200909193000 +0200" channel="21 Junior">
+    <title lang="sq">Spote</title>
+    <desc lang="sq">Spote.(n)</desc>
+    <category lang="sq">Spote</category>
+  </programme>
+  <programme start="20200909193000 +0200" stop="20200909200000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200909200000 +0200" stop="20200909202500 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">22 ( serial).(n)</desc>
+    <category lang="sq">22 ( serial)</category>
+  </programme>
+  <programme start="20200909202500 +0200" stop="20200909203000 +0200" channel="21 Junior">
+    <title lang="sq">Spot</title>
+    <desc lang="sq">Spot.(n)</desc>
+    <category lang="sq">Spot</category>
+  </programme>
+  <programme start="20200909203000 +0200" stop="20200909210000 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 1</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200909210000 +0200" stop="20200909230000 +0200" channel="21 Junior">
+    <title lang="sq">Hapy fit</title>
+    <desc lang="sq">( film viz).(n)</desc>
+    <category lang="sq">( film viz)</category>
+  </programme>
+  <programme start="20200909230000 +0200" stop="20200910002500 +0200" channel="21 Junior">
+    <title lang="sq">Muzik</title>
+    <desc lang="sq">Muzik.(n)</desc>
+    <category lang="sq">Muzik</category>
+  </programme>
+  <programme start="20200910002500 +0200" stop="20200910003000 +0200" channel="21 Junior">
+    <title lang="sq">spot</title>
+    <desc lang="sq">spot.(n)</desc>
+    <category lang="sq">spot</category>
+  </programme>
+  <programme start="20200910003000 +0200" stop="20200910004000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200910004000 +0200" stop="20200910010000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910010000 +0200" stop="20200910013000 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">22 ( serial).(n)</desc>
+    <category lang="sq">22 ( serial)</category>
+  </programme>
+  <programme start="20200910013000 +0200" stop="20200910020000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910020000 +0200" stop="20200910023000 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 1</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200910023000 +0200" stop="20200910040000 +0200" channel="21 Junior">
+    <title lang="sq">Hapy fit</title>
+    <desc lang="sq">( film viz).(n)</desc>
+    <category lang="sq">( film viz)</category>
+  </programme>
+  <programme start="20200910040000 +0200" stop="20200910043000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200910043000 +0200" stop="20200910050000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910050000 +0200" stop="20200910053000 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">22 ( serial).(n)</desc>
+    <category lang="sq">22 ( serial)</category>
+  </programme>
+  <programme start="20200910053000 +0200" stop="20200910060000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910060000 +0200" stop="20200910070000 +0200" channel="21 Junior">
+    <title lang="sq">Spote</title>
+    <desc lang="sq">Spote.(n)</desc>
+    <category lang="sq">Spote</category>
+  </programme>
+  <programme start="20200910070000 +0200" stop="20200910083000 +0200" channel="21 Junior">
+    <title lang="sq">Lajmerimi me muzike</title>
+    <desc lang="sq">Lajmerimi me muzike.(n)</desc>
+    <category lang="sq">Lajmerimi me muzike</category>
+  </programme>
+  <programme start="20200910083000 +0200" stop="20200910085500 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">23 ( serial).(n)</desc>
+    <category lang="sq">23 ( serial)</category>
+  </programme>
+  <programme start="20200910085500 +0200" stop="20200910090000 +0200" channel="21 Junior">
+    <title lang="sq">SPOT</title>
+    <desc lang="sq">SPOT.(n)</desc>
+    <category lang="sq">SPOT</category>
+  </programme>
+  <programme start="20200910090000 +0200" stop="20200910092500 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 2</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200910092500 +0200" stop="20200910093000 +0200" channel="21 Junior">
+    <title lang="sq">Spote</title>
+    <desc lang="sq">Spote.(n)</desc>
+    <category lang="sq">Spote</category>
+  </programme>
+  <programme start="20200910093000 +0200" stop="20200910110000 +0200" channel="21 Junior">
+    <title lang="sq">Film artistik</title>
+    <desc lang="sq">Film artistik.(n)</desc>
+    <category lang="sq">Film artistik</category>
+  </programme>
+  <programme start="20200910110000 +0200" stop="20200910113000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910113000 +0200" stop="20200910120000 +0200" channel="21 Junior">
+    <title lang="sq">Libri i madh i natyres</title>
+    <desc lang="sq">35 (serial).(n)</desc>
+    <category lang="sq">35 (serial)</category>
+  </programme>
+  <programme start="20200910120000 +0200" stop="20200910123000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910123000 +0200" stop="20200910130000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">34 (serial).(n)</desc>
+    <category lang="sq">34 (serial)</category>
+  </programme>
+  <programme start="20200910130000 +0200" stop="20200910133000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910133000 +0200" stop="20200910135500 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 2</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200910135500 +0200" stop="20200910140000 +0200" channel="21 Junior">
+    <title lang="sq">Spot</title>
+    <desc lang="sq">Spot.(n)</desc>
+    <category lang="sq">Spot</category>
+  </programme>
+  <programme start="20200910140000 +0200" stop="20200910142500 +0200" channel="21 Junior">
+    <title lang="sq">Libri i madh i natyres</title>
+    <desc lang="sq">35 (serial).(n)</desc>
+    <category lang="sq">35 (serial)</category>
+  </programme>
+  <programme start="20200910142500 +0200" stop="20200910143000 +0200" channel="21 Junior">
+    <title lang="sq">Spot</title>
+    <desc lang="sq">Spot.(n)</desc>
+    <category lang="sq">Spot</category>
+  </programme>
+  <programme start="20200910143000 +0200" stop="20200910163000 +0200" channel="21 Junior">
+    <title lang="sq">Film artistik</title>
+    <desc lang="sq">Film artistik.(n)</desc>
+    <category lang="sq">Film artistik</category>
+  </programme>
+  <programme start="20200910163000 +0200" stop="20200910170000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910170000 +0200" stop="20200910172500 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">23 ( serial).(n)</desc>
+    <category lang="sq">23 ( serial)</category>
+  </programme>
+  <programme start="20200910172500 +0200" stop="20200910173000 +0200" channel="21 Junior">
+    <title lang="sq">spot</title>
+    <desc lang="sq">spot.(n)</desc>
+    <category lang="sq">spot</category>
+  </programme>
+  <programme start="20200910173000 +0200" stop="20200910175500 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 2</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200910175500 +0200" stop="20200910180000 +0200" channel="21 Junior">
+    <title lang="sq">spot</title>
+    <desc lang="sq">spot.(n)</desc>
+    <category lang="sq">spot</category>
+  </programme>
+  <programme start="20200910180000 +0200" stop="20200910183000 +0200" channel="21 Junior">
+    <title lang="sq">Magjistari</title>
+    <desc lang="sq">35  (serial).(n)</desc>
+    <category lang="sq">35  (serial)</category>
+  </programme>
+  <programme start="20200910183000 +0200" stop="20200910190000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910190000 +0200" stop="20200910193000 +0200" channel="21 Junior">
+    <title lang="sq">Spote</title>
+    <desc lang="sq">Spote.(n)</desc>
+    <category lang="sq">Spote</category>
+  </programme>
+  <programme start="20200910193000 +0200" stop="20200910200000 +0200" channel="21 Junior">
+    <title lang="sq">Muzike</title>
+    <desc lang="sq">Muzike.(n)</desc>
+    <category lang="sq">Muzike</category>
+  </programme>
+  <programme start="20200910200000 +0200" stop="20200910202500 +0200" channel="21 Junior">
+    <title lang="sq">Farhat</title>
+    <desc lang="sq">23 ( serial).(n)</desc>
+    <category lang="sq">23 ( serial)</category>
+  </programme>
+  <programme start="20200910202500 +0200" stop="20200910203000 +0200" channel="21 Junior">
+    <title lang="sq">Spot</title>
+    <desc lang="sq">Spot.(n)</desc>
+    <category lang="sq">Spot</category>
+  </programme>
+  <programme start="20200910203000 +0200" stop="20200910210000 +0200" channel="21 Junior">
+    <title lang="sq">Elefanti Benxhamin 2</title>
+    <desc lang="sq">( serial).(n)</desc>
+    <category lang="sq">( serial)</category>
+  </programme>
+  <programme start="20200910210000 +0200" stop="20200910230000 +0200" channel="21 Junior">
+    <title lang="sq">Film artistik</title>
+    <desc lang="sq">Film artistik.(n)</desc>
+    <category lang="sq">Film artistik</category>
+  </programme>
+  <programme start="20200910230000 +0200" stop="20200911002500 +0200" channel="21 Junior">
+    <title lang="sq">Muzik</title>
+    <desc lang="sq">Muzik.(n)</desc>
+    <category lang="sq">Muzik</category>
+  </programme>
+  <programme start="20200909002000 +0200" stop="20200909020000 +0200" channel="Film Nje HD">
+    <title lang="sq">Shtëpia në fund të rrugës</title>
+    <desc lang="sq">J.Lawrence. Një nënë dhe vajza e saj që sapo janë zhvendosur në një qytezë, jetojnë pranë një shtëpie ku vite më parë një çift u masakrua nga e bija. Por kur miqësohen me djalin e mbijetuar të familjes, kuptojnë se tmerri jeton ende...(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200909020000 +0200" stop="20200909034500 +0200" channel="Film Nje HD">
+    <title lang="sq">Hajduti i makinave</title>
+    <desc lang="sq">Emory Cohen, John Leguizamo. Një e kaluar e dhunshme, e çon një të ri premtues në një qendër riedukimi, ku do t'i duhet të përballet me bashkmoshatarë kriminelë e një staf të rreptë.(n)</desc>
+    <category lang="sq">Krim</category>
+    <category lang="sq">dramë-Sub.Ang</category>
+  </programme>
+  <programme start="20200909034500 +0200" stop="20200909052000 +0200" channel="Film Nje HD">
+    <title lang="sq">Bankomati</title>
+    <desc lang="sq">Alice Eve, Josh Peck, Brian Geraghty. Në përpjekje për të marrë parà, tre kolegë ndalojnë në një bankomat. Por kur bllokohen brenda kabinës së bankomatit nga një njeri misterioz, dalja prej aty do të jetë një çështje për jetë a vdekje.(n)</desc>
+    <category lang="sq">FearFest-Sub. Ang</category>
+  </programme>
+  <programme start="20200909052000 +0200" stop="20200909065000 +0200" channel="Film Nje HD">
+    <title lang="sq">Vetëm për paratë</title>
+    <desc lang="sq">Katherine Heigl. Një 30 vjeçare e sapo divorcuar, fillon të punojë si 'gjuetare shpërblimesh' dhe merr çështjen e parë. Ajo është e prerë për këtë zanat, por problemi është se njeriu që duhet të gjejë, është ish i dashuri i saj.(n)</desc>
+    <category lang="sq">Komedi-Sub. Ang</category>
+  </programme>
+  <programme start="20200909065000 +0200" stop="20200909082000 +0200" channel="Film Nje HD">
+    <title lang="sq">Një gozhdë</title>
+    <desc lang="sq">Jason Ritter, Jake Sandvig. Dy miq të pandarë rreth të 25-ave, por që sillen ende si adoleshentë, mësojnë mbi përgjegjësinë kur fillojnë të kujdesen për një fëmijë të braktisur nga fqinja e tyre...(n)</desc>
+    <category lang="sq">Dramë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909082000 +0200" stop="20200909102000 +0200" channel="Film Nje HD">
+    <title lang="sq">Lindja</title>
+    <desc lang="sq">B.Marling, A.Skarsgard.  Një agjente e re e një firme private hetimi, ngarkohet me misionin për t'u futur në një organizatë të quajtur 'Lindja'... Shumë shpejt ajo fillon të ketë ndjenja për liderin karizmatik të kësaj organizate...(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200909102000 +0200" stop="20200909120500 +0200" channel="Film Nje HD">
+    <title lang="sq">Vera e jetës sime</title>
+    <desc lang="sq">Liam James, Steve Carell. Ndërkohë që detyrohet të shkojë me pushime me nënën e tij dhe të dashurin e saj, një 14 vjeçar miqësohet me një punonjës në një park ujor. Ai, do ti mësojë djalit, sesi të notojë përmes sfidave të jetës...(n)</desc>
+    <category lang="sq">Dramë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909120500 +0200" stop="20200909140500 +0200" channel="Film Nje HD">
+    <title lang="sq">Beteja e Los Anxhelosit</title>
+    <desc lang="sq">Aaron Eckhart, Michelle Rodriguez. Toka është pushtuar nga jashtëtokësorë që kërkojnë të shfarosin njerëzimin. Një skuadër marinsash, po përpiqen të luftojnë armikun dhe fati i njerëzve mund të varet nga suksesi i misionit të tyre...(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200909140500 +0200" stop="20200909154500 +0200" channel="Film Nje HD">
+    <title lang="sq">Qark i mbyllur</title>
+    <desc lang="sq">Eric Bana, Rebecca Hall. Jeta e dy avokatëve të shkëlqyer me një të kaluar romantike, vihet në rrezik, kur ata marrin në mbrojtje të dyshuarin e shpërthimit të një bombe në një autobus të Londrës.(n)</desc>
+    <category lang="sq">Krim-Sub. Ang</category>
+  </programme>
+  <programme start="20200909154500 +0200" stop="20200909172500 +0200" channel="Film Nje HD">
+    <title lang="sq">5 vitet e fundit</title>
+    <desc lang="sq">Anna Kendrick, Jeremy Jordan. Ekranizim i veprës së kompozitorit dhe poetit të njohur Xhejson Robert Braun. Një zbërthim muzikor i një lidhjeje dashurie dhe martese që ndodh gjatë pesë viteve...(n)</desc>
+    <category lang="sq">Muzikë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909172500 +0200" stop="20200909190000 +0200" channel="Film Nje HD">
+    <title lang="sq">Armiku</title>
+    <desc lang="sq">Jake Gyllenhaal. Bazuar në romanin e José Saramagos. Kur një akademik me jetë monotone zbulon sozinë e tij në një film, nis një kërkim për të mësuar se cili është ky alter ego i tij, por zbulojn ngjashmëri edhe midis partnereve të tyre...(n)</desc>
+    <category lang="sq">Thriller psikologjik-Sub. Ang</category>
+  </programme>
+  <programme start="20200909190000 +0200" stop="20200909212000 +0200" channel="Film Nje HD">
+    <title lang="sq">Lojërat e urisë</title>
+    <desc lang="sq">Jennifer Lawrence. Në të ardhmen, në shtetin totalitar të Panemit, 24 vajza dhe djem adoleshentë përzgjidhen për një lojë nga ku vetëm njëri mund të dalë gjallë... Katnis del vullnetare në vend të së motrës. A do ja dalë të mbijetojë?(n)</desc>
+    <category lang="sq">Aventurë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909212000 +0200" stop="20200909225500 +0200" channel="Film Nje HD">
+    <title lang="sq">Kredhje në të kaluarën 2</title>
+    <desc lang="sq">Pesë vjet pas udhëtimit në të shkuarën, katër djemtë aventurierë notojnë në para dhe sukses. Kur njëri prej tyre gjendet në telashe, tre të tjerët përpiqen të kthehen në kohë për ta ndihmuar, por, në fakt, përfundojnë në të ardhmen...(n)</desc>
+    <category lang="sq">Komedi-Sub. Ang</category>
+  </programme>
+  <programme start="20200909225500 +0200" stop="20200910003500 +0200" channel="Film Nje HD">
+    <title lang="sq">Gruaja me të zeza</title>
+    <desc lang="sq">D.Radcliffe. Një avokat i ri, detyrohet të shkojë në një fshat të izoluar për t'u kujdesur për shtëpinë e një njeriu të pasur që sapo ka ndërruar jetë. Por ndërkohë që ndodhet i vetëm në shtëpi, ai do të zbulojë një sekret të tmerrshëm...(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200910003500 +0200" stop="20200910021000 +0200" channel="Film Nje HD">
+    <title lang="sq">Varësia e Don Xhonit</title>
+    <desc lang="sq">Joseph Gordon-Levitt, Scarlett Johansson. Një djalosh simpatik, i dedikuar pas familjes, miqve dhe kishës, përpiqet të ruajë lidhjen me një vajzë të çiltër, por varësia ndaj pornografisë rrezikon të rrënojë gjithçka.(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">romancë-Sub.Ang</category>
+  </programme>
+  <programme start="20200910021000 +0200" stop="20200910040000 +0200" channel="Film Nje HD">
+    <title lang="sq">Pasioni</title>
+    <desc lang="sq">Me regji dhe skenar nga Brian De Palma, vjen një thriller erotik. Rachel McAdams dhe Noomi Rapace, në rolin e dy grave të rëndësishme në një korporatë ndërkombëtare, rivaliteti i të cilave do të sjellë seks, shantazh dhe vrasje...(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200910040000 +0200" stop="20200910055000 +0200" channel="Film Nje HD">
+    <title lang="sq">Nën yllin e fatit</title>
+    <desc lang="sq">Carlo Verdone, Paola Cortellesi. Kur humbet punën, të fejuarën e re dhe mbetesh i vetëm në shtëpi me dy femijët nga gruaja e parë dhe me një mbesë, a mund të jetë shpëtimi fqinja e derës ngjitur?(n)</desc>
+    <category lang="sq">Komedia Italiane-Sub.Ang</category>
+  </programme>
+  <programme start="20200910055000 +0200" stop="20200910074000 +0200" channel="Film Nje HD">
+    <title lang="sq">Vjedhësit e vjedhësve</title>
+    <desc lang="sq">Michael Pitt, Nina Arianda, Andy Garcia. Bazuar në historinë e vërtetë të çiftit Nju Jorkez, Tomas Uva dhe Rozi, të dashuruar marrëzisht pas njëri-tjetrit, të cilit në vitin 1992, filluan të grabisnin mafiozët më me emër të qytetit...(n)</desc>
+    <category lang="sq">Krim-Sub. Ang</category>
+  </programme>
+  <programme start="20200910074000 +0200" stop="20200910091500 +0200" channel="Film Nje HD">
+    <title lang="sq">Alan Partrixh</title>
+    <desc lang="sq">Steve Coogan. Alan Partrixh, folësi i një radioje shumë të njohur, e gjen veten në mes të një katrahureje të madhe, kur stacioni i radios blihet nga një kompani gjigante dhe ata pushojnë kolegun e tij nga puna...(n)</desc>
+    <category lang="sq">Komedi-Sub. Ang</category>
+  </programme>
+  <programme start="20200910091500 +0200" stop="20200910114000 +0200" channel="Film Nje HD">
+    <title lang="sq">Agjenti 007: Operacioni Skyfal</title>
+    <desc lang="sq">Daniel Craig, Javier Bardem. Fitues i 2 çmimeve Oskar. Në kapitullin më të fundit të sagës 'Agjenti 007',  besnikëria e Xhejms Bond, ndaj eprores së tij 'M' vihet në dilemë, kur e kaluara e saj sjell pasoja të rrezikshme...(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200910114000 +0200" stop="20200910131500 +0200" channel="Film Nje HD">
+    <title lang="sq">Sezoni i gjuetisë së shtrigave</title>
+    <desc lang="sq">Nicolas Cage, Claire Foy. Në Evropën e pushtuar nga 'Vdekja e zezë' një kalorës urdhërohet nga kisha të transportojë drejt një manastiri një vajzë të akuzuar si shtrigë. Një udhëtim i rrezikshëm ku ai përballet me një forcë të tmerrshme.(n)</desc>
+    <category lang="sq">Aventurë</category>
+    <category lang="sq">fantazi-Sub. Ang</category>
+  </programme>
+  <programme start="20200910131500 +0200" stop="20200910150500 +0200" channel="Film Nje HD">
+    <title lang="sq">Një dashuri mes dy botëve</title>
+    <desc lang="sq">Jim Sturgess, Kirsten Dunst. Adam dhe Eden, janë të dashuruar marrëzisht edhe pse jetojnë në dy botë paralele, që shtyhen nga gravitete të kundërta. Vite më vonë, Adami nis një udhëtim të rrezikshëm për tu bashkuar me Edenin...(n)</desc>
+    <category lang="sq">Romancë-Sub. Ang</category>
+  </programme>
+  <programme start="20200910150500 +0200" stop="20200910171000 +0200" channel="Film Nje HD">
+    <title lang="sq">Kapiten Amerika: Hakmarrësi i</title>
+    <desc lang="sq">C.Evans, H.Weaving. Lufta e II Botërore. Një i ri nuk pranohet në ushtri, për shkak të fizikut të dobët. Pasi zgjidhet në një program eksperimental, ai fiton fuqi të jashtëzakonshme, që do t'i përdorë kundër një organizate kriminale...(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200910171000 +0200" stop="20200910190000 +0200" channel="Film Nje HD">
+    <title lang="sq">Klubi i fitimtarëve</title>
+    <desc lang="sq">Viti i prodhimit: 2011. Nga Thomas McCarthy Kandidat për çmimin Oskar. Regjisori i  filmave 'The Visitor' dhe 'The Station Agent'. Me Paul Giamatti , Alex Shaffer, Amy Ryan . Në ndeshjen e jetës ose fiton ose humb gjithcka.(n)</desc>
+    <category lang="sq">Dramë-Sub. Ang</category>
+  </programme>
+  <programme start="20200910190000 +0200" stop="20200910203500 +0200" channel="Film Nje HD">
+    <title lang="sq">Ringjallja e Djallit</title>
+    <desc lang="sq">Jane Levy. Një riprodhim mjaft i vlerësuar i filmit kult të vitit 1981, të mjeshtrit Sam Raimi! Pushimet e pesë miqëve, do të kthehen në luftë për jetë a vdekje, kur ata zbulojnë një libër mbi të vdekurit dhe pa dashje zgjojnë djajtë.(n)</desc>
+    <category lang="sq">Horror-Sub. Ang</category>
+  </programme>
+  <programme start="20200910203500 +0200" stop="20200910222000 +0200" channel="Film Nje HD">
+    <title lang="sq">Dashuri para apokalipsit</title>
+    <desc lang="sq">Steve Carell, Keira Knightley. Ndërkohë që një asteroid i është drejtuar Tokës dhe kanë mbetur pak ditë nga përplasja fatale, një njeri vendos të çlirohet nga çdo peng, ndaj ndërmerr një udhëtim për të takuar ish të dashurën.(n)</desc>
+    <category lang="sq">Dramë-Sub. ang</category>
+  </programme>
+  <programme start="20200910222000 +0200" stop="20200911011000 +0200" channel="Film Nje HD">
+    <title lang="sq">Atlasi i Reve</title>
+    <desc lang="sq">Tom Hanks, Halle Berry. Bazuar tek romani me të njëjtin titull i shkrimtarit britani, Thomas Mitchell. Një realizim ambicioz që tregon lidhjen mes shkaqeve dhe pasojave të veprimeve tona përmes gjashtë epokave të ndryshme të njerëzimit.(n)</desc>
+    <category lang="sq">Sub.Ang</category>
+  </programme>
+  <programme start="20200911011000 +0200" stop="20200911031500 +0200" channel="Film Nje HD">
+    <title lang="sq">5 vjet fejesë</title>
+    <desc lang="sq">Jason Segel, Emily Blunt. Pas një viti së bashku, Tom i propozon të dashurës së tij, për t'u martuar. Por planet e tyre për dasmën, për një arsye apo një tjetër shtyhen dhe fejesa do të zgjasë shumë më tepër nga sa e kishin menduar...(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200909010500 +0200" stop="20200909025500 +0200" channel="Film Dy HD">
+    <title lang="sq">Vrasësi</title>
+    <desc lang="sq">Nga regjizori John Woo, nën interpretimin e Chow Yun Fat. Rrëfimi i marrëdhënies karakteristike mes një vrasësi me parime dhe një polici pa skrupuj. Një film klasik që ka qënë frymëzimi i vizionit unik të një regjizori të madh.(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200909025500 +0200" stop="20200909050000 +0200" channel="Film Dy HD">
+    <title lang="sq">Idlewild: Pasion dhe ritëm</title>
+    <desc lang="sq">Dy anëtarët e grupit mjaft të njohur Outkast, André Benjamin dhe Big Boi, në një film mbi pasionin, ritmin dhe problemet e shumta në një kabare për njerëzit me ngjyrë, gjatë viteve të Prohibicionizmit.(n)</desc>
+    <category lang="sq">Dramë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909050000 +0200" stop="20200909070000 +0200" channel="Film Dy HD">
+    <title lang="sq">Speed 1</title>
+    <desc lang="sq">Keanu Reeves, Sandra Bullock. Një ish polic i përjashtuar nga radhët e policisë nis një lojë perverse. Jeta e pasagjerëve të një autobuzi është vënë në rrezik. Një bombe mund te shpërthejë nga casti në cast.(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200909070000 +0200" stop="20200909083500 +0200" channel="Film Dy HD">
+    <title lang="sq">Zemër e vrarë</title>
+    <desc lang="sq">Jessica Biel. Mei, një instruktore joge, e gjen veten të sillet në mënyra që kurrë nuk do të kishte imagjinuar për të mbrojtur motrën biologjike që sapo e ka takuar, nga i dashuri i saj i dhunshëm.(n)</desc>
+    <category lang="sq">Dramë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909083500 +0200" stop="20200909101000 +0200" channel="Film Dy HD">
+    <title lang="sq">Dublantja e nuses</title>
+    <desc lang="sq">Kelly Macdonald, David Tennant, Alice Eve. Një aktore e famshme, e cila do të martohet në një fshat skocez, punëson një grua vendase për të tërhequr vëmendjen e medias që nuk e lë të qetë...(n)</desc>
+    <category lang="sq">Komedi romantike-Sub. Ang</category>
+  </programme>
+  <programme start="20200909101000 +0200" stop="20200909120500 +0200" channel="Film Dy HD">
+    <title lang="sq">Vjedhje ne Itali</title>
+    <desc lang="sq">Nje bande hajdutesh me ne krye Charlie Croker-in, realizon nje vjedhje spetakolare ne Itali. Por, dikush do t'jua marre trofene rruges dhe gjithcka zhvendoset ne Los Anxhelos.(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200909120500 +0200" stop="20200909135000 +0200" channel="Film Dy HD">
+    <title lang="sq">Plani i fluturimit</title>
+    <desc lang="sq">Jodie Foster, Peter Sarsgaard. Një nënë në zi gjendet në një pozitë të tmerrshme, duke vënë në dyshim edhe gjendjen e saj mendore, kur e bija zhduket në mes të një fluturimi dhe askush nuk pohon ta ketë parë mbi atë avion. Titra shqip-anglisht.(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200909135000 +0200" stop="20200909152500 +0200" channel="Film Dy HD">
+    <title lang="sq">Laguna blu: Rizgjimi</title>
+    <desc lang="sq">Indiana Evans, Brenton Thwaites. Dy të rinj adoleshentë bien në dashuri, ndërkohë që mbështeten tek njëri-tjetri për të mbijetuar në një ishull të pabanuar tropikal...(n)</desc>
+    <category lang="sq">Romance-Sub. Ang</category>
+  </programme>
+  <programme start="20200909152500 +0200" stop="20200909170000 +0200" channel="Film Dy HD">
+    <title lang="sq">Më vrit tri herë</title>
+    <desc lang="sq">Simon Pegg, Teresa Palmer, Alice Braga. Pasi dështon të eliminiojë një vajzë, një vrasës profesionist zbulon se ai nuk ishte i vetmi që e kishte shënjestruar dhe e gjen veten në tri histori vrasjeje, shantazhi dhe hakmarrjeje.(n)</desc>
+    <category lang="sq">Thriller-Sub. Ang</category>
+  </programme>
+  <programme start="20200909170000 +0200" stop="20200909200000 +0200" channel="Film Dy HD">
+    <title lang="sq">Galaktika</title>
+    <desc lang="sq">E.J.Olmos, M.McDonnell, K.Sackhoff. Kanë kaluar 40 vjet që kur 12 Kolonitë e Njerëzimit ishin në armëpushim me Sajlonët, krijesat robotike. Por tani, një luftë e re më e ashpër dhe e rrezikshme i kanoset Kolonive.(n)</desc>
+    <category lang="sq">Aventurë-Sub. Ang</category>
+  </programme>
+  <programme start="20200909200000 +0200" stop="20200909213000 +0200" channel="Film Dy HD">
+    <title lang="sq">Shoqe të këqija</title>
+    <desc lang="sq">R.McGowan. Tre vajzat më popullore të shkollës vendosin t'i bëjnë një shaka shoqes së tyre. Ato gjenden në një situate të pamundur kur shoqja e tyre vdes. Ato mundohen ta fshehin krimin duke korruptuar të vetmin person që di gjithçka.(n)</desc>
+    <category lang="sq">Komedi-Sub. Ang</category>
+  </programme>
+  <programme start="20200909213000 +0200" stop="20200910005500 +0200" channel="Film Dy HD">
+    <title lang="sq">Toka e të vdekurve</title>
+    <desc lang="sq">Kufoma njerëzish të pavarrosur po kthehen në jete dhe kanë pushtuar botën. Të gjallët e  mbetur janë strehuar në nje qytet të fortifikuar, kurse të vdekurit po bëhen gjithmonë e më të zgjuar dhe po organizohen për një sulm të rrezikshëm.(n)</desc>
+    <category lang="sq">Horror-Sub. Ang</category>
+  </programme>
+  <programme start="20200910005500 +0200" stop="20200910030000 +0200" channel="Film Dy HD">
+    <title lang="sq">Plazhi</title>
+    <desc lang="sq">Leonardo DiCaprio, Virginie Ledoyen. Me një hartë në dorë, që tregon për një ishull përrallor, një i ri i shoqëruar edhe nga një djale e një vajzë nisen në kërkim të parajsës. Por edhe në parajsë, jo çdo gjë shkon në mënyrë perfekte.(n)</desc>
+    <category lang="sq">Dramë-Sub. Ang</category>
+  </programme>
+  <programme start="20200910030000 +0200" stop="20200910045000 +0200" channel="Film Dy HD">
+    <title lang="sq">Toka e Luftëtarëve</title>
+    <desc lang="sq">Pasi fisi i tij u masakrua prej një akti tradhtie, djali adoleshent i prijësit të Maorëve do të hakmerret për vrasjen e të atit dhe për të sjellë paqe e nder shpirtrave të të dashurve të tij.(n)</desc>
+    <category lang="sq">Aksion-Sub.Ang</category>
+  </programme>
+  <programme start="20200910045000 +0200" stop="20200910063000 +0200" channel="Film Dy HD">
+    <title lang="sq">Adami dhe klonet e tij</title>
+    <desc lang="sq">Jeta për Adamin është punë, mësime, punë. Papritur ai do të gjejë zgjidhjen e duhur. Ai do të zbulojë një makinë klonimi...  Por shumë shpejt zgjidhja do të kthehet në telash...(n)</desc>
+    <category lang="sq">Familjar-Sub. Ang</category>
+  </programme>
+  <programme start="20200910063000 +0200" stop="20200910082000 +0200" channel="Film Dy HD">
+    <title lang="sq">Eduard duargërshëra</title>
+    <desc lang="sq">Johnny Depp, Winona Ryder. Historia e Eduardit, një të riu që në vend të duarve ka gërshërë, i cili pas shumë vitesh vetmie, largohet nga kështjella për të jetuar mes njerëzve dhe për të provuar çdo ndjenjë deri atëherë të panjohur për të.(n)</desc>
+    <category lang="sq">Fantazi</category>
+    <category lang="sq">romancë-Sub.Ang</category>
+  </programme>
+  <programme start="20200910082000 +0200" stop="20200910102500 +0200" channel="Film Dy HD">
+    <title lang="sq">Komplotistja</title>
+    <desc lang="sq">Një dramë historike me regji të Robert Redford. Historia e Mary Surratt (Robin Wright), e vetmja komplotiste femër, e akuzuar dhe ekzekutuar  nga qeveria federale e Shteteve të Bashkuara për vrasjen Abraham Lincoln...(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200910102500 +0200" stop="20200910125000 +0200" channel="Film Dy HD">
+    <title lang="sq">Raporti i Pakicës</title>
+    <desc lang="sq">Regjia: Steven Spielberg. Tom Cruise, Colin Farrell. Në të ardhmen, një program që zbulon krimet para se të ndodhin, identifikon një nga oficerët më të mirë si personin e rradhës dhe ai duhet të marrë arratinë dhe të zbulojë të vërtetën..(n)</desc>
+    <category lang="sq">Thriller-Sub. Ang</category>
+  </programme>
+  <programme start="20200910125000 +0200" stop="20200910143000 +0200" channel="Film Dy HD">
+    <title lang="sq">Në moshën e papjekurisë</title>
+    <desc lang="sq">Charlize Theron. Një grua në mesin e të 30-ve, që ende vazhdon të sillet si adoleshente, vendos të rikthehet në qytetin e lindjes dhe të rifitojë zemrën e ish të dashurit, tashmë i martuar... Por plani nuk shkon ashtu si duhet...(n)</desc>
+    <category lang="sq">Komedi e zezë-Sub. Ang</category>
+  </programme>
+  <programme start="20200910143000 +0200" stop="20200910161500 +0200" channel="Film Dy HD">
+    <title lang="sq">Shpirti</title>
+    <desc lang="sq">2008.Samuel L. Jackson, Gabriel Macht, Scarlett Johansson, Eva Mendes. Një film nga producentët e 'Sin City'. Një polic, kthehet nga bota e përtejme dhe i kundërvihet një krimineli të pamëshirshmëm që ka zaptuar gjithë qytetin...(n)</desc>
+    <category lang="sq">Aksion-Sub. Ang</category>
+  </programme>
+  <programme start="20200910161500 +0200" stop="20200910180000 +0200" channel="Film Dy HD">
+    <title lang="sq">Majls Dejvis-Sekreti i legjend</title>
+    <desc lang="sq">Don Cheadle, Ewan McGrego. Historia e jetës dhe karrierës së legjendës së muzikës xhaz, Majls Dejvis...(n)</desc>
+    <category lang="sq">Biografi</category>
+    <category lang="sq">-Sub. Ang</category>
+  </programme>
+  <programme start="20200910180000 +0200" stop="20200910200000 +0200" channel="Film Dy HD">
+    <title lang="sq">Për 60 sekonda</title>
+    <desc lang="sq">Nicolas Cage, Angelina Jolie, Giovanni Ribisi. Për të shpëtuar vëllain e tij, një ish hajdut makinash, duhet t'i kthehet zanatit të vjetër dhe të vjedhë 50 makinat më luksoze të qytetit, brenda një nate të vetme.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim-Sub.Ang</category>
+  </programme>
+  <programme start="20200910200000 +0200" stop="20200910215000 +0200" channel="Film Dy HD">
+    <title lang="sq">Tregtarët e seksit</title>
+    <desc lang="sq">Luke Wilson. Historia e biznesmenit, që bëri të mundur shitjen e videove dhe fotove erotike në internet. Përpjekjet e tij për të bërë një jetë normale mes mafiozëve, mashtruesve, drogës dhe ligjit.(n)</desc>
+    <category lang="sq">Sub. Ang</category>
+  </programme>
+  <programme start="20200910215000 +0200" stop="20200911012000 +0200" channel="Film Dy HD">
+    <title lang="sq">Natë frike</title>
+    <desc lang="sq">Colin Farrell, Anton Yelchin. Një adoleshent zbulon se fqinji i tij i sapo ardhur, fsheh një sekret të frikshëm. Ndryshe nga ç'tregon pamja e tij e jashtme, ai është një vampir, që s'ndalet para asgjëje...(n)</desc>
+    <category lang="sq">Fearfest-Sub. Ang</category>
+  </programme>
+  <programme start="20200911012000 +0200" stop="20200911025000 +0200" channel="Film Dy HD">
+    <title lang="sq">Askush s'mbetet gjallë</title>
+    <desc lang="sq">Një grup kiminelësh të pashpirt, rrëmbejnë një familje dhe e çojnë në një shtëpi të braktisur. Por kur vajza vritet, ata përballen me zemërimin e një vrasësi profesionist, i cili do të sigurohet që askush të mos mbetet gjallë...(n)</desc>
+    <category lang="sq">Horror-Sub. Ang</category>
+  </programme>
+  <programme start="20200909003500 +0200" stop="20200909022000 +0200" channel="Film Komedi">
+    <title lang="sq">Lindur për të qenë yll</title>
+    <desc lang="sq">Don Johnson, Christina Ricci. Jo të gjithë trashëgojnë talentin e prindërve, por kur Bucky mëson profesionin e vjetër të prindërve konservatorë, fiton besim dhe i drejtohet Los Anxhelosit që të ndjekë hapat e tyre...të bëhet aktor filmash porno.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909022000 +0200" stop="20200909041500 +0200" channel="Film Komedi">
+    <title lang="sq">Zohan: Liçensë për të krehur</title>
+    <desc lang="sq">Adam Sandler, John Turturro, Emmanuelle Chriqui. Pas vdekjes së tij të rreme, agjenti izraelit i forcave speciale Zohan, shkon në New York për të filluar një jetë të re si parukier. Parukier me metodat më të pazakonta që keni parë ndonjëherë.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909041500 +0200" stop="20200909060000 +0200" channel="Film Komedi">
+    <title lang="sq">Gjithë fiksimet e Bobit</title>
+    <desc lang="sq">Bill Murray, Richard Dreyfuss. Një psikiatër humbet kontrollin kur një nga pacientët e tij më problematike, plot me fiksime, por dhe një manipulator i llahtarshëm, i ngjitet pas kur ai shkon me pushime së bashku me familjen.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909060000 +0200" stop="20200909075000 +0200" channel="Film Komedi">
+    <title lang="sq">E paplotësuar</title>
+    <desc lang="sq">Eliza Dushku. Xhejn është një 20-vjeçare që vuan nga autizmi i lehtë. E dashuruar me filmat klasikë dhe e frymëzuar nga fejesa e motrës tepër protektive, ajo kërkon ndihmën e saj për të gjetur një të dashur.(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200909075000 +0200" stop="20200909092500 +0200" channel="Film Komedi">
+    <title lang="sq">Ku janë burrat?</title>
+    <desc lang="sq">Eva Longoria, Christian Slater. Gratë e një qyteze të largët të Amerikës Latine detyrohen të mësojnë të jetojnë ndryshe, kur të gjithë burrat e qytetit detyrohen të shkojnë në luftë.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909092500 +0200" stop="20200909111000 +0200" channel="Film Komedi">
+    <title lang="sq">13 për 30</title>
+    <desc lang="sq">Jennifer Garner, Mark Ruffalo. Një vajzë shpreh një dëshirë në ditëlindjen e saj të 13-të dhe mëngjesin tjetër zgjohet si një 30 vjeçare. Por edhe pse e suksesshme, jeta si e rritur nuk është edhe aq e lehtë...(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">fantazi</category>
+  </programme>
+  <programme start="20200909111000 +0200" stop="20200909130000 +0200" channel="Film Komedi">
+    <title lang="sq">Propozimi</title>
+    <desc lang="sq">Sandra Bullock, Ryan Reynolds. E përballur me dëbimin nga Amerika, për shkak të problemeve me vizën, një drejtuese e një reviste të njohur pretendon se është fejuar me asistentin e saj, të cilit ia ka nxirrë jetën për vite të tëra...(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200909130000 +0200" stop="20200909145000 +0200" channel="Film Komedi">
+    <title lang="sq">Ritëm i përsosur</title>
+    <desc lang="sq">A.Kendrick. Beka sapo ka filluar universitetin. Kur talenti i saj në te kënduar zbulohet, ajo detyrohet t'i bashkohet grupit muzikor të vajzave. Me stilin e saj, ajo do ta ndryshojë ritmin e grupit dhe së bashku do të jenë të pandalshme...(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">muzikë</category>
+    <category lang="sq">romancë</category>
+  </programme>
+  <programme start="20200909145000 +0200" stop="20200909163000 +0200" channel="Film Komedi">
+    <title lang="sq">Shoqëruesi i stisur</title>
+    <desc lang="sq">Kevin Hart, Josh Gad. Dy javë para dasmës, një njeri pa shumë miq, puneson një kompani që siguron shoqërues të rremë për dhëndrin në ditën e dasmës...(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909163000 +0200" stop="20200909175500 +0200" channel="Film Komedi">
+    <title lang="sq">Ngrohësit e stolave</title>
+    <desc lang="sq">2006. Rob Shneider, David Spade, Joe Heder. Ata dikur ishin tre dështakë që askush s'i respektonte, derisa një ditë vendosën të mbanin qëndrim, të merrnin hak, në mbrojtje të çunakëve të rinj si vetja.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909175500 +0200" stop="20200909193000 +0200" channel="Film Komedi">
+    <title lang="sq">Miq si ne</title>
+    <desc lang="sq">Pio D'Antini, Amedeo Grieco, Alessandra Mastronardi. Dy miq të ngushtë dhe ortak ne biznes, vendosin të lënë të shkuarën pas krahëve dhe të nisin një jetë të re, në një qytet të madh.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909193000 +0200" stop="20200909211500 +0200" channel="Film Komedi">
+    <title lang="sq">Gjahtari i shpërblimeve</title>
+    <desc lang="sq">Jennifer Aniston, Gerard Butler. I punësuar për të gjetur ish gruan e tij, e cila po i shmanget drejtësisë, një gjahtar shpërblimesh zbulon se edhe ai duhet të marrë arratinë bashkë me të.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">aksion</category>
+  </programme>
+  <programme start="20200909211500 +0200" stop="20200909225000 +0200" channel="Film Komedi">
+    <title lang="sq">Kur u takuam</title>
+    <desc lang="sq">Tre vjet pasi vajza e tij e ëndrrave e drejton nga zona e miqësisë, Noah fiton një mundësi të papritur për të udhëtuar në kohë dhe për të ndrequr çfarë mund të ketë shkuar keq në takimin e tyre të parë.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">romancë</category>
+  </programme>
+  <programme start="20200909225000 +0200" stop="20200910004000 +0200" channel="Film Komedi">
+    <title lang="sq">Embëlsi Amerikane 4</title>
+    <desc lang="sq">Jason Biggs, Alyson Hannigan, Seann William Scott. Xhim, Mishel, Stifler dhe miqtë e tyre do të mblidhen përsëri për të festuar së bashku 10 vjetorin e diplomimit. Një mundësi e artë për t'u argëtuar si dikur...(n)</desc>
+    <category lang="sq">Përsëri së bashku</category>
+  </programme>
+  <programme start="20200910004000 +0200" stop="20200910022000 +0200" channel="Film Komedi">
+    <title lang="sq">Dita e rëndësishme</title>
+    <desc lang="sq">Lizzy Caplan. Pasi i dashuri i bën një propozim publik dhe të nxituar, Sara vendos të ndahet. Por një lidhje e re dhe e papritur do ta detyrojë atë të rishqyrtojë dobësitë e saj dhe frikën ndaj angazhimeve serioze.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">romancë</category>
+  </programme>
+  <programme start="20200910022000 +0200" stop="20200910040000 +0200" channel="Film Komedi">
+    <title lang="sq">Shkolla e Shën Trinianit</title>
+    <desc lang="sq">R.Everett. Shën Triniani, shkolla e famshme për anarkinë dhe vajzat e saj të pakontrollueshme do të mbyllet. Por, vajzat s'janë dakort me këtë perspektivë të zymtë. Ato kanë një plan: të grabisin pikturën e famshme Vajza me vëth perle.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200910040000 +0200" stop="20200910053500 +0200" channel="Film Komedi">
+    <title lang="sq">Po sikur</title>
+    <desc lang="sq">Daniel Radcliffe, Zoe Kazan. I zhgënjyer nga romanca të dështuara, një djalë njihet me një vajzë, me të cilën miqësohet menjëherë. Edhe pse ajo jeton me të dashurin, të dy e kuptojnë se s'mund t'i shamngen tërheqjes ndaj njëri-tjetrit.(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200910053500 +0200" stop="20200910072000 +0200" channel="Film Komedi">
+    <title lang="sq">Ëndrra amerikane</title>
+    <desc lang="sq">Dennis Quaid, Mandy Moore. Emocionet e garës muzikore 'Ëndrra amerikane', kanë përfshirë gjithë vendin, madje edhe presidentin. Por askush s'e ka kuptuar se në finale kanë arritur dy njerëz, secili me një sekret shumë të madh.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">muzikë</category>
+  </programme>
+  <programme start="20200910072000 +0200" stop="20200910090500 +0200" channel="Film Komedi">
+    <title lang="sq">Shkolla e maskarenjve</title>
+    <desc lang="sq">Billy Bob Thornton, Jon Heder, Jacinda Barrett. Për ta ndihmuar që të bëjë për vete vajzën e ëndrrave, një i ri i pafat në çdo gjë që bën, regjistrohet në një kurs vetëbesimi. Problemi është se dhe profesori i tij pëlqen të njëjtën vajzë.(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200910090500 +0200" stop="20200910105000 +0200" channel="Film Komedi">
+    <title lang="sq">Natë e çmendur në Manhatan</title>
+    <desc lang="sq">Steve Carell, Tina Fey. Për çiftin Foster, duhet të ishte një darkë romantike, në restorantin më të bukur të Nju Jorkut. Por një keqkuptim identitetesh, do ta kthejë në natën më të rrezikshme, mes mafiozësh dhe kriminelësh...(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200910105000 +0200" stop="20200910123500 +0200" channel="Film Komedi">
+    <title lang="sq">Plani B</title>
+    <desc lang="sq">Jennifer Lopez, Alex O'Loughlin. E zhgënjyer nga pritja për njeriun e duhur, një vajzë vendos të bëhet me fëmijë në mënyrë artificiale. Por në ditën e madhe ajo takon njeriun e ëndrrave...(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200910123500 +0200" stop="20200910140500 +0200" channel="Film Komedi">
+    <title lang="sq">Gambit - Vjedhje me stil</title>
+    <desc lang="sq">Colin Firth, Cameron Diaz, Alan Rickman. Një kurator arti, kërkon ndihmën e një bukurosheje nga Teksasi, për t'u hakmarrë kundër shefit të tij që e torturon çdo ditë.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200910140500 +0200" stop="20200910162500 +0200" channel="Film Komedi">
+    <title lang="sq">Seksi dhe qyteti</title>
+    <desc lang="sq">Sarah Jessica Parker, Kim Cattrall, Cynthia Nixon, Kristin Davis. Katër shoqet e pandara të qytetit që nuk fle kurrë, vijnë me filmin e tyre të parë pas përfundimit të serialit me një sukses të jashtëzakonshëm.(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200910162500 +0200" stop="20200910175500 +0200" channel="Film Komedi">
+    <title lang="sq">Dashuria dhe martesa</title>
+    <desc lang="sq">Mandy Moore, Kellan Lutz. Këndvështrimet perfekte të një këshilluese çiftesh, e cila sapo është martuar dhe vetë ndryshojnë, kur prindërit e saj divorcohen pas 30 vitesh së bashku...(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200910175500 +0200" stop="20200910193000 +0200" channel="Film Komedi">
+    <title lang="sq">Bota mbi komò</title>
+    <desc lang="sq">Aldo, Giovanni dhe Giacomo, në një tjetër komedi të papërsëritshme. Këtë herë ata do të na sjellin aventurat në kohë të një njeriu dhe dy dishepujve të tij...(n)</desc>
+    <category lang="sq">Aldo</category>
+    <category lang="sq">Giovanni e Giacomo</category>
+  </programme>
+  <programme start="20200910193000 +0200" stop="20200910211000 +0200" channel="Film Komedi">
+    <title lang="sq">Keanu</title>
+    <desc lang="sq">Jordan Peele, Keegan-Michael Key. Për të rimarrë një mace që është vjedhur nga një bandë kriminale, dy kushërinj planifikojnë të shtiren si dy gangsterë të regjur.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909014000 +0200" stop="20200909034000 +0200" channel="Film Hits">
+    <title lang="sq">Në kërkim të arit</title>
+    <desc lang="sq">Matthew McConaughey, Edgar Ramírez. Një njeri i dëshpëruar për të ringritur biznesin e  mineraleve, bashkë me një gjeolog fillon një mision të rrezikshëm për të gjetur ar në xhunglën e Indonezisë.(n)</desc>
+    <category lang="sq">Thriller</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200909034000 +0200" stop="20200909051500 +0200" channel="Film Hits">
+    <title lang="sq">Kjo bukuri fantastike</title>
+    <desc lang="sq">J. B. Findlay, T. Wilkinson.  Bela jeton në një botë të ndërtuar nga imagjinata e saj, ku mbizotëron bukuria, vetmia dhe një dozë e mirë fiksimi. Fqinji grindavec nuk ia bën jetën e lehtë, por do t'i qëndrojë afër gjatë momenteve të vështira.(n)</desc>
+    <category lang="sq">Dramë romantike</category>
+  </programme>
+  <programme start="20200909051500 +0200" stop="20200909070000 +0200" channel="Film Hits">
+    <title lang="sq">Përbindëshat mbi rrota</title>
+    <desc lang="sq">Lucas Till, Jane Levy. Kur një adoleshent, zulon një krijesë të quajtur Kriç, që ushqehet me karburant dhe i pëlqen shpejtësia, ata fillojnë një aventurë të jashtëzakonshme për ta ribashkuar Kriçin me familjen e tij.(n)</desc>
+    <category lang="sq">Aventurë</category>
+    <category lang="sq">komedi</category>
+  </programme>
+  <programme start="20200909070000 +0200" stop="20200909084000 +0200" channel="Film Hits">
+    <title lang="sq">Klubi i nxitëseve të tifozëve</title>
+    <desc lang="sq">Diane Keaton, Jacki Weaver. Marta zhvendoset në një bashkësi pensionistësh dhe me ndihmën e disa mikeshave të saj të reja krijon klubin e nxitësve të tifozëve, duke dëshmuar se nuk është kurrë vonë për të ndjekur ëndrrat.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909084000 +0200" stop="20200909102500 +0200" channel="Film Hits">
+    <title lang="sq">Kthimi i Benit</title>
+    <desc lang="sq">Julia Roberts, Lucas Hedges. Dashuria pa kushte e një nëne do të sprovohet ndërsa ajo bën gjithçka që mundet për ta mbajtur të birin larg botës së drogës, pasi kthehet në shtëpi nga rehabilitimi.(n)</desc>
+    <category lang="sq">Dramë</category>
+  </programme>
+  <programme start="20200909102500 +0200" stop="20200909120000 +0200" channel="Film Hits">
+    <title lang="sq">Everesti, jeti i vogël</title>
+    <desc lang="sq">Kur adoleshentja Yi zbulon një Jeti të ri në çatinë e banesës së saj në Shanghai, ajo dhe dy miqtë e saj trazovaçë nisin një aventurë emocionuese për të bashkuar krijesën magjike me familjen e tij, në pikën më të lartë të Tokës.(n)</desc>
+    <category lang="sq">Vizatimor</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200909120000 +0200" stop="20200909135000 +0200" channel="Film Hits">
+    <title lang="sq">Gjeostuhia</title>
+    <desc lang="sq">Gerard Butler. Kur rrjeti i satelitëve, ideuar për të kontrolluar klimën globale, nis të sulmojë tokën, krijuesit e tij duhet të zbulojne arsyen e vërtetë të kërcënimit, para se sistemi të shkatërroje planetin...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">Fantashkence</category>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909135000 +0200" stop="20200909153500 +0200" channel="Film Hits">
+    <title lang="sq">Libri i Xhunglës</title>
+    <desc lang="sq">Një riprodhim i arrirë i historisë së djaloshit Mogli, të rritur nga një tufë ujqërish. I kërcënuar nga një tigër, Mogli detyrohet të largohet nga shtëpia dhe kafshët që e rrethojnë dhe fillon një udhëtim të jashtëzakonshëm vetëzbulues.(n)</desc>
+    <category lang="sq">Aventurë/Familjar</category>
+  </programme>
+  <programme start="20200909153500 +0200" stop="20200909171500 +0200" channel="Film Hits">
+    <title lang="sq">Di ta ruash sekretin?</title>
+    <desc lang="sq">Një vajzë e re i rrefen sekretet e saj një të panjohuri në avion, por me vonë kupton se personi që njeh të fshehtat e saj më të sikletshme është CEO i kompanisë ku ajo punon.(n)</desc>
+    <category lang="sq">Komedi romantike</category>
+  </programme>
+  <programme start="20200909171500 +0200" stop="20200909190000 +0200" channel="Film Hits">
+    <title lang="sq">Dhuntia e dashurisë</title>
+    <desc lang="sq">Chris Evans, Mckenna Grace. Një njeri që po rrit i vetëm mbesën, një gjeni në matematikë, fillon një betejë të ashpër ligjore me nënën e tij për kujdestarinë e vogëlushes.(n)</desc>
+    <category lang="sq">Dramë</category>
+  </programme>
+  <programme start="20200909190000 +0200" stop="20200909202000 +0200" channel="Film Hits">
+    <title lang="sq">Kapiten Sabertuthi dhe diamant</title>
+  </programme>
+  <programme start="20200909202000 +0200" stop="20200909223500 +0200" channel="Film Hits">
+    <title lang="sq">Spiunia</title>
+    <desc lang="sq">Melissa McCarthy, Jason Statham. Një analiste e CIA-s, e cila s'ka marrë kurrë pjesë në aksion, del vullnetare për t'u futur me një mision të fshehtë në një organizatë kriminale dhe për të ndalur një katastrofë globale.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">komedi</category>
+  </programme>
+  <programme start="20200909223500 +0200" stop="20200910002000 +0200" channel="Film Hits">
+    <title lang="sq">Mumja</title>
+    <desc lang="sq">Tom Cruise, Annabelle Wallis. Një princeshë egjiptiane e lashtë, zgjohet nga varri i saj në shkretëtirë dhe lëshon mbi tokë ligësinë e mbledhur për mijëra vite e terrore që nuk mund të imagjinohen.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+    <category lang="sq">fantazi</category>
+  </programme>
+  <programme start="20200910002000 +0200" stop="20200910021000 +0200" channel="Film Hits">
+    <title lang="sq">Anabela 3: Rikthimi</title>
+    <desc lang="sq">Vera Farmiga, Patrick Wilson. Pasi mbyllet mbrapa një xhami të shenjtë në dhomën e objekteve të ndaluara të familjes Warren, Anabela zgjon shpirtrat e lig në dhomë, të cilët e kthejnë shikimin nga vajza e Warrens dhe shoqet e saj.(n)</desc>
+    <category lang="sq">Horror</category>
+  </programme>
+  <programme start="20200910021000 +0200" stop="20200910040500 +0200" channel="Film Hits">
+    <title lang="sq">Gernika: Historia e një masakr</title>
+    <desc lang="sq">Bazuar në fakte historike. Spanjë, viti 1937: Një gazetar amerikan dhe një oficere e censurës së medias, formojnë një aleancë sekrete në ditët para bombardimit të fshatit Gernika, që ishte edhe pikënisja e Luftës së Dytë Botërore.(n)</desc>
+    <category lang="sq">Romancë</category>
+    <category lang="sq">luftë</category>
+  </programme>
+  <programme start="20200910040500 +0200" stop="20200910060000 +0200" channel="Film Hits">
+    <title lang="sq">Qytete letre</title>
+    <desc lang="sq">Nat Wolff, Cara Delevingne. Bazuar në 'best-seller-in' nga John Green, autori i 'The fault in our stars'. Pasi kalon një natë të cmendur me vajzën që ka vite që ëndërron, Quentin, vihet në kërkim të saj sepse ajo zhduket pa lënë gjurmë.(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">mister</category>
+  </programme>
+  <programme start="20200910060000 +0200" stop="20200910080500 +0200" channel="Film Hits">
+    <title lang="sq">Përgjithmonë miq</title>
+    <desc lang="sq">Bryan Cranston, Kevin Hart, Nicole Kidman. Bazuar në histori të vërtetë. Miqësia e pazakontë mes një tetraplegjiku të pasur dhe një ish të burgusori të liruar me kusht, të cilin ai e punëson për t'u kujdesur për të.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">dramë</category>
+  </programme>
+  <programme start="20200910080500 +0200" stop="20200910093500 +0200" channel="Film Hits">
+    <title lang="sq">Grinçi</title>
+    <desc lang="sq">Benedict Cumberbatch, Pharrell Williams. Grinçi është një zemërak cinik i cili i vë mision vetes të vjedhë Krishtlindjen, por gjithçka ndryshon kur një vajzë e vogël me shpirt bujar i rrëmben zemrën...(n)</desc>
+    <category lang="sq">Vizatimor</category>
+    <category lang="sq">komedi</category>
+  </programme>
+  <programme start="20200910093500 +0200" stop="20200910111500 +0200" channel="Film Hits">
+    <title lang="sq">Si macja në autostradë</title>
+    <desc lang="sq">Paola Cortellesi, Antonio Albanese. Një pasanik dhe një grua e zakonshme, janë të detyruar të bashkëpunojnë, për shkak të fëmijëve që kanë rënë në dashuri.(n)</desc>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200910111500 +0200" stop="20200910125500 +0200" channel="Film Hits">
+    <title lang="sq">Fajkoi prej gjalpë kikiriku</title>
+    <desc lang="sq">Shia LaBeouf, Dakota Johnson. Një histori moderne e stilit të Mark Tuejnit. Një i ri me sindromën Daun arratiset për realizuar ëndrrën e tij. Një kthesë e çuditshme ngjarjesh e takon atë më një tjetër të arratisur, që bëhet një aleat i pazakontë.(n)</desc>
+    <category lang="sq">Komedi</category>
+    <category lang="sq">dramë</category>
+  </programme>
+  <programme start="20200910125500 +0200" stop="20200910144000 +0200" channel="Film Hits">
+    <title lang="sq">Mamatë e këqija 2</title>
+    <desc lang="sq">Mila Kunis, Kristen Bell, Kathryn Hahn. Ndërkohë që mamatë e tyre i vizitojnë papritur, 3 mama të reja, të nënvlerësuara dhe të mbingarkuara, vendosin të rebelohen ndaj sfidës tradicionale se 'kush bën Krishtlindjen më të bukur'.(n)</desc>
+    <category lang="sq">Aventurë/Komedi</category>
+  </programme>
+  <programme start="20200910144000 +0200" stop="20200910165000 +0200" channel="Film Hits">
+    <title lang="sq">E bukura dhe Bisha</title>
+    <desc lang="sq">Historia dhe karakteret aq shumë të dashur nga të gjithë, vijnë në një riprodhim të mrekullushëm nga Disney, me Emma Watson në rolin e bukuroshes dhe Dan Stevens në rolin e bishës.(n)</desc>
+    <category lang="sq">Fantazi</category>
+    <category lang="sq">romancë</category>
+    <category lang="sq">muzikë</category>
+  </programme>
+  <programme start="20200910165000 +0200" stop="20200910190000 +0200" channel="Film Hits">
+    <title lang="sq">Kështjella prej xhami</title>
+    <desc lang="sq">Fituesja e çmimit Oskar Brie Larson, Woody Harrelson. Bazuar në jetëshkrimin bestseller të Jeannette Walls, vjen një kronikë e aventurave të një familjeje aspak normale, por që kanë për njr -tj një dashuri pa kushte..(n)</desc>
+    <category lang="sq">Biografi</category>
+    <category lang="sq">dramë</category>
+  </programme>
+  <programme start="20200910190000 +0200" stop="20200910210500 +0200" channel="Film Hits">
+    <title lang="sq">Krid 2</title>
+    <desc lang="sq">Michael B. Jordan, Sylvester Stallone, Dolph Lundgren. Nën drejtimin e Roki Balboas, Adonis Krid rikthehet për t'u ndeshur me Viktor Dragon, të birin e burrit që i vrau të atin në ring.(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">Sport</category>
+  </programme>
+  <programme start="20200910210500 +0200" stop="20200910225500 +0200" channel="Film Hits">
+    <title lang="sq">Kriminelë me klas</title>
+    <desc lang="sq">Matthew McConaughey, Charlie Hunnam, Colin Farrell, Hugh Grant. Një amerikan i pasur synon 'të dalë në pension' duke shitur perandorinë e tij të marjuhanës në Londër.(n)</desc>
+    <category lang="sq">Krim</category>
+    <category lang="sq">komedi</category>
+  </programme>
+  <programme start="20200909001000 +0200" stop="20200909013000 +0200" channel="Film Thriller">
+    <title lang="sq">Viral</title>
+    <desc lang="sq">Sofia Black-D'Elia, Analeigh Tipton. Të shkëputura nga babai i tyre, dy adoleshente përpiqen t'i bëjnë ballë një sëmundjeje virale të tmerrshme ndërkohë që ndodhen në karantinë.(n)</desc>
+    <category lang="sq">Fantashkencë</category>
+    <category lang="sq">horror</category>
+  </programme>
+  <programme start="20200909013000 +0200" stop="20200909030500 +0200" channel="Film Thriller">
+    <title lang="sq">Keri</title>
+    <desc lang="sq">Chloe Grace Moretz, Julianne Moore. Bazuar në romanin e Stephen King. Pasi tallet nga të gjithë në mbrëmjen e maturës, Keri një vajzë adoleshente e përbuzur nga shoqëria vendos të terrorizojë qytezën e saj përmes aftësive telekinetike...(n)</desc>
+    <category lang="sq">Horror</category>
+  </programme>
+  <programme start="20200909030500 +0200" stop="20200909044000 +0200" channel="Film Thriller">
+    <title lang="sq">Dritarja e fshehtë</title>
+    <desc lang="sq">Pas ndarjes me të shoqen, shkrimtari i famshëm Mort Rainey, përballet papritur, në shtëpinë e tij të vetmuar buzë liqenit me një te panjohur të rrezikshëm. Quhet John Shooter dhe pretendon se Ranye i ka kopjuar tregimin e tij.(n)</desc>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909044000 +0200" stop="20200909063500 +0200" channel="Film Thriller">
+    <title lang="sq">Mbërritja</title>
+    <desc lang="sq">C.Sheen. Një astronom i cili degjonte ne radio sinjale nga hapesira, nje nate has disa zhurma te çuditshme. Ne kerkim te nje shpjegimi, zbulon nje fakt te tmerrshem-Toka eshte nen shenjestren e pushtuesve jashtetokesore.(n)</desc>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909063500 +0200" stop="20200909082000 +0200" channel="Film Thriller">
+    <title lang="sq">Teza e vrasjes</title>
+    <desc lang="sq">Ricardo Darín. Një pedagog i juridikut dyshon se studenti i tij është autor i një krimi makabër. I vendosur për të zbuluar të vërtetën, ai nis një hetim personal që kthehet në obsesion. E vërteta po afron, por me çfarë çmimi?(n)</desc>
+    <category lang="sq">Thriller</category>
+    <category lang="sq">mister</category>
+  </programme>
+  <programme start="20200909082000 +0200" stop="20200909095000 +0200" channel="Film Thriller">
+    <title lang="sq">Doktori gjerman</title>
+    <desc lang="sq">Bazuar në historinë e vërtetë të një familjeje argjentinase, e cila në vitet 1960, pa e ditur strehoi një nga doktorët gjermanë më të kërkuar për krimet e tij në Aushvitz...(n)</desc>
+    <category lang="sq">Thriller</category>
+    <category lang="sq">histori</category>
+  </programme>
+  <programme start="20200909095000 +0200" stop="20200909111000 +0200" channel="Film Thriller">
+    <title lang="sq">Kati i shtatë</title>
+    <desc lang="sq">Ricardo Darín. Në avokat i suksesshëm në Buenos Aires nis një kërkim të dëshpëruar për të gjetur fëmijet e tij, të cilët zhduken ndërsa zbresin shkallët nga apartamenti i tyre në katin e shtatë.(n)</desc>
+    <category lang="sq">Thriller</category>
+    <category lang="sq">mister</category>
+  </programme>
+  <programme start="20200909111000 +0200" stop="20200909130000 +0200" channel="Film Thriller">
+    <title lang="sq">Pushteti suprem</title>
+    <desc lang="sq">2014. Frymëzuar nga ngjarje të vërteta. Pasi nje neo-nazist i sapo liruar me kusht merr peng një familje afro-ameikanësh, babai përdor të kaluarën e tyre të ngjashme për ta bindur atë që të mos vrasë familjen e tij.(n)</desc>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909130000 +0200" stop="20200909143000 +0200" channel="Film Thriller">
+    <title lang="sq">Histori e vërtetë</title>
+    <desc lang="sq">Jonah Hill, James Franco. Kur ish-gazetari i "New York Times", Majkëll Finkel i pushuar nga puna për mashtrim, takohet me vrasësin Kristian Longo, hetimi i tij për të zbuluar të vërtetën kthehet në një lojë të rrezikshme.(n)</desc>
+    <category lang="sq">Thriller</category>
+    <category lang="sq">mister</category>
+  </programme>
+  <programme start="20200909143000 +0200" stop="20200909160500 +0200" channel="Film Thriller">
+    <title lang="sq">Vjedhje ne Valencia</title>
+    <desc lang="sq">Një grup grabitësish ekspertë sulmojnë një bankë për të vjedhur vetëm një kuti sigurie. Pasi plani i arratisjes dështon, grabitësit, policia, politikanët, bankierët përpiqen të gjithë të zotërojnë kutinë e sigurisë. Cilët janë hajdutët?(n)</desc>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909160500 +0200" stop="20200909174500 +0200" channel="Film Thriller">
+    <title lang="sq">Mamaja</title>
+    <desc lang="sq">Anabel (Jessica Chastain) përpiqet të integrojë në një jetë normale, 2 mbesat e të dashurit të saj, te cilat ishin zhdukur për 5 vjet, në një pyll... Por sa më shumë kalon koha, aq më shumë ajo kupton, se ato nuk janë të vetme...(n)</desc>
+    <category lang="sq">Horror</category>
+  </programme>
+  <programme start="20200909174500 +0200" stop="20200909191000 +0200" channel="Film Thriller">
+    <title lang="sq">Vendi i vrasjeve</title>
+    <desc lang="sq">Një çift i ri niset për një udhëtim romantik në fundjavë. Kur mbërrijnë dhe zbulojnë një kamping të braktisur, shqetësohen. Kur aty pranë gjejnë një fëmijë të trembur, frikësohen, dhe kur hasin 2 persona të çuditshëm, nisin të vrapojnë.(n)</desc>
+    <category lang="sq">Thriller</category>
+    <category lang="sq">horror</category>
+  </programme>
+  <programme start="20200909191000 +0200" stop="20200909205000 +0200" channel="Film Thriller">
+    <title lang="sq">Sulm për mbijetesë</title>
+    <desc lang="sq">2011. Një skuadër e forcave speciale, ngarkohet me misionin për të vënë nën kontroll një ndërtesë në një lagje të rrezikshme. Por ajo që ata s'dinë është se ndërtesa kontrollohet nga një kriminel i pashpirt dhe aty i pret një masakër e vërtetë.(n)</desc>
+    <category lang="sq">Krim</category>
+    <category lang="sq">aksion</category>
+  </programme>
+  <programme start="20200909205000 +0200" stop="20200909221500 +0200" channel="Film Thriller">
+    <title lang="sq">Shkretëtira</title>
+    <desc lang="sq">2015. Gael Garcia Bernal, Jeffrey Dean Morgan. Pëpjekja për një jetë më të mirë, kthehet në një betejë për jetë a vdekje për një grup njerëzish që përndiqen nga një njeri i çmendur në kufirin mes Meksikës dhe Amerikës.(n)</desc>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909221500 +0200" stop="20200910000500 +0200" channel="Film Thriller">
+    <title lang="sq">Miss Bala</title>
+    <desc lang="sq">Ëndrra e Laura Guerrero-s për të marrë pjesë në konkursin e bukurisë "Miss Baja" shkatërrohet kur ajo merret peng gjatë një përleshjeje në një klub nate, dhe detyrohet të punojë për një grup të pamëshirshëm trafikantësh droge.(n)</desc>
+    <category lang="sq">Thriller</category>
+  </programme>
+  <programme start="20200909005500 +0200" stop="20200909024500 +0200" channel="Film Drame">
+    <title lang="sq">50/50</title>
+    <desc lang="sq">Joseph Gordon-Levitt, Seth Rogen. Bazuar në historinë e vërtetë të një djali 27-vjecar, i cili diagnostikohet me kancer të avancuar dhe e luftës se tij për të mbijetuar.(n)</desc>
+    <category lang="sq">Biorafi</category>
+    <category lang="sq">dramë</category>
+  </programme>
+  <programme start="20200909024500 +0200" stop="20200909053500 +0200" channel="Film Drame">
+    <title lang="sq">Në dashuri me time shoqe</title>
+    <desc lang="sq">Shah Rukh Khan, Anushka Sharma. Fitues i 3 çmimeve kinematografike dhe kandidat për 7 të tjerë. I martuar me një grua, e cila nuk e dashuron, një bashkëshort i ri vendos të shndërrohet në një tjetër njeri për të fituar zemrën e saj.(n)</desc>
+    <category lang="sq">Një histori Indie</category>
+  </programme>
+  <programme start="20200909053500 +0200" stop="20200909073500 +0200" channel="Film Drame">
+    <title lang="sq">Shpura</title>
+    <desc lang="sq">Tommy L.Jones, H.Swank. Një besimtare e përkushtuar, caktohet nga kisha te transportojë në një vend të sigurt 3 gra. Por kur kupton se udhëtimi do të jetë i pamundur, ajo shpëton nga vdekja një të jashtëligjshëm dhe kërkon ndihmën e tij...(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">western</category>
+  </programme>
+  <programme start="20200909073500 +0200" stop="20200909092000 +0200" channel="Film Drame">
+    <title lang="sq">Një dhurues për Xhekun</title>
+    <desc lang="sq">Jacinda Barrett, Richard Roxburgh, Tom Russell. Një grua përpiqet t'i bëjë ballë sëmundjes së të birit dhe tradhtisë së të shoqit, por takimi i rastësishëm me një marinar dhe djalin e tij, do t'i japë një drejtim krejt tjetër jetës së saj.(n)</desc>
+    <category lang="sq">Dramë</category>
+  </programme>
+  <programme start="20200909092000 +0200" stop="20200909111000 +0200" channel="Film Drame">
+    <title lang="sq">Refren i ri</title>
+    <desc lang="sq">Keira Knightley, Mark Ruffalo. Një takim i rastësishëm mes nje agjenti të papunë muzikantësh dhe një kantautoreje të re, kthehet në bashkëpunim premtues falë talenteve të të dyve. Kandidat për çmimin Oskar, 2015.(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">muzikë</category>
+  </programme>
+  <programme start="20200909111000 +0200" stop="20200909125000 +0200" channel="Film Drame">
+    <title lang="sq">Pa kushte</title>
+    <desc lang="sq">Frymëzuar nga ngjarje e vërtetë. Jeta idilike e një gruaje shkatërrohet kur bashkëshorti vritet nga një akt dhune i pakuptimtë. Ndërsa përgatitet të vendosë vetë drejtësi, dy takime të papritura do t'ia ndryshojnë sërish jetën.(n)</desc>
+    <category lang="sq">Dramë</category>
+  </programme>
+  <programme start="20200909125000 +0200" stop="20200909143000 +0200" channel="Film Drame">
+    <title lang="sq">Shkruar dashuri në krahët e sa</title>
+    <desc lang="sq">Kat Dennings, Chad M.Murray. Bazuar ne një histori të vërtetë, që filloi një lëvizje globale! Një vajzë adoleshente e varur nga droga gjen forcën të futet në rrugën e rikuperimit edhe krijon një fondacion që ka ndihmuar mijëra njerëz...(n)</desc>
+    <category lang="sq">Biografi</category>
+    <category lang="sq">dramë</category>
+  </programme>
+  <programme start="20200909143000 +0200" stop="20200909163000 +0200" channel="Film Drame">
+    <title lang="sq">Madamë Malori dhe shefi indian</title>
+    <desc lang="sq">Helen Mirren. Familja Kadam largohet nga India drejt Francës ku çelin një restorant 100 hapa larg atij të Madamë Malori. Ajo shpall luftë midis tyre, deri kur njihet me talentin e Hasanit si shef, dhe vendos ta marrë nën kujdesin e saj.(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">Komedi</category>
+  </programme>
+  <programme start="20200909163000 +0200" stop="20200909180000 +0200" channel="Film Drame">
+    <title lang="sq">Matematika e dashurisë</title>
+    <desc lang="sq">Jessica Alba, Chris Messina. Mona, një vajzë e vetmuar i ka kushtuar gjithë fëmijërinë, pasionit më të madh: matematikës. Tashmë 20 vjeçe, ajo e gjen veten duke dhënë mësim matematike në fillore dhe ende duke u arratisur nga dashuria.(n)</desc>
+    <category lang="sq">Dramë familjare</category>
+  </programme>
+  <programme start="20200909180000 +0200" stop="20200909200000 +0200" channel="Film Drame">
+    <title lang="sq">Fama</title>
+    <desc lang="sq">Prodhim i vitit 2009. Një riprodhim i filmit kult me të njëjtin titull të viteve 80-të. Një grup të rinjsh në një shkollë arti, përjetojnë gjithçka që sjell jeta, ndërkohë që përpiqen të arrijnë majat e suksesit.(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">muzikë</category>
+  </programme>
+  <programme start="20200909200000 +0200" stop="20200909213000 +0200" channel="Film Drame">
+    <title lang="sq">Dhuruesi</title>
+    <desc lang="sq">Brenton Thwaites, Jeff Bridges, Meryl Streep. Në një botë pa luftra, pa vuajtje, pa emocione, një djalë i ri përzgjidhet që të mësojë nga 'Dhuruesi' se cfarë është kënaqësia dhe dhimbja e 'botës së vërtetë'...(n)</desc>
+    <category lang="sq">Drame</category>
+    <category lang="sq">Fantashkencë</category>
+  </programme>
+  <programme start="20200909213000 +0200" stop="20200909230000 +0200" channel="Film Drame">
+    <title lang="sq">I paprekshmi Dru Peterson</title>
+    <desc lang="sq">Rob Lowe, Kaley Cuoco. Bazuar në historinë e vërtetë të oficerit të policisë Dru Peterson, i cili pas zhdukjes së gruas së tij të katërt, bëhet i dyshuari kryesor në rastin e saj dhe në vdekjen 'aksidentale' të gruas së tretë...(n)</desc>
+    <category lang="sq">Dramë</category>
+  </programme>
+  <programme start="20200909230000 +0200" stop="20200910005000 +0200" channel="Film Drame">
+    <title lang="sq">Qëndro me mua</title>
+    <desc lang="sq">Emir është një menaxher i pashëm, i pasur, i cili ka vështirësi të krijojë raporte me njerëzit. Jeta e tij ndryshon kur ai takon Zeynep, këngëtaren më të patalentuar në botë, dhe të dy, pa e kuptuar, nisin të ndihmojnë njëri-tjetrin...(n)</desc>
+    <category lang="sq">Dramë</category>
+    <category lang="sq">romancë</category>
+  </programme>
+  <programme start="20200909004000 +0200" stop="20200909023000 +0200" channel="Film Aksion">
+    <title lang="sq">Të dënuar</title>
+    <desc lang="sq">S.Austin. Xhek Konrad po pret ekzekutimin kapital. Ai 'blihet' nga një producent TV pasanik dhe çohet në një ishull ku duhet të ndeshet deri në vdekje kundër 9 vrasësve te tjerë edhe ata të dënuar me vdekje. Atij që fiton do t'i falet jeta.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200909023000 +0200" stop="20200909035500 +0200" channel="Film Aksion">
+    <title lang="sq">Agonia e një vrasësi</title>
+    <desc lang="sq">J.Statham. Vrasësi i famshëm me pagesë Çev Çelios rikthehet, dhe kësaj here do të vihet në ndjekje të mafiozit kinez që i ka vjedhur zemrën e tij dhe ia ka zëvendësuar me një zemër artificiale që kërkon vazhdimisht doza të larta elektriciteti...(n)</desc>
+    <category lang="sq">Voltazh i lartë</category>
+  </programme>
+  <programme start="20200909035500 +0200" stop="20200909052000 +0200" channel="Film Aksion">
+    <title lang="sq">Efekti Eko</title>
+    <desc lang="sq">Michael Jai White, Max Ryan, Steve Austin. Pasi kthehet nga lufta dhe gjen vëllain e tij të vrarë, një ushtar vihet në kërkim të fajtorëve dhe zbulon një konspiracion në rangjet më të larta të qeverisë.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200909052000 +0200" stop="20200909065500 +0200" channel="Film Aksion">
+    <title lang="sq">Prapa vijës së armikut: Kolumb</title>
+    <desc lang="sq">Prodhim i vitit 2009: Tre marinsa janë të mbijetuarit e fundit nga një mision që shkon keq. Tani ata duhet të luftojnë me çdo mënyrë për të shpëtuar shokun e tyre të rrëmbyer dhe të provojnë pafajsinë për një krim që nuk e kanë kryer.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200909065500 +0200" stop="20200909084000 +0200" channel="Film Aksion">
+    <title lang="sq">Kodi i nderit</title>
+    <desc lang="sq">2016. Steven Seagal, Craig Sheffer. Një agjent i FBI-së, vihet në kërkim të mësuesit të tij, një kolonel që është betuar të eliminojë i vetëm çdo kriminel të qytetit.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200909084000 +0200" stop="20200909103500 +0200" channel="Film Aksion">
+    <title lang="sq">Tomb Raider 2-Djepi i jetes</title>
+    <desc lang="sq">Angelina Jolie, Gerard Butler, Ciaran Hinds. Aventurierja Lara Croft, me ndihmën e një ish marinsi, përpiqet të gjejë kutinë e Pandorës, përpara se ta gjejë një shkncëtar keqbërës, që kërkon dominimin e botës..(n)</desc>
+    <category lang="sq">Action Superheroes</category>
+  </programme>
+  <programme start="20200909103500 +0200" stop="20200909123000 +0200" channel="Film Aksion">
+    <title lang="sq">Murgu që zbriste nga mali</title>
+    <desc lang="sq">Pasi dëbohet nga tempulli ku jetonte, një murg i ri përdor aftësite e tij në arte marciale për të mbijetuar në botën e jashtme dhe pasi i perfeksionon përmes një libri sekretesh, detyrohet të përfshihet në një betejë të rrezikshme.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">arte marciale</category>
+  </programme>
+  <programme start="20200909123000 +0200" stop="20200909140000 +0200" channel="Film Aksion">
+    <title lang="sq">Arrati dhe çmenduri</title>
+    <desc lang="sq">E.Hawke, S.Gomez. Ish piloti i garave me makina, Brent Magna e gjen veten në një gare kundër kohës, për të shpëtuar gruan e tij të rrëmbyer. Me një makinë super të shpejtë, Brent duhet të bëjë gjithçka që i thotë një zë i panjohur...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200909140000 +0200" stop="20200909153000 +0200" channel="Film Aksion">
+    <title lang="sq">Kickboxer: Hakmarrja</title>
+    <desc lang="sq">Alain Moussi, Jean-Claude Van Damme. Pasi vëllai i tij vritet në një dyluftim artesh marciale nga i pamëshirshmi Tong Po, Kurt Sloun betohet për hakmarrje dhe udhëton drejt Tajlandës për t'u stërvitur nga një mjeshtër i pazakontë.(n)</desc>
+    <category lang="sq">Arte marciale</category>
+  </programme>
+  <programme start="20200909153000 +0200" stop="20200909170500 +0200" channel="Film Aksion">
+    <title lang="sq">I talentuari</title>
+    <desc lang="sq">Caleb Steinmeyer, Zulay Henao. I rritur në rrugët e Nju Jork-ut, një djalosh që në vogëli ishte dëshmitar i vrasjes brutale të së ëmës, fillon të kërkojë fajtorët për t'u hakmarrë me të njëjtën mënyrë...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200909170500 +0200" stop="20200909190000 +0200" channel="Film Aksion">
+    <title lang="sq">Plan arratie</title>
+    <desc lang="sq">Sylvester Stallone, Arnold Schwarzenegger, Jim Caviezel, Curtis '50 Cent' Jackson. Kur nje ekspert i sigurisë në burgje, futet në kurth dhe burgoset në një ndërtesë thuajse të pathyeshme, aftësitë e tij vihen në provën më të madhe...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200909190000 +0200" stop="20200909212500 +0200" channel="Film Aksion">
+    <title lang="sq">Hakmarrësit 3: Lufta e Pafundë</title>
+    <desc lang="sq">2018. R. Downey Jr., C. Hemsworth, C. Evans, S. Johansson. Superheronjtë bashkojnë forcat për të ndalur tiranin mbarëgalaktik Thanos, i cili synon të mbledhë 6 gurët e pafundësisë, për të imponuar vullnetin e tij në të gjitha realitetet.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantashkencë</category>
+  </programme>
+  <programme start="20200909212500 +0200" stop="20200910004500 +0200" channel="Film Aksion">
+    <title lang="sq">Rrëmbimi 2</title>
+    <desc lang="sq">Liam Neeson. Ish agjenti i C.I.A-s  Brajan Mills do të përdorë të gjithë taktikat e tij unike kur ai dhe gruaja e tij, rrëmbehen nga babai i njerit prej shqiptarëve që ai eleminoi vite më parë...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200910004500 +0200" stop="20200910022000 +0200" channel="Film Aksion">
+    <title lang="sq">Të dënuar 2</title>
+    <desc lang="sq">Randy Orton, Eric Roberts. Një ish gjuetar shpërblimesh e gjen veten pjesë të lojës vdekjeprurëse, ku të dënuar të ndryshëm vihen përballë njëri-tjetrit në një luftë për mbijetesë që transmetohet drejtpërdrejt në internet...(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200910022000 +0200" stop="20200910035000 +0200" channel="Film Aksion">
+    <title lang="sq">Banditët amerikane</title>
+    <desc lang="sq">C.Farrell. Kur mësojne se një ndërtues i korruptuar hekurudhash ka vendosur të shkaterroje shtëpitë e fermat e tyre, një grup kaubojsash do të bashkohen për t'u hakmarre. Do të formojne një bande dhe fama e tyre do të marre dhene.(n)</desc>
+    <category lang="sq">Western</category>
+    <category lang="sq">aksion</category>
+  </programme>
+  <programme start="20200910035000 +0200" stop="20200910053000 +0200" channel="Film Aksion">
+    <title lang="sq">Montana</title>
+    <desc lang="sq">2014. Lars Mikkelsen, Duane Henry. Një ish-komando dhe nxënësi i tij 14 vjeçar, planifikojnë të hakmarren kundër një krimineli të rrezikshëm.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200910053000 +0200" stop="20200910064500 +0200" channel="Film Aksion">
+    <title lang="sq">Prapa vijës së armikut</title>
+    <desc lang="sq">2019. Fundi i Luftës II Botërore. Dy ushtarë të aleancës bllokohen prapa vijës së armikut nazist dhe duhet të gjejnë një menyre për t'u kthyer në shtëpi, pavarësisht tundimit për të pranuar humbjen.(n)</desc>
+    <category lang="sq">Luftë</category>
+    <category lang="sq">aksion</category>
+  </programme>
+  <programme start="20200910064500 +0200" stop="20200910090000 +0200" channel="Film Aksion">
+    <title lang="sq">Maska e Zorros</title>
+    <desc lang="sq">Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones. Luftëtari legjendar e i maskuar Zorro, do të stërvitë një djalosh të ri për të çliruar njëherë e përgjithmonë Kaliforninë nga një biznesmen shpirtkeq.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200910090000 +0200" stop="20200910110000 +0200" channel="Film Aksion">
+    <title lang="sq">Zodiaku kinez</title>
+    <desc lang="sq">Jackie Chan, Oliver Platt. Një gjuetar thesaresh dhe skuadra e tij fillojnë një aventurë ndërkombëtare në kërkim të një koke bornzi, që është një nga 12 shenjat e zodiakut kinez.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200910110000 +0200" stop="20200910123500 +0200" channel="Film Aksion">
+    <title lang="sq">Grabitja e Nju Jorkut</title>
+    <desc lang="sq">Bazuar në një histori të vërtetë! Nje roje sigurie (Liam Hemsworth) dhe miku i tij i fëmijërisë Pal (Michael Angarano) bëjë plane për të vjedhur një makinë të blinduar...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">dramë</category>
+  </programme>
+  <programme start="20200910123500 +0200" stop="20200910140000 +0200" channel="Film Aksion">
+    <title lang="sq">Pranë armikut</title>
+    <desc lang="sq">Jean-Claude Van Damme. Thellë në kufirin Kanada - ShBA, dy armiq të betuar duhet të bashkojnë forcat për t'i shpëtuar një bande të pamëshirshme, të cilët po kërkojnë ngarkesën e drogës që është zhdukur pranë asaj zone.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200910140000 +0200" stop="20200910155000 +0200" channel="Film Aksion">
+    <title lang="sq">Kickboxer shpagimi</title>
+    <desc lang="sq">Alain Moussi, Jean-Claude Van Damme, Mike Tyson. Premtimi se ai nuk do të kthehet më të luftojë në Tajlandë, ndërpritet kur Kërt rrëmbehet dhe dërgohet në një burg tajlandez. Atje do të ndeshet me një kundërshtar që nuk njeh humbje.(n)</desc>
+    <category lang="sq">Arte marciale</category>
+  </programme>
+  <programme start="20200910155000 +0200" stop="20200910173000 +0200" channel="Film Aksion">
+    <title lang="sq">Toka e krimit</title>
+    <desc lang="sq">Matt Dillon, Willem Dafoe, Neal McDonough. Pasi arreston një vrasës me pagesë, një detektiv i Luizianës, përpiqet ta bindë që të bashkëpunojë me drejtësinë për të vënë përpara ligjit organizatën kriminale më të madhe të jugut.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200910173000 +0200" stop="20200910190000 +0200" channel="Film Aksion">
+    <title lang="sq">Koordinatori</title>
+    <desc lang="sq">2016. Grushti i shtetit ndaj një Presidentit të ri të Evropës Lindore, aktivizon një agjent të fshehtë amerikan të luftojë kundër një udhëheqësi ushtarak, që kërkon të rrëzojë demokracinë e sapovendosur.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200910190000 +0200" stop="20200910205000 +0200" channel="Film Aksion">
+    <title lang="sq">Gangsteri, polici dhe Djalli</title>
+    <desc lang="sq">Bazuar në histori të vërtetë. Jetët e një vrasësi serial, një gangsteri dhe një polici në Korenë e Jugut, ndërthuren dhunshëm kur gangsteri i shpëton sulmit të hidhur të vrasësit dhe bashkëpunon me policin për tu hakmarrë.(n)</desc>
+    <category lang="sq">Kinemaja aziatike</category>
+  </programme>
+  <programme start="20200910205000 +0200" stop="20200910222000 +0200" channel="Film Aksion">
+    <title lang="sq">Përtej ligjit</title>
+    <desc lang="sq">2019. Steven Seagal. Kur një ish polic mëson për vdekjen e te birit në stil ekzekutimi, ai rikthehet rrugëve të errëta të qytetit. I armatosur, i rrezikshëm dhe me asgjë për të humbur, ai kërkon hakmarrje.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200910222000 +0200" stop="20200911000500 +0200" channel="Film Aksion">
+    <title lang="sq">Engjëjt e Carlit 2</title>
+    <desc lang="sq">Treshja e mrekullueshme Cameron Diaz, Drew Barrymore dhe Lucy Liu rikthehet! Mjeshtret edhe kesaj radhe do te jene armike te betuara te krimit e padrejtesise.(n)</desc>
+    <category lang="sq">Aventure</category>
+    <category lang="sq">aksion</category>
+  </programme>
+  <programme start="20200911000500 +0200" stop="20200911051000 +0200" channel="Film Aksion">
+    <title lang="sq">Banketi</title>
+    <desc lang="sq">Një kryqëzim i kryeveprës Shekspiriane, Hamlet dhe filmit 'Të vras Billin'. Të gjithë pjestarët e oborrit mbretëror, kanë plane djallëzore për përfitime personale, të cilat përpiqen t'i realizojnë në një banket madhështor...(n)</desc>
+    <category lang="sq">Kinemaja Aziatike</category>
+  </programme>
+  <programme start="20200911051000 +0200" stop="20200911064000 +0200" channel="Film Aksion">
+    <title lang="sq">Forcat Elitë-Shiu i prillit</title>
+    <desc lang="sq">Luke Goss, Ryan Guzman. Terroristë brenda Amerikës, kanë planifikuar sulme të shumta dhe fati i mijëra njerëzve është në duart e një skuadre speciale, që duhet të ndalë rrezikun përpara se të jetë shumë vonë.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantazi</category>
+  </programme>
+  <programme start="20200911064000 +0200" stop="20200911084500 +0200" channel="Film Aksion">
+    <title lang="sq">Legjenda e Zorros</title>
+    <desc lang="sq">Antonio Banderas, Catherine Zeta-Jones. Luftëtari legjendar e i maskuar Zorro dhe gruaja e tij bukuroshe, kësaj here i kundërvihen një konti, që kërkon të ndalë pavarësinë e Kalifornisë.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200911084500 +0200" stop="20200911101000 +0200" channel="Film Aksion">
+    <title lang="sq">Kërcyesi</title>
+    <desc lang="sq">Kërcyesit janë qenie që jetojne me njerezit në botën moderne, por aftesia e tyre per te kercyer nga një cep në cepin tjeter të globit, s'pranohet nga paladinet, mbrojtesit fanatike te fese qe kane nisur prej shekujsh fushaten e shfarosjes se tyre.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200911101000 +0200" stop="20200911121000 +0200" channel="Film Aksion">
+    <title lang="sq">Paqeruajtësi</title>
+    <desc lang="sq">G.Clooney, N.Kidman. Një kolonel i ushtrisë Amerikane dhe një grua civile nën mbikqyrje të tij duhet të shtien në dorë një sasi armësh bërthamore ruse të vjedhura përpara se të përdoren nga një grup i rrezikshëm terroristesh.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200911121000 +0200" stop="20200911135500 +0200" channel="Film Aksion">
+    <title lang="sq">MI 5 Identitet i dyfishtë</title>
+    <desc lang="sq">Kit Harington, Peter Firth. Kur një terrorist i rrezikshëm arrin të arratiset, një ish agjent bashkon forcat me shefin e çnderuar të shërbimit sekret MI-5, për të ndalur një sulm vdekjeprurës në Londër.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200911135500 +0200" stop="20200911154500 +0200" channel="Film Aksion">
+    <title lang="sq">Lufta e Engjëjve</title>
+    <desc lang="sq">Një vajzë e re, mbyllet ne një spital psikiatrik nga njerku i saj abuzues, i cili ka rregulluar që asaj t'i kryhet një procedurë e tmerrshme. Për të përballuar të ardhmen, ajo krijon një botë imagjinare, ku planifikon arratisjen...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantazi</category>
+  </programme>
+  <programme start="20200911154500 +0200" stop="20200911171000 +0200" channel="Film Aksion">
+    <title lang="sq">Rënia e njerëzimit</title>
+    <desc lang="sq">Lee Pace, Bérénice Marlohe. Në Afrikë dhe me gjithë botën thuajse të shkatërruar nga një pushtim alien, një ushtar amerikan dhe një punonjës social francez, bashkojnë forcat për të bërë të pamundurën që të mbijetojnë.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantashkencë</category>
+  </programme>
+  <programme start="20200911171000 +0200" stop="20200911190000 +0200" channel="Film Aksion">
+    <title lang="sq">Liga Kung Fu</title>
+    <desc lang="sq">2018. Kur shefi i tij josh vajzën që ai dashuron, një i ri i ndrojtur kërkon ndihmën e mjeshtrave legjendarë të Kung Fu-së që ta përgatisnin për turneun e arteve marciale, dhe bashkë me fitoren, ai të rrëmbejë zemrën e vajzës së ëndrrave.(n)</desc>
+    <category lang="sq">Kinemaja aziatike</category>
+  </programme>
+  <programme start="20200911190000 +0200" stop="20200911205000 +0200" channel="Film Aksion">
+    <title lang="sq">Hana</title>
+    <desc lang="sq">Saoirse Ronan, Eric Bana, Cate Blanchett. Një adoleshente e stërvitur nga babai për të qenë një vrasëse e përsosur, zbulon një sekret të së kaluarës që mund të vendosë gjithçka në dilemë, madje edhe ekzistencën e saj.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">mister</category>
+  </programme>
+  <programme start="20200911205000 +0200" stop="20200911225000 +0200" channel="Film Aksion">
+    <title lang="sq">Në zemër të detit</title>
+    <desc lang="sq">2015. Chris Hemsworth, Cillian Murphy. Një ritregim i mbytjes së anijes Eseks nga një balenë gjigante në vitin 1820, që frymëzoi shkrimin e romanit Mobi Dik...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200911225000 +0200" stop="20200912004500 +0200" channel="Film Aksion">
+    <title lang="sq">Serenity</title>
+    <desc lang="sq">Në bordin e anijes kozmike Serenity hipin 2 pasagjerë të panjohur; një doktor dhe motra e tij telepatike, në dijeni të disa të fshehtave që askush s'duhej t'i zbulonte. Nga ai çast për ekuipazhin nis një betejë e egër mbijetese.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantashkence</category>
+  </programme>
+  <programme start="20200912004500 +0200" stop="20200912022000 +0200" channel="Film Aksion">
+    <title lang="sq">Lista e vrasjeve</title>
+    <desc lang="sq">Cuba Gooding Jr. Një biznesmen, rastësisht njihet me një vrasës profesionist. Duke menduar se gjithçka është një lojë, ai krijon një listë me 5 njerëzit që do të donte të eliminonte. Por një ditë, emrat e listës fillojnë të zhduken...(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200912022000 +0200" stop="20200912043000 +0200" channel="Film Aksion">
+    <title lang="sq">Lufta e yjeve I</title>
+    <desc lang="sq">Dy kalores Xhedaj duhet të ndihmojnë mbretëreshën Padme' të shpëtojë mbreterine e saj nga disa tregtare te pangopur. Ndërkohe ata do të zbulojne një djalë të vogel i cili sipas profecise mund te behet nje xhedaj i fuqishem.(n)</desc>
+    <category lang="sq">Kërcënimi i fantazmës</category>
+  </programme>
+  <programme start="20200912043000 +0200" stop="20200912061500 +0200" channel="Film Aksion">
+    <title lang="sq">Shqiponja</title>
+    <desc lang="sq">Channing Tatum, Jamie Bell. Një ushtar romak i shoqëruar nga skllavi i tij, fillon një mision të rrezikshëm në territorin armik për të zbuluar të vërtetën e zhdukjes së legjionit të babait dhe për të gjetur simbolin e humbur. Shqiponjën.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200912061500 +0200" stop="20200912074000 +0200" channel="Film Aksion">
+    <title lang="sq">Plan i blinduar</title>
+    <desc lang="sq">Columbus Short, Matt Dillon, Laurence Fishburne. Një ekip rojesh kamionësh te blinduar që transportojnë para, tentojnë të vjedhin kompaninë ku punojnë. Por shumë shpejt plani i tyre në dukje i pagabueshëm merr një kthesë vdekjeprurëse.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200912074000 +0200" stop="20200912091500 +0200" channel="Film Aksion">
+    <title lang="sq">Elektra</title>
+    <desc lang="sq">J.Garner. Elektra dërgohet në një mision për të vrarë një baba të ve dhe vajzën e tij. Ajo miqësohet me ta dhe i mbron nga ninxhat e vrasës të tjerë. Njerëzit që po mbron fshehin një sekret të cilin ajo do ta mësojë më vonë.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200912091500 +0200" stop="20200912110000 +0200" channel="Film Aksion">
+    <title lang="sq">Musketieri</title>
+    <desc lang="sq">J.Chambers. Ne Parisin e shek. të 17, D'Artanjani e gjen veten përballë forcave të errëta që duan të marrin Francën nën kontroll. Ai kërkon të hakmerret për vrasjen e prindërve të tij. Zemra e tij zbutet vetëm nga një vajze e re fshatare.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200912110000 +0200" stop="20200912123500 +0200" channel="Film Aksion">
+    <title lang="sq">Korrieri i krisur</title>
+    <desc lang="sq">Taylor Lautner, Marie Avgeropoulos. I kërkuar nga mafia kineze, një korrier njujorkez me biçikletë, zhduket nëpër çatitë e tarracat e qytetit pasi takon një bukuroshe të panjohur.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200912123500 +0200" stop="20200912150000 +0200" channel="Film Aksion">
+    <title lang="sq">Hakmarrësit 3: Lufta e Pafundë</title>
+    <desc lang="sq">2018. R. Downey Jr., C. Hemsworth, C. Evans, S. Johansson. Superheronjtë bashkojnë forcat për të ndalur tiranin mbarëgalaktik Thanos, i cili synon të mbledhë 6 gurët e pafundësisë, për të imponuar vullnetin e tij në të gjitha realitetet.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantashkencë</category>
+  </programme>
+  <programme start="20200912150000 +0200" stop="20200912171000 +0200" channel="Film Aksion">
+    <title lang="sq">Maska e hekurt</title>
+    <desc lang="sq">Leonardo DiCaprio, Jeremy Irons, John Malkovich. Një përshtatje e klasikut të Aleksander Dyma. Aventura më e rrezikshme e Musketierëve, ka të bëjë çlirimin e një të burgosuri misterioz mbi fytyren e të cilit rëndon një maskë e hekurt.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+  </programme>
+  <programme start="20200912171000 +0200" stop="20200912190000 +0200" channel="Film Aksion">
+    <title lang="sq">Identitet i humbur</title>
+    <desc lang="sq">Taylor Lautner, Alfred Molina. Pasi sheh veten në një faqe interneti per njerëzit e humbur, një adoleshent zbulon, se jeta e tij ka qënë një mashtrim. Ai vendos të arratiset dhe fillon të hetojë mbi të kaluarën e tij të mistershme...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">mister</category>
+  </programme>
+  <programme start="20200912190000 +0200" stop="20200912210000 +0200" channel="Film Aksion">
+    <title lang="sq">Më të mirët</title>
+    <desc lang="sq">Liam Neeson, Bradley Cooper. Kater ish ushtarë të forcave speciale  akuzohen padrejtësisht për një krim.  Për të provuar pafajsinë, ata duhet të përdorin aftësitë e  tyre, për të zbuluar kush fshihet pas planit që kërkon t'i eliminojë.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200912210000 +0200" stop="20200912225000 +0200" channel="Film Aksion">
+    <title lang="sq">Vrasësi Amerikan</title>
+    <desc lang="sq">Dylan O'Brien, Michael Keaton. Një veteran i 'Luftës së Ftohtë' dhe një agjent i ri i CIA-s të cilin ai po e mëson, përpiqen të ndalin planet e një njeriu që kërkon të fillojë një lufte botërore.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200912225000 +0200" stop="20200913004000 +0200" channel="Film Aksion">
+    <title lang="sq">Njeriu i Aksidenteve</title>
+    <desc lang="sq">Një vrasës gjakftohtë I njohur si "Njeriu u aksidenteve" shquhet per metodat e tij të përpikta, duke u njohur si më të mirin në treg. Jeta e tij ndryshon rrënjësisht kur nje person i dashur vritet nga ekipi i tij dhe ai vendos të hakmerret.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200913004000 +0200" stop="20200913024000 +0200" channel="Film Aksion">
+    <title lang="sq">Stealth</title>
+    <desc lang="sq">Regjia:Rob Cohen Aktoret:J.Lucas, J.Biel. Tre pilotët më të mirë në bordin e një mjeti fluturues të drejtuar nga inteligjenca artificiale. Diçka shkon keq, por ata urdhërohen të nisen për të tjera misione mbi bordin e mjetit të rrezikshëm.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">fantashkencë</category>
+  </programme>
+  <programme start="20200913024000 +0200" stop="20200913044000 +0200" channel="Film Aksion">
+    <title lang="sq">Qyteti i ndaluar</title>
+    <desc lang="sq">Gjatë periudhës së vonë të dinastisë Tang, në Kinën e shekulllit të dhjetë, në vigjilie të festimeve të Chong Yang, perandori Ping kthehet papritur në shtëpi së bashku me djalin e tij të dytë Jai, për të kaluar festat në gjirin e familjes.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200913044000 +0200" stop="20200913062500 +0200" channel="Film Aksion">
+    <title lang="sq">Njësia e heronjve</title>
+    <desc lang="sq">Në fund të Luftës II Botërore, disa ushtarë amerikanë zbulojnë se Hitleri po zhvillon një super bombë dhe se shkencëtari nazist që e ka krijuar, kërkon të dezertojë. Kundër çdo mundësie, ata nisin 1 mision të rrezikshëm për ta ndihmuar.(n)</desc>
+    <category lang="sq">Aksion/Luftë</category>
+  </programme>
+  <programme start="20200913062500 +0200" stop="20200913075500 +0200" channel="Film Aksion">
+    <title lang="sq">Distancë e afërt</title>
+    <desc lang="sq">Scott Adkins, Nick Chinlund. Në përpjekje për të mbrojtur motrën dhe mbesën e tij, një njeri vihet i vetëm përballë një sherifi të korruptuar dhe një karteli droge.(n)</desc>
+    <category lang="sq">Aksion</category>
+  </programme>
+  <programme start="20200913075500 +0200" stop="20200913095000 +0200" channel="Film Aksion">
+    <title lang="sq">Gjuetarët e thesareve</title>
+    <desc lang="sq">Një ushtar që po punon në malet e mbuluar me borë të Mongloisë, gjen fosile kafshësh gjigante në një shpellë. Zbulimi do të ndryshojë jetën e tij dhe historinë e gjithë botës.(n)</desc>
+    <category lang="sq">Kinemaja Aziatike</category>
+  </programme>
+  <programme start="20200913095000 +0200" stop="20200913113000 +0200" channel="Film Aksion">
+    <title lang="sq">Pas perëndimit</title>
+    <desc lang="sq">Pierce Brosnan, Salma Hayek, Woody Harrelson. Grabitësi Max Burdet dhe e dashura, kanë vendosur të dalin në pension në një ishull përrallor. Por agjenti që s'u ndahet në asnjë hap Stan Lloyd, beson se kjo është thjesht puna e radhës.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200913113000 +0200" stop="20200913132000 +0200" channel="Film Aksion">
+    <title lang="sq">Gangsteri, polici dhe Djalli</title>
+    <desc lang="sq">Bazuar në histori të vërtetë. Jetët e një vrasësi serial, një gangsteri dhe një polici në Korenë e Jugut, ndërthuren dhunshëm kur gangsteri i shpëton sulmit të hidhur të vrasësit dhe bashkëpunon me policin për tu hakmarrë.(n)</desc>
+    <category lang="sq">Kinemaja aziatike</category>
+  </programme>
+  <programme start="20200913132000 +0200" stop="20200913151000 +0200" channel="Film Aksion">
+    <title lang="sq">Luftëtari i rrugës</title>
+    <desc lang="sq">2009.Channing Tatum, Terrence Howard. Një i ri në Nju Jork, i cili mbijeton duke shitur në rrugë, njihet me një njeri që do ta fusë në botën fitimprurëse dhe të rrezikshme të arteve marciale.(n)</desc>
+    <category lang="sq">Arte marciale</category>
+  </programme>
+  <programme start="20200913151000 +0200" stop="20200913172000 +0200" channel="Film Aksion">
+    <title lang="sq">Shpejtësi pa kufi</title>
+    <desc lang="sq">Një garues ilegal, i sapodalë nga burgu ku e futi ish ortaku i pasur, hyn ne një garë me qëllim hakmarrjen. Pasi e mëson këtë gjë, ish ortaku vendos një çmim të madh për kokën e tij ndërkohë që ka nisur gara.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
+  </programme>
+  <programme start="20200913172000 +0200" stop="20200913190000 +0200" channel="Film Aksion">
+    <title lang="sq">Vrasësi: Agjenti 47</title>
+    <desc lang="sq">Rupert Friend, Hannah Ware. Bazuar ne videolojën mjaft të skuksesshme. Një vrasës i krijuar gjenetikisht për të qenë perfekt, bashkohet me një vajzë për t'i gjetur babain dhe për të zbuluar misterin e prejardhjes së saj.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">thriller</category>
+  </programme>
+  <programme start="20200913190000 +0200" stop="20200913212500 +0200" channel="Film Aksion">
+    <title lang="sq">Rojtari Vetmitar</title>
+    <desc lang="sq">Johnny Depp. Tonto, një indian i Amerikës ritregon historitë e panjohura, qe e shndërruan Xhon Ridin, nga një njeri i ligjit në një legjendë të drejtësisë. Dy e heronjtë, duhet të bashkojnë forcat në luftë kundër korrupsionit...(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">aventurë</category>
+    <category lang="sq">western</category>
+  </programme>
+  <programme start="20200913212500 +0200" stop="20200914011500 +0200" channel="Film Aksion">
+    <title lang="sq">Ndëshkuesi</title>
+    <desc lang="sq">Th. Jane, J. Travolta. Një agjent i fshehtë ka vendosur të lër pas profesionin e lodhshëm dhe të jetojë një jetë të qetë pranë familjes. Kur gruaja dhe djali i vriten, ai rilind nën petkun e 'Ndëshkuesit' dhe nis një hakmarrje personale.(n)</desc>
+    <category lang="sq">Aksion</category>
+    <category lang="sq">krim</category>
   </programme>
 </tv>
